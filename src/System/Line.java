@@ -1,14 +1,12 @@
 package System;
 
-import java.io.Serializable;
-
 import dataStructures.*;
 import exceptions.ImpossibleRouteException;
 import exceptions.InvalidScheduleException;
 import exceptions.NonexistentScheduleException;
 import exceptions.NonexistentStationException;
 
-public interface Line extends Comparable<Line>, Serializable {
+public interface Line extends SafeLine {
 
     String getName();
 

@@ -48,7 +48,6 @@ public class Main {
     private static final String NONEXISTING_STATION = "Estação inexistente.";
 
     public static void main(String[] args) {
-        
         Scanner in = new Scanner(System.in);
         RailwaySystem sys = load();
         exec(in, sys);

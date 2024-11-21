@@ -49,6 +49,7 @@ public class StationClass implements Station {
         return lines.iterator();
     }
 
+    // Não está certo, tem que ser por ordem de hora de partida!
     @Override
     public Iterator<Entry<String, Time>> consultTrains() {
         return trains.iterator();
