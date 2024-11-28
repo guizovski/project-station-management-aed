@@ -10,12 +10,12 @@ public class RailwaySystemClass implements RailwaySystem {
     @Serial
     private static final long serialVersionUID = 0L;
 
-    protected SepChainHashTable<String, Line> lines;
-    protected SepChainHashTable<String, Station> stations;
+    protected OrderedDoubleList<String, Line> lines;
+    protected OrderedDoubleList<String, Station> stations;
 
     public RailwaySystemClass() {
-        lines = new SepChainHashTable<String, Line>();
-        stations = new SepChainHashTable<String, Station>();
+        lines = new OrderedDoubleList<String, Line>();
+        stations = new OrderedDoubleList<String, Station>();
     }
 
     @Override
@@ -121,7 +121,7 @@ public class RailwaySystemClass implements RailwaySystem {
     }
 
     @Override
-    public Iterator<Entry<String, Time>> stationTrains(String name) throws NonexistentStationException {
+    public Iterator<Entry<TimeTrainPair, Time>> stationTrains(String name) throws NonexistentStationException {
         if(!existsStation(name))
             throw new NonexistentStationException();
 

@@ -6,7 +6,9 @@ import exceptions.InvalidScheduleException;
 import exceptions.NonexistentScheduleException;
 import exceptions.NonexistentStationException;
 
-public interface Line extends SafeLine {
+import java.io.Serializable;
+
+public interface Line extends Comparable<Line>, Serializable {
 
     String getName();
 

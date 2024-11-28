@@ -35,35 +35,8 @@ public class LineClass implements Line {
         if(!isDepartingStation(scheduleStations.getFirst()))
             throw new InvalidScheduleException();
 
-        Iterator<Station> stationsIt = scheduleStations.iterator();
-        Iterator<Time> timesIt = scheduleTimes.iterator();
+        int stationsValidated = validateSchedule(scheduleStations, scheduleTimes);
 
-        int currentPos = 0;
-        int stationsValidated = 0;
-
-        while(stationsIt.hasNext()) {
-            Station station = stationsIt.next();
-            Time time = timesIt.next();
-
-            if(scheduleStations.getFirst().equals(this.stations.getFirst())) {
-                while(currentPos < this.stations.size() && !station.equals(this.stations.get(currentPos)))
-                    currentPos++;
-                if(currentPos == this.stations.size())
-                    throw new InvalidScheduleException();
-            }
-            else {
-                currentPos = this.stations.size() - 1;
-                while(currentPos >= 0 && !station.equals(this.stations.get(currentPos)))
-                    currentPos--;
-                if(currentPos == -1)
-                    throw new InvalidScheduleException();
-            }
-
-            if(stationsValidated > 0 && !scheduleTimes.get(stationsValidated - 1).hasTravelTime(time))
-                throw new InvalidScheduleException();
-
-            stationsValidated++;
-        }
         Schedule schedule = new ScheduleClass();
         schedule.addTrain(train);
         int counter = 0;
@@ -169,6 +142,90 @@ public class LineClass implements Line {
     @Override
     public boolean existsStation(Station station) {
         return stations.find(station) != -1;
+    }
+
+    private int validateSchedule(DoubleList<Station> scheduleStations, DoubleList<Time> scheduleTimes)
+            throws InvalidScheduleException {
+
+        int currentPos = (scheduleStations.getFirst().equals(this.stations.getFirst())) ? 0 : this.stations.size() - 1;
+        int stationsValidated = 0;
+
+        Iterator<Station> stationsIt = scheduleStations.iterator();
+        Iterator<Time> timesIt = scheduleTimes.iterator();
+
+        while(stationsIt.hasNext()) {
+            Station station = stationsIt.next();
+            Time time = timesIt.next();
+
+            if(scheduleStations.getFirst().equals(this.stations.getFirst())) {
+                while(currentPos < this.stations.size() && !station.equals(this.stations.get(currentPos))) currentPos++;
+                if(currentPos == this.stations.size()) throw new InvalidScheduleException();
+            }
+            else {
+                while(currentPos >= 0 && !station.equals(this.stations.get(currentPos))) currentPos--;
+                if(currentPos == -1) throw new InvalidScheduleException();
+            }
+
+            if(stationsValidated > 0 && !scheduleTimes.get(stationsValidated - 1).hasTravelTime(time))
+                throw new InvalidScheduleException();
+
+            if(stationsValidated > 0 && hasOvertake(station, time, scheduleStations.getFirst() ,scheduleTimes.getFirst()))
+                throw new InvalidScheduleException();
+
+            stationsValidated++;
+        }
+        return stationsValidated;
+    }
+
+    private boolean hasOvertake(Station station, Time time, Station departureStation,Time departureTime) {
+        Iterator<Entry<String, Schedule>> it = schedules.iterator();
+        int stationPos = stations.find(station);
+        boolean isForward = stations.getFirst().equals(departureStation); // Check direction
+
+        while(it.hasNext()) {
+            Schedule existingSchedule = it.next().getValue();
+
+            // Only compare schedules going in the same direction
+            if(existingSchedule.getDepartureStation().equals(stations.getFirst()) == isForward) {
+                if(existingSchedule.existsStation(station)) {
+                    // Compare times only if trains pass through the same station
+                    if(existingSchedule.getDepartureTime().compareTo(departureTime) <= 0) {
+                        // Existing train departs earlier
+                        if(existingSchedule.getStationTime(station).compareTo(time) >= 0) {
+                            return true; // Overtake detected
+                        }
+                    }
+                    else {
+                        // Existing train departs later
+                        if(existingSchedule.getStationTime(station).compareTo(time) < 0) {
+                            return true; // Overtake detected
+                        }
+                    }
+                }
+                else {
+                    // Start checking from the station right before our target
+                    for(int pos = stationPos - 1; pos >= 0; pos--) {
+                        Station previousStation = stations.get(pos);
+                        if(existingSchedule.existsStation(previousStation)) {
+                            // Found the most recent previous station in the schedule
+                            if(existingSchedule.getDepartureTime().compareTo(departureTime) < 0) {
+                                // Existing train passes through previous station earlier
+                                if(existingSchedule.getStationTime(previousStation).compareTo(time) >= 0) {
+                                    return true; // Overtake detected
+                                }
+                            } else {
+                                // Existing train passes through previous station later
+                                if(existingSchedule.getStationTime(previousStation).compareTo(time) <= 0) {
+                                    return true; // Overtake detected
+                                }
+                            }
+                            break; // Only need to check the most recent previous station
+                        }
+                    }
+                }
+            }
+        }
+        return false;
     }
 
     @Override

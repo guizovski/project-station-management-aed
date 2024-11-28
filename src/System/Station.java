@@ -13,9 +13,9 @@ public interface Station extends Comparable<Station>, Serializable {
 
     void addTrain(String train, Time time);
 
-    void removeTrain(String train);
+    void removeTrain(int train);
 
-    Iterator<Entry<String, Time>> consultTrains();
+    Iterator<Entry<TimeTrainPair, Time>> consultTrains();
 
     Iterator<Entry<String, Line>> consultLines();
 

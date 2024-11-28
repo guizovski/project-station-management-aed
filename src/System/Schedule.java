@@ -14,7 +14,7 @@ public interface Schedule extends Comparable<Schedule>, Serializable {
 
     Time getDepartureTime();
 
-    String getTrain();
+    int getTrain();
 
     Iterator<Station> getStationIt();
 

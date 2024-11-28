@@ -186,10 +186,10 @@ public class Main {
     private static void stationTrains(Scanner in, RailwaySystem sys) {
         try {
             String stationName = in.nextLine().trim();
-            Iterator<Entry<String, Time>> it = sys.stationTrains(stationName);
+            Iterator<Entry<TimeTrainPair, Time>> it = sys.stationTrains(stationName);
             while(it.hasNext()) {
-                Entry<String, Time> entry = it.next();
-                System.out.printf(TRAIN, entry.getKey(), entry.getValue().getTime());
+                Entry<TimeTrainPair, Time> entry = it.next();
+                System.out.printf(TRAIN, entry.getKey().getTrain(), entry.getValue().getTime());
             }
             } catch(NonexistentStationException e) {
                 System.out.println(NONEXISTING_STATION);

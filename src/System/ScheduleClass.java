@@ -11,7 +11,7 @@ public class ScheduleClass implements Schedule {
 
     protected OrderedDoubleList<Station, Time> schedule;
     protected DoubleList<Station> orderedStations;
-    protected String train;
+    protected int train;
 
     public ScheduleClass() {
         this.schedule = new OrderedDoubleList<Station, Time>();
@@ -20,7 +20,7 @@ public class ScheduleClass implements Schedule {
 
     @Override
     public void addTrain(String train) {
-        this.train = train;
+        this.train = Integer.parseInt(train);
     }
 
     @Override
@@ -40,7 +40,7 @@ public class ScheduleClass implements Schedule {
     }
 
     @Override
-    public String getTrain() {
+    public int getTrain() {
         return train;
     }
 
@@ -62,7 +62,7 @@ public class ScheduleClass implements Schedule {
     @Override
     public void deleteSchedule() {
         Iterator<Station> it = orderedStations.iterator();
-        while(it.hasNext()) {it.next().removeTrain(train);}
+        while(it.hasNext()) it.next().removeTrain(train);
     }
 
     @Override
