@@ -1,26 +1,34 @@
 package System;
 
 import dataStructures.*;
-import exceptions.ImpossibleRouteException;
-import exceptions.InvalidScheduleException;
-import exceptions.NonexistentScheduleException;
-import exceptions.NonexistentStationException;
+import System.exceptions.ImpossibleRouteException;
+import System.exceptions.InvalidScheduleException;
+import System.exceptions.NonexistentScheduleException;
+import System.exceptions.NonexistentStationException;
 
 import java.io.Serial;
 
-public class LineClass implements Line {
+public class LineClass implements Line, SafeLine {
 
     @Serial
-    private static final long serialVersionUID = 0L;
+    static final long serialVersionUID = 0L;
 
+    /** The line's unique name */
     protected String name;
-    protected OrderedDoubleList<String, Schedule> schedules;
-    protected DoubleList<Station> stations;
+    /** Collection of schedules for this line, indexed by train ID */
+    protected OrderedDictionary<String, Schedule> schedules;
+    /** Ordered list of stations along this line */
+    protected List<Station> stations;
 
+    /**
+     * Creates new line with given name and stations
+     * @param name unique name for the line
+     * @param stations ordered list of stations on this line
+     */
     public LineClass(String name, DoubleList<Station> stations) {
         this.name = name;
         this.stations = stations;
-        this.schedules = new OrderedDoubleList<String, Schedule>();
+        this.schedules = new AVLTree<String, Schedule>();
     }
 
     @Override
@@ -32,7 +40,7 @@ public class LineClass implements Line {
     public void insertSchedule(String train, DoubleList<Station> scheduleStations, DoubleList<Time> scheduleTimes)
             throws InvalidScheduleException {
 
-        if(!isDepartingStation(scheduleStations.getFirst()))
+        if(isNotDepartingStation(scheduleStations.getFirst()))
             throw new InvalidScheduleException();
 
         int stationsValidated = validateSchedule(scheduleStations, scheduleTimes);
@@ -43,7 +51,7 @@ public class LineClass implements Line {
 
         while(counter < stationsValidated) {
             schedule.addSchedule(scheduleStations.get(counter), scheduleTimes.get(counter));
-            scheduleStations.get(counter).addTrain(train, scheduleTimes.get(counter) );
+            scheduleStations.get(counter).addTrain(train, scheduleTimes.get(counter), this);
             counter++;
         }
         schedules.insert(train, schedule);
@@ -72,7 +80,7 @@ public class LineClass implements Line {
     @Override
     public Iterator<Entry<Time, Schedule>> consultSchedules(Station station)
             throws NonexistentStationException {
-        if(!isDepartingStation(station))
+        if(isNotDepartingStation(station))
             throw new NonexistentStationException();
 
         Iterator<Entry<String, Schedule>> it = getScheduleIt();
@@ -94,10 +102,10 @@ public class LineClass implements Line {
         Iterator<Entry<String, Schedule>> it = schedules.iterator();
         Schedule bestSchedule = null;
 
-        if(!existsStation(departure))
+        if(isNonexistentStation(departure))
             throw new NonexistentStationException();
 
-        if(!existsStation(destination))
+        if(isNonexistentStation(destination))
             throw new ImpossibleRouteException();
 
         while(it.hasNext()) {
@@ -120,7 +128,7 @@ public class LineClass implements Line {
     }
 
     @Override
-    public DoubleList<Station> getStations() {
+    public List<Station> getStations() {
         return this.stations;
     }
 
@@ -135,15 +143,22 @@ public class LineClass implements Line {
     }
 
     @Override
-    public boolean isDepartingStation(Station station) {
-        return this.stations.getFirst().equals(station) || this.stations.getLast().equals(station);
+    public boolean isNotDepartingStation(Station station) {
+        return !this.stations.getFirst().equals(station) && !this.stations.getLast().equals(station);
     }
 
     @Override
-    public boolean existsStation(Station station) {
-        return stations.find(station) != -1;
+    public boolean isNonexistentStation(Station station) {
+        return stations.find(station) == -1;
     }
 
+    /**
+     * Validates a schedule by checking station order and timing
+     * @param scheduleStations list of stations in the schedule
+     * @param scheduleTimes list of times corresponding to each station
+     * @return number of validated stations
+     * @throws InvalidScheduleException if schedule is invalid
+     */
     private int validateSchedule(DoubleList<Station> scheduleStations, DoubleList<Time> scheduleTimes)
             throws InvalidScheduleException {
 
@@ -177,49 +192,31 @@ public class LineClass implements Line {
         return stationsValidated;
     }
 
+    /**
+     * Checks if there's a train overtake at a given station
+     * @param station station to check for overtake
+     * @param time time at the station
+     * @param departureStation initial station of the schedule
+     * @param departureTime departure time from initial station
+     * @return true if there's an overtake, false otherwise
+     */
     private boolean hasOvertake(Station station, Time time, Station departureStation,Time departureTime) {
         Iterator<Entry<String, Schedule>> it = schedules.iterator();
-        int stationPos = stations.find(station);
-        boolean isForward = stations.getFirst().equals(departureStation); // Check direction
+        boolean isForward = stations.getFirst().equals(departureStation);
 
         while(it.hasNext()) {
             Schedule existingSchedule = it.next().getValue();
 
-            // Only compare schedules going in the same direction
             if(existingSchedule.getDepartureStation().equals(stations.getFirst()) == isForward) {
                 if(existingSchedule.existsStation(station)) {
-                    // Compare times only if trains pass through the same station
                     if(existingSchedule.getDepartureTime().compareTo(departureTime) <= 0) {
-                        // Existing train departs earlier
                         if(existingSchedule.getStationTime(station).compareTo(time) >= 0) {
-                            return true; // Overtake detected
+                            return true;
                         }
                     }
                     else {
-                        // Existing train departs later
-                        if(existingSchedule.getStationTime(station).compareTo(time) < 0) {
-                            return true; // Overtake detected
-                        }
-                    }
-                }
-                else {
-                    // Start checking from the station right before our target
-                    for(int pos = stationPos - 1; pos >= 0; pos--) {
-                        Station previousStation = stations.get(pos);
-                        if(existingSchedule.existsStation(previousStation)) {
-                            // Found the most recent previous station in the schedule
-                            if(existingSchedule.getDepartureTime().compareTo(departureTime) < 0) {
-                                // Existing train passes through previous station earlier
-                                if(existingSchedule.getStationTime(previousStation).compareTo(time) >= 0) {
-                                    return true; // Overtake detected
-                                }
-                            } else {
-                                // Existing train passes through previous station later
-                                if(existingSchedule.getStationTime(previousStation).compareTo(time) <= 0) {
-                                    return true; // Overtake detected
-                                }
-                            }
-                            break; // Only need to check the most recent previous station
+                        if(existingSchedule.getStationTime(station).compareTo(time) <= 0) {
+                            return true;
                         }
                     }
                 }

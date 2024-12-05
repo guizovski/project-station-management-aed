@@ -4,17 +4,23 @@ import dataStructures.*;
 
 import java.io.Serial;
 
-public class ScheduleClass implements Schedule {
+public class ScheduleClass implements Schedule, SafeSchedule {
 
     @Serial
-    private static final long serialVersionUID = 0L;
+    static final long serialVersionUID = 0L;
 
-    protected OrderedDoubleList<Station, Time> schedule;
-    protected DoubleList<Station> orderedStations;
+    /** Maps stations to their times in this schedule */
+    protected OrderedDictionary<Station, Time> schedule;
+    /** Maintains the order of stations in this schedule */
+    protected List<Station> orderedStations;
+    /** Unique identifier for the train running this schedule */
     protected int train;
 
+    /**
+     * Creates a new empty schedule
+     */
     public ScheduleClass() {
-        this.schedule = new OrderedDoubleList<Station, Time>();
+        this.schedule = new AVLTree<Station, Time>();
         this.orderedStations = new DoubleList<Station>();
     }
 
@@ -40,13 +46,18 @@ public class ScheduleClass implements Schedule {
     }
 
     @Override
+    public Time getStationTime(SafeStation station) {
+        return schedule.find((Station) station);
+    }
+
+    @Override
     public int getTrain() {
         return train;
     }
 
     @Override
-    public Iterator<Station> getStationIt() {
-        return orderedStations.iterator();
+    public SafeStationIterator getStationIt() {
+        return new SafeStationIterator(orderedStations.iterator());
     }
 
     @Override

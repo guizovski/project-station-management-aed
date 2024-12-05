@@ -1,0 +1,6459 @@
+101
+sTaTiOn 0 00:07
+sTaTiOn 1 01:08
+sTaTiOn 2 02:09
+sTaTiOn 3 03:10
+sTaTiOn 4 04:11
+102
+sTaTiOn 0 00:09
+sTaTiOn 1 01:10
+sTaTiOn 2 02:11
+sTaTiOn 3 03:12
+sTaTiOn 4 04:13
+103
+sTaTiOn 0 00:11
+sTaTiOn 1 01:12
+sTaTiOn 2 02:13
+sTaTiOn 3 03:14
+sTaTiOn 4 04:15
+104
+sTaTiOn 0 00:13
+sTaTiOn 1 01:14
+sTaTiOn 2 02:15
+sTaTiOn 3 03:16
+sTaTiOn 4 04:17
+105
+sTaTiOn 0 00:15
+sTaTiOn 1 01:16
+sTaTiOn 2 02:17
+sTaTiOn 3 03:18
+sTaTiOn 4 04:19
+106
+sTaTiOn 0 00:17
+sTaTiOn 1 01:18
+sTaTiOn 2 02:19
+sTaTiOn 3 03:20
+sTaTiOn 4 04:21
+107
+sTaTiOn 0 00:19
+sTaTiOn 1 01:20
+sTaTiOn 2 02:21
+sTaTiOn 3 03:22
+sTaTiOn 4 04:23
+108
+sTaTiOn 0 00:21
+sTaTiOn 1 01:22
+sTaTiOn 2 02:23
+sTaTiOn 3 03:24
+sTaTiOn 4 04:25
+109
+sTaTiOn 0 00:23
+sTaTiOn 1 01:24
+sTaTiOn 2 02:25
+sTaTiOn 3 03:26
+sTaTiOn 4 04:27
+110
+sTaTiOn 0 00:25
+sTaTiOn 1 01:26
+sTaTiOn 2 02:27
+sTaTiOn 3 03:28
+sTaTiOn 4 04:29
+111
+sTaTiOn 0 00:27
+sTaTiOn 1 01:28
+sTaTiOn 2 02:29
+sTaTiOn 3 03:30
+sTaTiOn 4 04:31
+112
+sTaTiOn 0 00:29
+sTaTiOn 1 01:30
+sTaTiOn 2 02:31
+sTaTiOn 3 03:32
+sTaTiOn 4 04:33
+113
+sTaTiOn 0 00:31
+sTaTiOn 1 01:32
+sTaTiOn 2 02:33
+sTaTiOn 3 03:34
+sTaTiOn 4 04:35
+114
+sTaTiOn 0 00:33
+sTaTiOn 1 01:34
+sTaTiOn 2 02:35
+sTaTiOn 3 03:36
+sTaTiOn 4 04:37
+115
+sTaTiOn 0 00:35
+sTaTiOn 1 01:36
+sTaTiOn 2 02:37
+sTaTiOn 3 03:38
+sTaTiOn 4 04:39
+116
+sTaTiOn 0 00:37
+sTaTiOn 1 01:38
+sTaTiOn 2 02:39
+sTaTiOn 3 03:40
+sTaTiOn 4 04:41
+117
+sTaTiOn 0 00:39
+sTaTiOn 1 01:40
+sTaTiOn 2 02:41
+sTaTiOn 3 03:42
+sTaTiOn 4 04:43
+118
+sTaTiOn 0 00:41
+sTaTiOn 1 01:42
+sTaTiOn 2 02:43
+sTaTiOn 3 03:44
+sTaTiOn 4 04:45
+119
+sTaTiOn 0 00:43
+sTaTiOn 1 01:44
+sTaTiOn 2 02:45
+sTaTiOn 3 03:46
+sTaTiOn 4 04:47
+120
+sTaTiOn 0 00:45
+sTaTiOn 1 01:46
+sTaTiOn 2 02:47
+sTaTiOn 3 03:48
+sTaTiOn 4 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+11001
+sTaTiOn 4 00:07
+sTaTiOn 3 01:08
+sTaTiOn 2 02:09
+sTaTiOn 1 03:10
+sTaTiOn 0 04:11
+11002
+sTaTiOn 4 00:09
+sTaTiOn 3 01:10
+sTaTiOn 2 02:11
+sTaTiOn 1 03:12
+sTaTiOn 0 04:13
+11003
+sTaTiOn 4 00:11
+sTaTiOn 3 01:12
+sTaTiOn 2 02:13
+sTaTiOn 1 03:14
+sTaTiOn 0 04:15
+11004
+sTaTiOn 4 00:13
+sTaTiOn 3 01:14
+sTaTiOn 2 02:15
+sTaTiOn 1 03:16
+sTaTiOn 0 04:17
+11005
+sTaTiOn 4 00:15
+sTaTiOn 3 01:16
+sTaTiOn 2 02:17
+sTaTiOn 1 03:18
+sTaTiOn 0 04:19
+11006
+sTaTiOn 4 00:17
+sTaTiOn 3 01:18
+sTaTiOn 2 02:19
+sTaTiOn 1 03:20
+sTaTiOn 0 04:21
+11007
+sTaTiOn 4 00:19
+sTaTiOn 3 01:20
+sTaTiOn 2 02:21
+sTaTiOn 1 03:22
+sTaTiOn 0 04:23
+11008
+sTaTiOn 4 00:21
+sTaTiOn 3 01:22
+sTaTiOn 2 02:23
+sTaTiOn 1 03:24
+sTaTiOn 0 04:25
+11009
+sTaTiOn 4 00:23
+sTaTiOn 3 01:24
+sTaTiOn 2 02:25
+sTaTiOn 1 03:26
+sTaTiOn 0 04:27
+11010
+sTaTiOn 4 00:25
+sTaTiOn 3 01:26
+sTaTiOn 2 02:27
+sTaTiOn 1 03:28
+sTaTiOn 0 04:29
+11011
+sTaTiOn 4 00:27
+sTaTiOn 3 01:28
+sTaTiOn 2 02:29
+sTaTiOn 1 03:30
+sTaTiOn 0 04:31
+11012
+sTaTiOn 4 00:29
+sTaTiOn 3 01:30
+sTaTiOn 2 02:31
+sTaTiOn 1 03:32
+sTaTiOn 0 04:33
+11013
+sTaTiOn 4 00:31
+sTaTiOn 3 01:32
+sTaTiOn 2 02:33
+sTaTiOn 1 03:34
+sTaTiOn 0 04:35
+11014
+sTaTiOn 4 00:33
+sTaTiOn 3 01:34
+sTaTiOn 2 02:35
+sTaTiOn 1 03:36
+sTaTiOn 0 04:37
+11015
+sTaTiOn 4 00:35
+sTaTiOn 3 01:36
+sTaTiOn 2 02:37
+sTaTiOn 1 03:38
+sTaTiOn 0 04:39
+11016
+sTaTiOn 4 00:37
+sTaTiOn 3 01:38
+sTaTiOn 2 02:39
+sTaTiOn 1 03:40
+sTaTiOn 0 04:41
+11017
+sTaTiOn 4 00:39
+sTaTiOn 3 01:40
+sTaTiOn 2 02:41
+sTaTiOn 1 03:42
+sTaTiOn 0 04:43
+11018
+sTaTiOn 4 00:41
+sTaTiOn 3 01:42
+sTaTiOn 2 02:43
+sTaTiOn 1 03:44
+sTaTiOn 0 04:45
+11019
+sTaTiOn 4 00:43
+sTaTiOn 3 01:44
+sTaTiOn 2 02:45
+sTaTiOn 1 03:46
+sTaTiOn 0 04:47
+11020
+sTaTiOn 4 00:45
+sTaTiOn 3 01:46
+sTaTiOn 2 02:47
+sTaTiOn 1 03:48
+sTaTiOn 0 04:49
+201
+sTaTiOn 4 00:07
+sTaTiOn 5 01:08
+sTaTiOn 6 02:09
+sTaTiOn 7 03:10
+sTaTiOn 8 04:11
+202
+sTaTiOn 4 00:09
+sTaTiOn 5 01:10
+sTaTiOn 6 02:11
+sTaTiOn 7 03:12
+sTaTiOn 8 04:13
+203
+sTaTiOn 4 00:11
+sTaTiOn 5 01:12
+sTaTiOn 6 02:13
+sTaTiOn 7 03:14
+sTaTiOn 8 04:15
+204
+sTaTiOn 4 00:13
+sTaTiOn 5 01:14
+sTaTiOn 6 02:15
+sTaTiOn 7 03:16
+sTaTiOn 8 04:17
+205
+sTaTiOn 4 00:15
+sTaTiOn 5 01:16
+sTaTiOn 6 02:17
+sTaTiOn 7 03:18
+sTaTiOn 8 04:19
+206
+sTaTiOn 4 00:17
+sTaTiOn 5 01:18
+sTaTiOn 6 02:19
+sTaTiOn 7 03:20
+sTaTiOn 8 04:21
+207
+sTaTiOn 4 00:19
+sTaTiOn 5 01:20
+sTaTiOn 6 02:21
+sTaTiOn 7 03:22
+sTaTiOn 8 04:23
+208
+sTaTiOn 4 00:21
+sTaTiOn 5 01:22
+sTaTiOn 6 02:23
+sTaTiOn 7 03:24
+sTaTiOn 8 04:25
+209
+sTaTiOn 4 00:23
+sTaTiOn 5 01:24
+sTaTiOn 6 02:25
+sTaTiOn 7 03:26
+sTaTiOn 8 04:27
+210
+sTaTiOn 4 00:25
+sTaTiOn 5 01:26
+sTaTiOn 6 02:27
+sTaTiOn 7 03:28
+sTaTiOn 8 04:29
+211
+sTaTiOn 4 00:27
+sTaTiOn 5 01:28
+sTaTiOn 6 02:29
+sTaTiOn 7 03:30
+sTaTiOn 8 04:31
+212
+sTaTiOn 4 00:29
+sTaTiOn 5 01:30
+sTaTiOn 6 02:31
+sTaTiOn 7 03:32
+sTaTiOn 8 04:33
+213
+sTaTiOn 4 00:31
+sTaTiOn 5 01:32
+sTaTiOn 6 02:33
+sTaTiOn 7 03:34
+sTaTiOn 8 04:35
+214
+sTaTiOn 4 00:33
+sTaTiOn 5 01:34
+sTaTiOn 6 02:35
+sTaTiOn 7 03:36
+sTaTiOn 8 04:37
+215
+sTaTiOn 4 00:35
+sTaTiOn 5 01:36
+sTaTiOn 6 02:37
+sTaTiOn 7 03:38
+sTaTiOn 8 04:39
+216
+sTaTiOn 4 00:37
+sTaTiOn 5 01:38
+sTaTiOn 6 02:39
+sTaTiOn 7 03:40
+sTaTiOn 8 04:41
+217
+sTaTiOn 4 00:39
+sTaTiOn 5 01:40
+sTaTiOn 6 02:41
+sTaTiOn 7 03:42
+sTaTiOn 8 04:43
+218
+sTaTiOn 4 00:41
+sTaTiOn 5 01:42
+sTaTiOn 6 02:43
+sTaTiOn 7 03:44
+sTaTiOn 8 04:45
+219
+sTaTiOn 4 00:43
+sTaTiOn 5 01:44
+sTaTiOn 6 02:45
+sTaTiOn 7 03:46
+sTaTiOn 8 04:47
+220
+sTaTiOn 4 00:45
+sTaTiOn 5 01:46
+sTaTiOn 6 02:47
+sTaTiOn 7 03:48
+sTaTiOn 8 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+21001
+sTaTiOn 8 00:07
+sTaTiOn 7 01:08
+sTaTiOn 6 02:09
+sTaTiOn 5 03:10
+sTaTiOn 4 04:11
+21002
+sTaTiOn 8 00:09
+sTaTiOn 7 01:10
+sTaTiOn 6 02:11
+sTaTiOn 5 03:12
+sTaTiOn 4 04:13
+21003
+sTaTiOn 8 00:11
+sTaTiOn 7 01:12
+sTaTiOn 6 02:13
+sTaTiOn 5 03:14
+sTaTiOn 4 04:15
+21004
+sTaTiOn 8 00:13
+sTaTiOn 7 01:14
+sTaTiOn 6 02:15
+sTaTiOn 5 03:16
+sTaTiOn 4 04:17
+21005
+sTaTiOn 8 00:15
+sTaTiOn 7 01:16
+sTaTiOn 6 02:17
+sTaTiOn 5 03:18
+sTaTiOn 4 04:19
+21006
+sTaTiOn 8 00:17
+sTaTiOn 7 01:18
+sTaTiOn 6 02:19
+sTaTiOn 5 03:20
+sTaTiOn 4 04:21
+21007
+sTaTiOn 8 00:19
+sTaTiOn 7 01:20
+sTaTiOn 6 02:21
+sTaTiOn 5 03:22
+sTaTiOn 4 04:23
+21008
+sTaTiOn 8 00:21
+sTaTiOn 7 01:22
+sTaTiOn 6 02:23
+sTaTiOn 5 03:24
+sTaTiOn 4 04:25
+21009
+sTaTiOn 8 00:23
+sTaTiOn 7 01:24
+sTaTiOn 6 02:25
+sTaTiOn 5 03:26
+sTaTiOn 4 04:27
+21010
+sTaTiOn 8 00:25
+sTaTiOn 7 01:26
+sTaTiOn 6 02:27
+sTaTiOn 5 03:28
+sTaTiOn 4 04:29
+21011
+sTaTiOn 8 00:27
+sTaTiOn 7 01:28
+sTaTiOn 6 02:29
+sTaTiOn 5 03:30
+sTaTiOn 4 04:31
+21012
+sTaTiOn 8 00:29
+sTaTiOn 7 01:30
+sTaTiOn 6 02:31
+sTaTiOn 5 03:32
+sTaTiOn 4 04:33
+21013
+sTaTiOn 8 00:31
+sTaTiOn 7 01:32
+sTaTiOn 6 02:33
+sTaTiOn 5 03:34
+sTaTiOn 4 04:35
+21014
+sTaTiOn 8 00:33
+sTaTiOn 7 01:34
+sTaTiOn 6 02:35
+sTaTiOn 5 03:36
+sTaTiOn 4 04:37
+21015
+sTaTiOn 8 00:35
+sTaTiOn 7 01:36
+sTaTiOn 6 02:37
+sTaTiOn 5 03:38
+sTaTiOn 4 04:39
+21016
+sTaTiOn 8 00:37
+sTaTiOn 7 01:38
+sTaTiOn 6 02:39
+sTaTiOn 5 03:40
+sTaTiOn 4 04:41
+21017
+sTaTiOn 8 00:39
+sTaTiOn 7 01:40
+sTaTiOn 6 02:41
+sTaTiOn 5 03:42
+sTaTiOn 4 04:43
+21018
+sTaTiOn 8 00:41
+sTaTiOn 7 01:42
+sTaTiOn 6 02:43
+sTaTiOn 5 03:44
+sTaTiOn 4 04:45
+21019
+sTaTiOn 8 00:43
+sTaTiOn 7 01:44
+sTaTiOn 6 02:45
+sTaTiOn 5 03:46
+sTaTiOn 4 04:47
+21020
+sTaTiOn 8 00:45
+sTaTiOn 7 01:46
+sTaTiOn 6 02:47
+sTaTiOn 5 03:48
+sTaTiOn 4 04:49
+301
+sTaTiOn 8 00:07
+sTaTiOn 9 01:08
+sTaTiOn 10 02:09
+sTaTiOn 11 03:10
+sTaTiOn 12 04:11
+302
+sTaTiOn 8 00:09
+sTaTiOn 9 01:10
+sTaTiOn 10 02:11
+sTaTiOn 11 03:12
+sTaTiOn 12 04:13
+303
+sTaTiOn 8 00:11
+sTaTiOn 9 01:12
+sTaTiOn 10 02:13
+sTaTiOn 11 03:14
+sTaTiOn 12 04:15
+304
+sTaTiOn 8 00:13
+sTaTiOn 9 01:14
+sTaTiOn 10 02:15
+sTaTiOn 11 03:16
+sTaTiOn 12 04:17
+305
+sTaTiOn 8 00:15
+sTaTiOn 9 01:16
+sTaTiOn 10 02:17
+sTaTiOn 11 03:18
+sTaTiOn 12 04:19
+306
+sTaTiOn 8 00:17
+sTaTiOn 9 01:18
+sTaTiOn 10 02:19
+sTaTiOn 11 03:20
+sTaTiOn 12 04:21
+307
+sTaTiOn 8 00:19
+sTaTiOn 9 01:20
+sTaTiOn 10 02:21
+sTaTiOn 11 03:22
+sTaTiOn 12 04:23
+308
+sTaTiOn 8 00:21
+sTaTiOn 9 01:22
+sTaTiOn 10 02:23
+sTaTiOn 11 03:24
+sTaTiOn 12 04:25
+309
+sTaTiOn 8 00:23
+sTaTiOn 9 01:24
+sTaTiOn 10 02:25
+sTaTiOn 11 03:26
+sTaTiOn 12 04:27
+310
+sTaTiOn 8 00:25
+sTaTiOn 9 01:26
+sTaTiOn 10 02:27
+sTaTiOn 11 03:28
+sTaTiOn 12 04:29
+311
+sTaTiOn 8 00:27
+sTaTiOn 9 01:28
+sTaTiOn 10 02:29
+sTaTiOn 11 03:30
+sTaTiOn 12 04:31
+312
+sTaTiOn 8 00:29
+sTaTiOn 9 01:30
+sTaTiOn 10 02:31
+sTaTiOn 11 03:32
+sTaTiOn 12 04:33
+313
+sTaTiOn 8 00:31
+sTaTiOn 9 01:32
+sTaTiOn 10 02:33
+sTaTiOn 11 03:34
+sTaTiOn 12 04:35
+314
+sTaTiOn 8 00:33
+sTaTiOn 9 01:34
+sTaTiOn 10 02:35
+sTaTiOn 11 03:36
+sTaTiOn 12 04:37
+315
+sTaTiOn 8 00:35
+sTaTiOn 9 01:36
+sTaTiOn 10 02:37
+sTaTiOn 11 03:38
+sTaTiOn 12 04:39
+316
+sTaTiOn 8 00:37
+sTaTiOn 9 01:38
+sTaTiOn 10 02:39
+sTaTiOn 11 03:40
+sTaTiOn 12 04:41
+317
+sTaTiOn 8 00:39
+sTaTiOn 9 01:40
+sTaTiOn 10 02:41
+sTaTiOn 11 03:42
+sTaTiOn 12 04:43
+318
+sTaTiOn 8 00:41
+sTaTiOn 9 01:42
+sTaTiOn 10 02:43
+sTaTiOn 11 03:44
+sTaTiOn 12 04:45
+319
+sTaTiOn 8 00:43
+sTaTiOn 9 01:44
+sTaTiOn 10 02:45
+sTaTiOn 11 03:46
+sTaTiOn 12 04:47
+320
+sTaTiOn 8 00:45
+sTaTiOn 9 01:46
+sTaTiOn 10 02:47
+sTaTiOn 11 03:48
+sTaTiOn 12 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+31001
+sTaTiOn 12 00:07
+sTaTiOn 11 01:08
+sTaTiOn 10 02:09
+sTaTiOn 9 03:10
+sTaTiOn 8 04:11
+31002
+sTaTiOn 12 00:09
+sTaTiOn 11 01:10
+sTaTiOn 10 02:11
+sTaTiOn 9 03:12
+sTaTiOn 8 04:13
+31003
+sTaTiOn 12 00:11
+sTaTiOn 11 01:12
+sTaTiOn 10 02:13
+sTaTiOn 9 03:14
+sTaTiOn 8 04:15
+31004
+sTaTiOn 12 00:13
+sTaTiOn 11 01:14
+sTaTiOn 10 02:15
+sTaTiOn 9 03:16
+sTaTiOn 8 04:17
+31005
+sTaTiOn 12 00:15
+sTaTiOn 11 01:16
+sTaTiOn 10 02:17
+sTaTiOn 9 03:18
+sTaTiOn 8 04:19
+31006
+sTaTiOn 12 00:17
+sTaTiOn 11 01:18
+sTaTiOn 10 02:19
+sTaTiOn 9 03:20
+sTaTiOn 8 04:21
+31007
+sTaTiOn 12 00:19
+sTaTiOn 11 01:20
+sTaTiOn 10 02:21
+sTaTiOn 9 03:22
+sTaTiOn 8 04:23
+31008
+sTaTiOn 12 00:21
+sTaTiOn 11 01:22
+sTaTiOn 10 02:23
+sTaTiOn 9 03:24
+sTaTiOn 8 04:25
+31009
+sTaTiOn 12 00:23
+sTaTiOn 11 01:24
+sTaTiOn 10 02:25
+sTaTiOn 9 03:26
+sTaTiOn 8 04:27
+31010
+sTaTiOn 12 00:25
+sTaTiOn 11 01:26
+sTaTiOn 10 02:27
+sTaTiOn 9 03:28
+sTaTiOn 8 04:29
+31011
+sTaTiOn 12 00:27
+sTaTiOn 11 01:28
+sTaTiOn 10 02:29
+sTaTiOn 9 03:30
+sTaTiOn 8 04:31
+31012
+sTaTiOn 12 00:29
+sTaTiOn 11 01:30
+sTaTiOn 10 02:31
+sTaTiOn 9 03:32
+sTaTiOn 8 04:33
+31013
+sTaTiOn 12 00:31
+sTaTiOn 11 01:32
+sTaTiOn 10 02:33
+sTaTiOn 9 03:34
+sTaTiOn 8 04:35
+31014
+sTaTiOn 12 00:33
+sTaTiOn 11 01:34
+sTaTiOn 10 02:35
+sTaTiOn 9 03:36
+sTaTiOn 8 04:37
+31015
+sTaTiOn 12 00:35
+sTaTiOn 11 01:36
+sTaTiOn 10 02:37
+sTaTiOn 9 03:38
+sTaTiOn 8 04:39
+31016
+sTaTiOn 12 00:37
+sTaTiOn 11 01:38
+sTaTiOn 10 02:39
+sTaTiOn 9 03:40
+sTaTiOn 8 04:41
+31017
+sTaTiOn 12 00:39
+sTaTiOn 11 01:40
+sTaTiOn 10 02:41
+sTaTiOn 9 03:42
+sTaTiOn 8 04:43
+31018
+sTaTiOn 12 00:41
+sTaTiOn 11 01:42
+sTaTiOn 10 02:43
+sTaTiOn 9 03:44
+sTaTiOn 8 04:45
+31019
+sTaTiOn 12 00:43
+sTaTiOn 11 01:44
+sTaTiOn 10 02:45
+sTaTiOn 9 03:46
+sTaTiOn 8 04:47
+31020
+sTaTiOn 12 00:45
+sTaTiOn 11 01:46
+sTaTiOn 10 02:47
+sTaTiOn 9 03:48
+sTaTiOn 8 04:49
+401
+sTaTiOn 12 00:07
+sTaTiOn 13 01:08
+sTaTiOn 14 02:09
+sTaTiOn 15 03:10
+sTaTiOn 16 04:11
+402
+sTaTiOn 12 00:09
+sTaTiOn 13 01:10
+sTaTiOn 14 02:11
+sTaTiOn 15 03:12
+sTaTiOn 16 04:13
+403
+sTaTiOn 12 00:11
+sTaTiOn 13 01:12
+sTaTiOn 14 02:13
+sTaTiOn 15 03:14
+sTaTiOn 16 04:15
+404
+sTaTiOn 12 00:13
+sTaTiOn 13 01:14
+sTaTiOn 14 02:15
+sTaTiOn 15 03:16
+sTaTiOn 16 04:17
+405
+sTaTiOn 12 00:15
+sTaTiOn 13 01:16
+sTaTiOn 14 02:17
+sTaTiOn 15 03:18
+sTaTiOn 16 04:19
+406
+sTaTiOn 12 00:17
+sTaTiOn 13 01:18
+sTaTiOn 14 02:19
+sTaTiOn 15 03:20
+sTaTiOn 16 04:21
+407
+sTaTiOn 12 00:19
+sTaTiOn 13 01:20
+sTaTiOn 14 02:21
+sTaTiOn 15 03:22
+sTaTiOn 16 04:23
+408
+sTaTiOn 12 00:21
+sTaTiOn 13 01:22
+sTaTiOn 14 02:23
+sTaTiOn 15 03:24
+sTaTiOn 16 04:25
+409
+sTaTiOn 12 00:23
+sTaTiOn 13 01:24
+sTaTiOn 14 02:25
+sTaTiOn 15 03:26
+sTaTiOn 16 04:27
+410
+sTaTiOn 12 00:25
+sTaTiOn 13 01:26
+sTaTiOn 14 02:27
+sTaTiOn 15 03:28
+sTaTiOn 16 04:29
+411
+sTaTiOn 12 00:27
+sTaTiOn 13 01:28
+sTaTiOn 14 02:29
+sTaTiOn 15 03:30
+sTaTiOn 16 04:31
+412
+sTaTiOn 12 00:29
+sTaTiOn 13 01:30
+sTaTiOn 14 02:31
+sTaTiOn 15 03:32
+sTaTiOn 16 04:33
+413
+sTaTiOn 12 00:31
+sTaTiOn 13 01:32
+sTaTiOn 14 02:33
+sTaTiOn 15 03:34
+sTaTiOn 16 04:35
+414
+sTaTiOn 12 00:33
+sTaTiOn 13 01:34
+sTaTiOn 14 02:35
+sTaTiOn 15 03:36
+sTaTiOn 16 04:37
+415
+sTaTiOn 12 00:35
+sTaTiOn 13 01:36
+sTaTiOn 14 02:37
+sTaTiOn 15 03:38
+sTaTiOn 16 04:39
+416
+sTaTiOn 12 00:37
+sTaTiOn 13 01:38
+sTaTiOn 14 02:39
+sTaTiOn 15 03:40
+sTaTiOn 16 04:41
+417
+sTaTiOn 12 00:39
+sTaTiOn 13 01:40
+sTaTiOn 14 02:41
+sTaTiOn 15 03:42
+sTaTiOn 16 04:43
+418
+sTaTiOn 12 00:41
+sTaTiOn 13 01:42
+sTaTiOn 14 02:43
+sTaTiOn 15 03:44
+sTaTiOn 16 04:45
+419
+sTaTiOn 12 00:43
+sTaTiOn 13 01:44
+sTaTiOn 14 02:45
+sTaTiOn 15 03:46
+sTaTiOn 16 04:47
+420
+sTaTiOn 12 00:45
+sTaTiOn 13 01:46
+sTaTiOn 14 02:47
+sTaTiOn 15 03:48
+sTaTiOn 16 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+41001
+sTaTiOn 16 00:07
+sTaTiOn 15 01:08
+sTaTiOn 14 02:09
+sTaTiOn 13 03:10
+sTaTiOn 12 04:11
+41002
+sTaTiOn 16 00:09
+sTaTiOn 15 01:10
+sTaTiOn 14 02:11
+sTaTiOn 13 03:12
+sTaTiOn 12 04:13
+41003
+sTaTiOn 16 00:11
+sTaTiOn 15 01:12
+sTaTiOn 14 02:13
+sTaTiOn 13 03:14
+sTaTiOn 12 04:15
+41004
+sTaTiOn 16 00:13
+sTaTiOn 15 01:14
+sTaTiOn 14 02:15
+sTaTiOn 13 03:16
+sTaTiOn 12 04:17
+41005
+sTaTiOn 16 00:15
+sTaTiOn 15 01:16
+sTaTiOn 14 02:17
+sTaTiOn 13 03:18
+sTaTiOn 12 04:19
+41006
+sTaTiOn 16 00:17
+sTaTiOn 15 01:18
+sTaTiOn 14 02:19
+sTaTiOn 13 03:20
+sTaTiOn 12 04:21
+41007
+sTaTiOn 16 00:19
+sTaTiOn 15 01:20
+sTaTiOn 14 02:21
+sTaTiOn 13 03:22
+sTaTiOn 12 04:23
+41008
+sTaTiOn 16 00:21
+sTaTiOn 15 01:22
+sTaTiOn 14 02:23
+sTaTiOn 13 03:24
+sTaTiOn 12 04:25
+41009
+sTaTiOn 16 00:23
+sTaTiOn 15 01:24
+sTaTiOn 14 02:25
+sTaTiOn 13 03:26
+sTaTiOn 12 04:27
+41010
+sTaTiOn 16 00:25
+sTaTiOn 15 01:26
+sTaTiOn 14 02:27
+sTaTiOn 13 03:28
+sTaTiOn 12 04:29
+41011
+sTaTiOn 16 00:27
+sTaTiOn 15 01:28
+sTaTiOn 14 02:29
+sTaTiOn 13 03:30
+sTaTiOn 12 04:31
+41012
+sTaTiOn 16 00:29
+sTaTiOn 15 01:30
+sTaTiOn 14 02:31
+sTaTiOn 13 03:32
+sTaTiOn 12 04:33
+41013
+sTaTiOn 16 00:31
+sTaTiOn 15 01:32
+sTaTiOn 14 02:33
+sTaTiOn 13 03:34
+sTaTiOn 12 04:35
+41014
+sTaTiOn 16 00:33
+sTaTiOn 15 01:34
+sTaTiOn 14 02:35
+sTaTiOn 13 03:36
+sTaTiOn 12 04:37
+41015
+sTaTiOn 16 00:35
+sTaTiOn 15 01:36
+sTaTiOn 14 02:37
+sTaTiOn 13 03:38
+sTaTiOn 12 04:39
+41016
+sTaTiOn 16 00:37
+sTaTiOn 15 01:38
+sTaTiOn 14 02:39
+sTaTiOn 13 03:40
+sTaTiOn 12 04:41
+41017
+sTaTiOn 16 00:39
+sTaTiOn 15 01:40
+sTaTiOn 14 02:41
+sTaTiOn 13 03:42
+sTaTiOn 12 04:43
+41018
+sTaTiOn 16 00:41
+sTaTiOn 15 01:42
+sTaTiOn 14 02:43
+sTaTiOn 13 03:44
+sTaTiOn 12 04:45
+41019
+sTaTiOn 16 00:43
+sTaTiOn 15 01:44
+sTaTiOn 14 02:45
+sTaTiOn 13 03:46
+sTaTiOn 12 04:47
+41020
+sTaTiOn 16 00:45
+sTaTiOn 15 01:46
+sTaTiOn 14 02:47
+sTaTiOn 13 03:48
+sTaTiOn 12 04:49
+501
+sTaTiOn 16 00:07
+sTaTiOn 17 01:08
+sTaTiOn 18 02:09
+sTaTiOn 19 03:10
+sTaTiOn 20 04:11
+502
+sTaTiOn 16 00:09
+sTaTiOn 17 01:10
+sTaTiOn 18 02:11
+sTaTiOn 19 03:12
+sTaTiOn 20 04:13
+503
+sTaTiOn 16 00:11
+sTaTiOn 17 01:12
+sTaTiOn 18 02:13
+sTaTiOn 19 03:14
+sTaTiOn 20 04:15
+504
+sTaTiOn 16 00:13
+sTaTiOn 17 01:14
+sTaTiOn 18 02:15
+sTaTiOn 19 03:16
+sTaTiOn 20 04:17
+505
+sTaTiOn 16 00:15
+sTaTiOn 17 01:16
+sTaTiOn 18 02:17
+sTaTiOn 19 03:18
+sTaTiOn 20 04:19
+506
+sTaTiOn 16 00:17
+sTaTiOn 17 01:18
+sTaTiOn 18 02:19
+sTaTiOn 19 03:20
+sTaTiOn 20 04:21
+507
+sTaTiOn 16 00:19
+sTaTiOn 17 01:20
+sTaTiOn 18 02:21
+sTaTiOn 19 03:22
+sTaTiOn 20 04:23
+508
+sTaTiOn 16 00:21
+sTaTiOn 17 01:22
+sTaTiOn 18 02:23
+sTaTiOn 19 03:24
+sTaTiOn 20 04:25
+509
+sTaTiOn 16 00:23
+sTaTiOn 17 01:24
+sTaTiOn 18 02:25
+sTaTiOn 19 03:26
+sTaTiOn 20 04:27
+510
+sTaTiOn 16 00:25
+sTaTiOn 17 01:26
+sTaTiOn 18 02:27
+sTaTiOn 19 03:28
+sTaTiOn 20 04:29
+511
+sTaTiOn 16 00:27
+sTaTiOn 17 01:28
+sTaTiOn 18 02:29
+sTaTiOn 19 03:30
+sTaTiOn 20 04:31
+512
+sTaTiOn 16 00:29
+sTaTiOn 17 01:30
+sTaTiOn 18 02:31
+sTaTiOn 19 03:32
+sTaTiOn 20 04:33
+513
+sTaTiOn 16 00:31
+sTaTiOn 17 01:32
+sTaTiOn 18 02:33
+sTaTiOn 19 03:34
+sTaTiOn 20 04:35
+514
+sTaTiOn 16 00:33
+sTaTiOn 17 01:34
+sTaTiOn 18 02:35
+sTaTiOn 19 03:36
+sTaTiOn 20 04:37
+515
+sTaTiOn 16 00:35
+sTaTiOn 17 01:36
+sTaTiOn 18 02:37
+sTaTiOn 19 03:38
+sTaTiOn 20 04:39
+516
+sTaTiOn 16 00:37
+sTaTiOn 17 01:38
+sTaTiOn 18 02:39
+sTaTiOn 19 03:40
+sTaTiOn 20 04:41
+517
+sTaTiOn 16 00:39
+sTaTiOn 17 01:40
+sTaTiOn 18 02:41
+sTaTiOn 19 03:42
+sTaTiOn 20 04:43
+518
+sTaTiOn 16 00:41
+sTaTiOn 17 01:42
+sTaTiOn 18 02:43
+sTaTiOn 19 03:44
+sTaTiOn 20 04:45
+519
+sTaTiOn 16 00:43
+sTaTiOn 17 01:44
+sTaTiOn 18 02:45
+sTaTiOn 19 03:46
+sTaTiOn 20 04:47
+520
+sTaTiOn 16 00:45
+sTaTiOn 17 01:46
+sTaTiOn 18 02:47
+sTaTiOn 19 03:48
+sTaTiOn 20 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+51001
+sTaTiOn 20 00:07
+sTaTiOn 19 01:08
+sTaTiOn 18 02:09
+sTaTiOn 17 03:10
+sTaTiOn 16 04:11
+51002
+sTaTiOn 20 00:09
+sTaTiOn 19 01:10
+sTaTiOn 18 02:11
+sTaTiOn 17 03:12
+sTaTiOn 16 04:13
+51003
+sTaTiOn 20 00:11
+sTaTiOn 19 01:12
+sTaTiOn 18 02:13
+sTaTiOn 17 03:14
+sTaTiOn 16 04:15
+51004
+sTaTiOn 20 00:13
+sTaTiOn 19 01:14
+sTaTiOn 18 02:15
+sTaTiOn 17 03:16
+sTaTiOn 16 04:17
+51005
+sTaTiOn 20 00:15
+sTaTiOn 19 01:16
+sTaTiOn 18 02:17
+sTaTiOn 17 03:18
+sTaTiOn 16 04:19
+51006
+sTaTiOn 20 00:17
+sTaTiOn 19 01:18
+sTaTiOn 18 02:19
+sTaTiOn 17 03:20
+sTaTiOn 16 04:21
+51007
+sTaTiOn 20 00:19
+sTaTiOn 19 01:20
+sTaTiOn 18 02:21
+sTaTiOn 17 03:22
+sTaTiOn 16 04:23
+51008
+sTaTiOn 20 00:21
+sTaTiOn 19 01:22
+sTaTiOn 18 02:23
+sTaTiOn 17 03:24
+sTaTiOn 16 04:25
+51009
+sTaTiOn 20 00:23
+sTaTiOn 19 01:24
+sTaTiOn 18 02:25
+sTaTiOn 17 03:26
+sTaTiOn 16 04:27
+51010
+sTaTiOn 20 00:25
+sTaTiOn 19 01:26
+sTaTiOn 18 02:27
+sTaTiOn 17 03:28
+sTaTiOn 16 04:29
+51011
+sTaTiOn 20 00:27
+sTaTiOn 19 01:28
+sTaTiOn 18 02:29
+sTaTiOn 17 03:30
+sTaTiOn 16 04:31
+51012
+sTaTiOn 20 00:29
+sTaTiOn 19 01:30
+sTaTiOn 18 02:31
+sTaTiOn 17 03:32
+sTaTiOn 16 04:33
+51013
+sTaTiOn 20 00:31
+sTaTiOn 19 01:32
+sTaTiOn 18 02:33
+sTaTiOn 17 03:34
+sTaTiOn 16 04:35
+51014
+sTaTiOn 20 00:33
+sTaTiOn 19 01:34
+sTaTiOn 18 02:35
+sTaTiOn 17 03:36
+sTaTiOn 16 04:37
+51015
+sTaTiOn 20 00:35
+sTaTiOn 19 01:36
+sTaTiOn 18 02:37
+sTaTiOn 17 03:38
+sTaTiOn 16 04:39
+51016
+sTaTiOn 20 00:37
+sTaTiOn 19 01:38
+sTaTiOn 18 02:39
+sTaTiOn 17 03:40
+sTaTiOn 16 04:41
+51017
+sTaTiOn 20 00:39
+sTaTiOn 19 01:40
+sTaTiOn 18 02:41
+sTaTiOn 17 03:42
+sTaTiOn 16 04:43
+51018
+sTaTiOn 20 00:41
+sTaTiOn 19 01:42
+sTaTiOn 18 02:43
+sTaTiOn 17 03:44
+sTaTiOn 16 04:45
+51019
+sTaTiOn 20 00:43
+sTaTiOn 19 01:44
+sTaTiOn 18 02:45
+sTaTiOn 17 03:46
+sTaTiOn 16 04:47
+51020
+sTaTiOn 20 00:45
+sTaTiOn 19 01:46
+sTaTiOn 18 02:47
+sTaTiOn 17 03:48
+sTaTiOn 16 04:49
+601
+sTaTiOn 20 00:07
+sTaTiOn 21 01:08
+sTaTiOn 22 02:09
+sTaTiOn 23 03:10
+sTaTiOn 24 04:11
+602
+sTaTiOn 20 00:09
+sTaTiOn 21 01:10
+sTaTiOn 22 02:11
+sTaTiOn 23 03:12
+sTaTiOn 24 04:13
+603
+sTaTiOn 20 00:11
+sTaTiOn 21 01:12
+sTaTiOn 22 02:13
+sTaTiOn 23 03:14
+sTaTiOn 24 04:15
+604
+sTaTiOn 20 00:13
+sTaTiOn 21 01:14
+sTaTiOn 22 02:15
+sTaTiOn 23 03:16
+sTaTiOn 24 04:17
+605
+sTaTiOn 20 00:15
+sTaTiOn 21 01:16
+sTaTiOn 22 02:17
+sTaTiOn 23 03:18
+sTaTiOn 24 04:19
+606
+sTaTiOn 20 00:17
+sTaTiOn 21 01:18
+sTaTiOn 22 02:19
+sTaTiOn 23 03:20
+sTaTiOn 24 04:21
+607
+sTaTiOn 20 00:19
+sTaTiOn 21 01:20
+sTaTiOn 22 02:21
+sTaTiOn 23 03:22
+sTaTiOn 24 04:23
+608
+sTaTiOn 20 00:21
+sTaTiOn 21 01:22
+sTaTiOn 22 02:23
+sTaTiOn 23 03:24
+sTaTiOn 24 04:25
+609
+sTaTiOn 20 00:23
+sTaTiOn 21 01:24
+sTaTiOn 22 02:25
+sTaTiOn 23 03:26
+sTaTiOn 24 04:27
+610
+sTaTiOn 20 00:25
+sTaTiOn 21 01:26
+sTaTiOn 22 02:27
+sTaTiOn 23 03:28
+sTaTiOn 24 04:29
+611
+sTaTiOn 20 00:27
+sTaTiOn 21 01:28
+sTaTiOn 22 02:29
+sTaTiOn 23 03:30
+sTaTiOn 24 04:31
+612
+sTaTiOn 20 00:29
+sTaTiOn 21 01:30
+sTaTiOn 22 02:31
+sTaTiOn 23 03:32
+sTaTiOn 24 04:33
+613
+sTaTiOn 20 00:31
+sTaTiOn 21 01:32
+sTaTiOn 22 02:33
+sTaTiOn 23 03:34
+sTaTiOn 24 04:35
+614
+sTaTiOn 20 00:33
+sTaTiOn 21 01:34
+sTaTiOn 22 02:35
+sTaTiOn 23 03:36
+sTaTiOn 24 04:37
+615
+sTaTiOn 20 00:35
+sTaTiOn 21 01:36
+sTaTiOn 22 02:37
+sTaTiOn 23 03:38
+sTaTiOn 24 04:39
+616
+sTaTiOn 20 00:37
+sTaTiOn 21 01:38
+sTaTiOn 22 02:39
+sTaTiOn 23 03:40
+sTaTiOn 24 04:41
+617
+sTaTiOn 20 00:39
+sTaTiOn 21 01:40
+sTaTiOn 22 02:41
+sTaTiOn 23 03:42
+sTaTiOn 24 04:43
+618
+sTaTiOn 20 00:41
+sTaTiOn 21 01:42
+sTaTiOn 22 02:43
+sTaTiOn 23 03:44
+sTaTiOn 24 04:45
+619
+sTaTiOn 20 00:43
+sTaTiOn 21 01:44
+sTaTiOn 22 02:45
+sTaTiOn 23 03:46
+sTaTiOn 24 04:47
+620
+sTaTiOn 20 00:45
+sTaTiOn 21 01:46
+sTaTiOn 22 02:47
+sTaTiOn 23 03:48
+sTaTiOn 24 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+61001
+sTaTiOn 24 00:07
+sTaTiOn 23 01:08
+sTaTiOn 22 02:09
+sTaTiOn 21 03:10
+sTaTiOn 20 04:11
+61002
+sTaTiOn 24 00:09
+sTaTiOn 23 01:10
+sTaTiOn 22 02:11
+sTaTiOn 21 03:12
+sTaTiOn 20 04:13
+61003
+sTaTiOn 24 00:11
+sTaTiOn 23 01:12
+sTaTiOn 22 02:13
+sTaTiOn 21 03:14
+sTaTiOn 20 04:15
+61004
+sTaTiOn 24 00:13
+sTaTiOn 23 01:14
+sTaTiOn 22 02:15
+sTaTiOn 21 03:16
+sTaTiOn 20 04:17
+61005
+sTaTiOn 24 00:15
+sTaTiOn 23 01:16
+sTaTiOn 22 02:17
+sTaTiOn 21 03:18
+sTaTiOn 20 04:19
+61006
+sTaTiOn 24 00:17
+sTaTiOn 23 01:18
+sTaTiOn 22 02:19
+sTaTiOn 21 03:20
+sTaTiOn 20 04:21
+61007
+sTaTiOn 24 00:19
+sTaTiOn 23 01:20
+sTaTiOn 22 02:21
+sTaTiOn 21 03:22
+sTaTiOn 20 04:23
+61008
+sTaTiOn 24 00:21
+sTaTiOn 23 01:22
+sTaTiOn 22 02:23
+sTaTiOn 21 03:24
+sTaTiOn 20 04:25
+61009
+sTaTiOn 24 00:23
+sTaTiOn 23 01:24
+sTaTiOn 22 02:25
+sTaTiOn 21 03:26
+sTaTiOn 20 04:27
+61010
+sTaTiOn 24 00:25
+sTaTiOn 23 01:26
+sTaTiOn 22 02:27
+sTaTiOn 21 03:28
+sTaTiOn 20 04:29
+61011
+sTaTiOn 24 00:27
+sTaTiOn 23 01:28
+sTaTiOn 22 02:29
+sTaTiOn 21 03:30
+sTaTiOn 20 04:31
+61012
+sTaTiOn 24 00:29
+sTaTiOn 23 01:30
+sTaTiOn 22 02:31
+sTaTiOn 21 03:32
+sTaTiOn 20 04:33
+61013
+sTaTiOn 24 00:31
+sTaTiOn 23 01:32
+sTaTiOn 22 02:33
+sTaTiOn 21 03:34
+sTaTiOn 20 04:35
+61014
+sTaTiOn 24 00:33
+sTaTiOn 23 01:34
+sTaTiOn 22 02:35
+sTaTiOn 21 03:36
+sTaTiOn 20 04:37
+61015
+sTaTiOn 24 00:35
+sTaTiOn 23 01:36
+sTaTiOn 22 02:37
+sTaTiOn 21 03:38
+sTaTiOn 20 04:39
+61016
+sTaTiOn 24 00:37
+sTaTiOn 23 01:38
+sTaTiOn 22 02:39
+sTaTiOn 21 03:40
+sTaTiOn 20 04:41
+61017
+sTaTiOn 24 00:39
+sTaTiOn 23 01:40
+sTaTiOn 22 02:41
+sTaTiOn 21 03:42
+sTaTiOn 20 04:43
+61018
+sTaTiOn 24 00:41
+sTaTiOn 23 01:42
+sTaTiOn 22 02:43
+sTaTiOn 21 03:44
+sTaTiOn 20 04:45
+61019
+sTaTiOn 24 00:43
+sTaTiOn 23 01:44
+sTaTiOn 22 02:45
+sTaTiOn 21 03:46
+sTaTiOn 20 04:47
+61020
+sTaTiOn 24 00:45
+sTaTiOn 23 01:46
+sTaTiOn 22 02:47
+sTaTiOn 21 03:48
+sTaTiOn 20 04:49
+701
+sTaTiOn 24 00:07
+sTaTiOn 25 01:08
+sTaTiOn 26 02:09
+sTaTiOn 27 03:10
+sTaTiOn 28 04:11
+702
+sTaTiOn 24 00:09
+sTaTiOn 25 01:10
+sTaTiOn 26 02:11
+sTaTiOn 27 03:12
+sTaTiOn 28 04:13
+703
+sTaTiOn 24 00:11
+sTaTiOn 25 01:12
+sTaTiOn 26 02:13
+sTaTiOn 27 03:14
+sTaTiOn 28 04:15
+704
+sTaTiOn 24 00:13
+sTaTiOn 25 01:14
+sTaTiOn 26 02:15
+sTaTiOn 27 03:16
+sTaTiOn 28 04:17
+705
+sTaTiOn 24 00:15
+sTaTiOn 25 01:16
+sTaTiOn 26 02:17
+sTaTiOn 27 03:18
+sTaTiOn 28 04:19
+706
+sTaTiOn 24 00:17
+sTaTiOn 25 01:18
+sTaTiOn 26 02:19
+sTaTiOn 27 03:20
+sTaTiOn 28 04:21
+707
+sTaTiOn 24 00:19
+sTaTiOn 25 01:20
+sTaTiOn 26 02:21
+sTaTiOn 27 03:22
+sTaTiOn 28 04:23
+708
+sTaTiOn 24 00:21
+sTaTiOn 25 01:22
+sTaTiOn 26 02:23
+sTaTiOn 27 03:24
+sTaTiOn 28 04:25
+709
+sTaTiOn 24 00:23
+sTaTiOn 25 01:24
+sTaTiOn 26 02:25
+sTaTiOn 27 03:26
+sTaTiOn 28 04:27
+710
+sTaTiOn 24 00:25
+sTaTiOn 25 01:26
+sTaTiOn 26 02:27
+sTaTiOn 27 03:28
+sTaTiOn 28 04:29
+711
+sTaTiOn 24 00:27
+sTaTiOn 25 01:28
+sTaTiOn 26 02:29
+sTaTiOn 27 03:30
+sTaTiOn 28 04:31
+712
+sTaTiOn 24 00:29
+sTaTiOn 25 01:30
+sTaTiOn 26 02:31
+sTaTiOn 27 03:32
+sTaTiOn 28 04:33
+713
+sTaTiOn 24 00:31
+sTaTiOn 25 01:32
+sTaTiOn 26 02:33
+sTaTiOn 27 03:34
+sTaTiOn 28 04:35
+714
+sTaTiOn 24 00:33
+sTaTiOn 25 01:34
+sTaTiOn 26 02:35
+sTaTiOn 27 03:36
+sTaTiOn 28 04:37
+715
+sTaTiOn 24 00:35
+sTaTiOn 25 01:36
+sTaTiOn 26 02:37
+sTaTiOn 27 03:38
+sTaTiOn 28 04:39
+716
+sTaTiOn 24 00:37
+sTaTiOn 25 01:38
+sTaTiOn 26 02:39
+sTaTiOn 27 03:40
+sTaTiOn 28 04:41
+717
+sTaTiOn 24 00:39
+sTaTiOn 25 01:40
+sTaTiOn 26 02:41
+sTaTiOn 27 03:42
+sTaTiOn 28 04:43
+718
+sTaTiOn 24 00:41
+sTaTiOn 25 01:42
+sTaTiOn 26 02:43
+sTaTiOn 27 03:44
+sTaTiOn 28 04:45
+719
+sTaTiOn 24 00:43
+sTaTiOn 25 01:44
+sTaTiOn 26 02:45
+sTaTiOn 27 03:46
+sTaTiOn 28 04:47
+720
+sTaTiOn 24 00:45
+sTaTiOn 25 01:46
+sTaTiOn 26 02:47
+sTaTiOn 27 03:48
+sTaTiOn 28 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+71001
+sTaTiOn 28 00:07
+sTaTiOn 27 01:08
+sTaTiOn 26 02:09
+sTaTiOn 25 03:10
+sTaTiOn 24 04:11
+71002
+sTaTiOn 28 00:09
+sTaTiOn 27 01:10
+sTaTiOn 26 02:11
+sTaTiOn 25 03:12
+sTaTiOn 24 04:13
+71003
+sTaTiOn 28 00:11
+sTaTiOn 27 01:12
+sTaTiOn 26 02:13
+sTaTiOn 25 03:14
+sTaTiOn 24 04:15
+71004
+sTaTiOn 28 00:13
+sTaTiOn 27 01:14
+sTaTiOn 26 02:15
+sTaTiOn 25 03:16
+sTaTiOn 24 04:17
+71005
+sTaTiOn 28 00:15
+sTaTiOn 27 01:16
+sTaTiOn 26 02:17
+sTaTiOn 25 03:18
+sTaTiOn 24 04:19
+71006
+sTaTiOn 28 00:17
+sTaTiOn 27 01:18
+sTaTiOn 26 02:19
+sTaTiOn 25 03:20
+sTaTiOn 24 04:21
+71007
+sTaTiOn 28 00:19
+sTaTiOn 27 01:20
+sTaTiOn 26 02:21
+sTaTiOn 25 03:22
+sTaTiOn 24 04:23
+71008
+sTaTiOn 28 00:21
+sTaTiOn 27 01:22
+sTaTiOn 26 02:23
+sTaTiOn 25 03:24
+sTaTiOn 24 04:25
+71009
+sTaTiOn 28 00:23
+sTaTiOn 27 01:24
+sTaTiOn 26 02:25
+sTaTiOn 25 03:26
+sTaTiOn 24 04:27
+71010
+sTaTiOn 28 00:25
+sTaTiOn 27 01:26
+sTaTiOn 26 02:27
+sTaTiOn 25 03:28
+sTaTiOn 24 04:29
+71011
+sTaTiOn 28 00:27
+sTaTiOn 27 01:28
+sTaTiOn 26 02:29
+sTaTiOn 25 03:30
+sTaTiOn 24 04:31
+71012
+sTaTiOn 28 00:29
+sTaTiOn 27 01:30
+sTaTiOn 26 02:31
+sTaTiOn 25 03:32
+sTaTiOn 24 04:33
+71013
+sTaTiOn 28 00:31
+sTaTiOn 27 01:32
+sTaTiOn 26 02:33
+sTaTiOn 25 03:34
+sTaTiOn 24 04:35
+71014
+sTaTiOn 28 00:33
+sTaTiOn 27 01:34
+sTaTiOn 26 02:35
+sTaTiOn 25 03:36
+sTaTiOn 24 04:37
+71015
+sTaTiOn 28 00:35
+sTaTiOn 27 01:36
+sTaTiOn 26 02:37
+sTaTiOn 25 03:38
+sTaTiOn 24 04:39
+71016
+sTaTiOn 28 00:37
+sTaTiOn 27 01:38
+sTaTiOn 26 02:39
+sTaTiOn 25 03:40
+sTaTiOn 24 04:41
+71017
+sTaTiOn 28 00:39
+sTaTiOn 27 01:40
+sTaTiOn 26 02:41
+sTaTiOn 25 03:42
+sTaTiOn 24 04:43
+71018
+sTaTiOn 28 00:41
+sTaTiOn 27 01:42
+sTaTiOn 26 02:43
+sTaTiOn 25 03:44
+sTaTiOn 24 04:45
+71019
+sTaTiOn 28 00:43
+sTaTiOn 27 01:44
+sTaTiOn 26 02:45
+sTaTiOn 25 03:46
+sTaTiOn 24 04:47
+71020
+sTaTiOn 28 00:45
+sTaTiOn 27 01:46
+sTaTiOn 26 02:47
+sTaTiOn 25 03:48
+sTaTiOn 24 04:49
+801
+sTaTiOn 28 00:07
+sTaTiOn 29 01:08
+sTaTiOn 30 02:09
+sTaTiOn 31 03:10
+sTaTiOn 32 04:11
+802
+sTaTiOn 28 00:09
+sTaTiOn 29 01:10
+sTaTiOn 30 02:11
+sTaTiOn 31 03:12
+sTaTiOn 32 04:13
+803
+sTaTiOn 28 00:11
+sTaTiOn 29 01:12
+sTaTiOn 30 02:13
+sTaTiOn 31 03:14
+sTaTiOn 32 04:15
+804
+sTaTiOn 28 00:13
+sTaTiOn 29 01:14
+sTaTiOn 30 02:15
+sTaTiOn 31 03:16
+sTaTiOn 32 04:17
+805
+sTaTiOn 28 00:15
+sTaTiOn 29 01:16
+sTaTiOn 30 02:17
+sTaTiOn 31 03:18
+sTaTiOn 32 04:19
+806
+sTaTiOn 28 00:17
+sTaTiOn 29 01:18
+sTaTiOn 30 02:19
+sTaTiOn 31 03:20
+sTaTiOn 32 04:21
+807
+sTaTiOn 28 00:19
+sTaTiOn 29 01:20
+sTaTiOn 30 02:21
+sTaTiOn 31 03:22
+sTaTiOn 32 04:23
+808
+sTaTiOn 28 00:21
+sTaTiOn 29 01:22
+sTaTiOn 30 02:23
+sTaTiOn 31 03:24
+sTaTiOn 32 04:25
+809
+sTaTiOn 28 00:23
+sTaTiOn 29 01:24
+sTaTiOn 30 02:25
+sTaTiOn 31 03:26
+sTaTiOn 32 04:27
+810
+sTaTiOn 28 00:25
+sTaTiOn 29 01:26
+sTaTiOn 30 02:27
+sTaTiOn 31 03:28
+sTaTiOn 32 04:29
+811
+sTaTiOn 28 00:27
+sTaTiOn 29 01:28
+sTaTiOn 30 02:29
+sTaTiOn 31 03:30
+sTaTiOn 32 04:31
+812
+sTaTiOn 28 00:29
+sTaTiOn 29 01:30
+sTaTiOn 30 02:31
+sTaTiOn 31 03:32
+sTaTiOn 32 04:33
+813
+sTaTiOn 28 00:31
+sTaTiOn 29 01:32
+sTaTiOn 30 02:33
+sTaTiOn 31 03:34
+sTaTiOn 32 04:35
+814
+sTaTiOn 28 00:33
+sTaTiOn 29 01:34
+sTaTiOn 30 02:35
+sTaTiOn 31 03:36
+sTaTiOn 32 04:37
+815
+sTaTiOn 28 00:35
+sTaTiOn 29 01:36
+sTaTiOn 30 02:37
+sTaTiOn 31 03:38
+sTaTiOn 32 04:39
+816
+sTaTiOn 28 00:37
+sTaTiOn 29 01:38
+sTaTiOn 30 02:39
+sTaTiOn 31 03:40
+sTaTiOn 32 04:41
+817
+sTaTiOn 28 00:39
+sTaTiOn 29 01:40
+sTaTiOn 30 02:41
+sTaTiOn 31 03:42
+sTaTiOn 32 04:43
+818
+sTaTiOn 28 00:41
+sTaTiOn 29 01:42
+sTaTiOn 30 02:43
+sTaTiOn 31 03:44
+sTaTiOn 32 04:45
+819
+sTaTiOn 28 00:43
+sTaTiOn 29 01:44
+sTaTiOn 30 02:45
+sTaTiOn 31 03:46
+sTaTiOn 32 04:47
+820
+sTaTiOn 28 00:45
+sTaTiOn 29 01:46
+sTaTiOn 30 02:47
+sTaTiOn 31 03:48
+sTaTiOn 32 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+81001
+sTaTiOn 32 00:07
+sTaTiOn 31 01:08
+sTaTiOn 30 02:09
+sTaTiOn 29 03:10
+sTaTiOn 28 04:11
+81002
+sTaTiOn 32 00:09
+sTaTiOn 31 01:10
+sTaTiOn 30 02:11
+sTaTiOn 29 03:12
+sTaTiOn 28 04:13
+81003
+sTaTiOn 32 00:11
+sTaTiOn 31 01:12
+sTaTiOn 30 02:13
+sTaTiOn 29 03:14
+sTaTiOn 28 04:15
+81004
+sTaTiOn 32 00:13
+sTaTiOn 31 01:14
+sTaTiOn 30 02:15
+sTaTiOn 29 03:16
+sTaTiOn 28 04:17
+81005
+sTaTiOn 32 00:15
+sTaTiOn 31 01:16
+sTaTiOn 30 02:17
+sTaTiOn 29 03:18
+sTaTiOn 28 04:19
+81006
+sTaTiOn 32 00:17
+sTaTiOn 31 01:18
+sTaTiOn 30 02:19
+sTaTiOn 29 03:20
+sTaTiOn 28 04:21
+81007
+sTaTiOn 32 00:19
+sTaTiOn 31 01:20
+sTaTiOn 30 02:21
+sTaTiOn 29 03:22
+sTaTiOn 28 04:23
+81008
+sTaTiOn 32 00:21
+sTaTiOn 31 01:22
+sTaTiOn 30 02:23
+sTaTiOn 29 03:24
+sTaTiOn 28 04:25
+81009
+sTaTiOn 32 00:23
+sTaTiOn 31 01:24
+sTaTiOn 30 02:25
+sTaTiOn 29 03:26
+sTaTiOn 28 04:27
+81010
+sTaTiOn 32 00:25
+sTaTiOn 31 01:26
+sTaTiOn 30 02:27
+sTaTiOn 29 03:28
+sTaTiOn 28 04:29
+81011
+sTaTiOn 32 00:27
+sTaTiOn 31 01:28
+sTaTiOn 30 02:29
+sTaTiOn 29 03:30
+sTaTiOn 28 04:31
+81012
+sTaTiOn 32 00:29
+sTaTiOn 31 01:30
+sTaTiOn 30 02:31
+sTaTiOn 29 03:32
+sTaTiOn 28 04:33
+81013
+sTaTiOn 32 00:31
+sTaTiOn 31 01:32
+sTaTiOn 30 02:33
+sTaTiOn 29 03:34
+sTaTiOn 28 04:35
+81014
+sTaTiOn 32 00:33
+sTaTiOn 31 01:34
+sTaTiOn 30 02:35
+sTaTiOn 29 03:36
+sTaTiOn 28 04:37
+81015
+sTaTiOn 32 00:35
+sTaTiOn 31 01:36
+sTaTiOn 30 02:37
+sTaTiOn 29 03:38
+sTaTiOn 28 04:39
+81016
+sTaTiOn 32 00:37
+sTaTiOn 31 01:38
+sTaTiOn 30 02:39
+sTaTiOn 29 03:40
+sTaTiOn 28 04:41
+81017
+sTaTiOn 32 00:39
+sTaTiOn 31 01:40
+sTaTiOn 30 02:41
+sTaTiOn 29 03:42
+sTaTiOn 28 04:43
+81018
+sTaTiOn 32 00:41
+sTaTiOn 31 01:42
+sTaTiOn 30 02:43
+sTaTiOn 29 03:44
+sTaTiOn 28 04:45
+81019
+sTaTiOn 32 00:43
+sTaTiOn 31 01:44
+sTaTiOn 30 02:45
+sTaTiOn 29 03:46
+sTaTiOn 28 04:47
+81020
+sTaTiOn 32 00:45
+sTaTiOn 31 01:46
+sTaTiOn 30 02:47
+sTaTiOn 29 03:48
+sTaTiOn 28 04:49
+901
+sTaTiOn 32 00:07
+sTaTiOn 33 01:08
+sTaTiOn 34 02:09
+sTaTiOn 35 03:10
+sTaTiOn 36 04:11
+902
+sTaTiOn 32 00:09
+sTaTiOn 33 01:10
+sTaTiOn 34 02:11
+sTaTiOn 35 03:12
+sTaTiOn 36 04:13
+903
+sTaTiOn 32 00:11
+sTaTiOn 33 01:12
+sTaTiOn 34 02:13
+sTaTiOn 35 03:14
+sTaTiOn 36 04:15
+904
+sTaTiOn 32 00:13
+sTaTiOn 33 01:14
+sTaTiOn 34 02:15
+sTaTiOn 35 03:16
+sTaTiOn 36 04:17
+905
+sTaTiOn 32 00:15
+sTaTiOn 33 01:16
+sTaTiOn 34 02:17
+sTaTiOn 35 03:18
+sTaTiOn 36 04:19
+906
+sTaTiOn 32 00:17
+sTaTiOn 33 01:18
+sTaTiOn 34 02:19
+sTaTiOn 35 03:20
+sTaTiOn 36 04:21
+907
+sTaTiOn 32 00:19
+sTaTiOn 33 01:20
+sTaTiOn 34 02:21
+sTaTiOn 35 03:22
+sTaTiOn 36 04:23
+908
+sTaTiOn 32 00:21
+sTaTiOn 33 01:22
+sTaTiOn 34 02:23
+sTaTiOn 35 03:24
+sTaTiOn 36 04:25
+909
+sTaTiOn 32 00:23
+sTaTiOn 33 01:24
+sTaTiOn 34 02:25
+sTaTiOn 35 03:26
+sTaTiOn 36 04:27
+910
+sTaTiOn 32 00:25
+sTaTiOn 33 01:26
+sTaTiOn 34 02:27
+sTaTiOn 35 03:28
+sTaTiOn 36 04:29
+911
+sTaTiOn 32 00:27
+sTaTiOn 33 01:28
+sTaTiOn 34 02:29
+sTaTiOn 35 03:30
+sTaTiOn 36 04:31
+912
+sTaTiOn 32 00:29
+sTaTiOn 33 01:30
+sTaTiOn 34 02:31
+sTaTiOn 35 03:32
+sTaTiOn 36 04:33
+913
+sTaTiOn 32 00:31
+sTaTiOn 33 01:32
+sTaTiOn 34 02:33
+sTaTiOn 35 03:34
+sTaTiOn 36 04:35
+914
+sTaTiOn 32 00:33
+sTaTiOn 33 01:34
+sTaTiOn 34 02:35
+sTaTiOn 35 03:36
+sTaTiOn 36 04:37
+915
+sTaTiOn 32 00:35
+sTaTiOn 33 01:36
+sTaTiOn 34 02:37
+sTaTiOn 35 03:38
+sTaTiOn 36 04:39
+916
+sTaTiOn 32 00:37
+sTaTiOn 33 01:38
+sTaTiOn 34 02:39
+sTaTiOn 35 03:40
+sTaTiOn 36 04:41
+917
+sTaTiOn 32 00:39
+sTaTiOn 33 01:40
+sTaTiOn 34 02:41
+sTaTiOn 35 03:42
+sTaTiOn 36 04:43
+918
+sTaTiOn 32 00:41
+sTaTiOn 33 01:42
+sTaTiOn 34 02:43
+sTaTiOn 35 03:44
+sTaTiOn 36 04:45
+919
+sTaTiOn 32 00:43
+sTaTiOn 33 01:44
+sTaTiOn 34 02:45
+sTaTiOn 35 03:46
+sTaTiOn 36 04:47
+920
+sTaTiOn 32 00:45
+sTaTiOn 33 01:46
+sTaTiOn 34 02:47
+sTaTiOn 35 03:48
+sTaTiOn 36 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+91001
+sTaTiOn 36 00:07
+sTaTiOn 35 01:08
+sTaTiOn 34 02:09
+sTaTiOn 33 03:10
+sTaTiOn 32 04:11
+91002
+sTaTiOn 36 00:09
+sTaTiOn 35 01:10
+sTaTiOn 34 02:11
+sTaTiOn 33 03:12
+sTaTiOn 32 04:13
+91003
+sTaTiOn 36 00:11
+sTaTiOn 35 01:12
+sTaTiOn 34 02:13
+sTaTiOn 33 03:14
+sTaTiOn 32 04:15
+91004
+sTaTiOn 36 00:13
+sTaTiOn 35 01:14
+sTaTiOn 34 02:15
+sTaTiOn 33 03:16
+sTaTiOn 32 04:17
+91005
+sTaTiOn 36 00:15
+sTaTiOn 35 01:16
+sTaTiOn 34 02:17
+sTaTiOn 33 03:18
+sTaTiOn 32 04:19
+91006
+sTaTiOn 36 00:17
+sTaTiOn 35 01:18
+sTaTiOn 34 02:19
+sTaTiOn 33 03:20
+sTaTiOn 32 04:21
+91007
+sTaTiOn 36 00:19
+sTaTiOn 35 01:20
+sTaTiOn 34 02:21
+sTaTiOn 33 03:22
+sTaTiOn 32 04:23
+91008
+sTaTiOn 36 00:21
+sTaTiOn 35 01:22
+sTaTiOn 34 02:23
+sTaTiOn 33 03:24
+sTaTiOn 32 04:25
+91009
+sTaTiOn 36 00:23
+sTaTiOn 35 01:24
+sTaTiOn 34 02:25
+sTaTiOn 33 03:26
+sTaTiOn 32 04:27
+91010
+sTaTiOn 36 00:25
+sTaTiOn 35 01:26
+sTaTiOn 34 02:27
+sTaTiOn 33 03:28
+sTaTiOn 32 04:29
+91011
+sTaTiOn 36 00:27
+sTaTiOn 35 01:28
+sTaTiOn 34 02:29
+sTaTiOn 33 03:30
+sTaTiOn 32 04:31
+91012
+sTaTiOn 36 00:29
+sTaTiOn 35 01:30
+sTaTiOn 34 02:31
+sTaTiOn 33 03:32
+sTaTiOn 32 04:33
+91013
+sTaTiOn 36 00:31
+sTaTiOn 35 01:32
+sTaTiOn 34 02:33
+sTaTiOn 33 03:34
+sTaTiOn 32 04:35
+91014
+sTaTiOn 36 00:33
+sTaTiOn 35 01:34
+sTaTiOn 34 02:35
+sTaTiOn 33 03:36
+sTaTiOn 32 04:37
+91015
+sTaTiOn 36 00:35
+sTaTiOn 35 01:36
+sTaTiOn 34 02:37
+sTaTiOn 33 03:38
+sTaTiOn 32 04:39
+91016
+sTaTiOn 36 00:37
+sTaTiOn 35 01:38
+sTaTiOn 34 02:39
+sTaTiOn 33 03:40
+sTaTiOn 32 04:41
+91017
+sTaTiOn 36 00:39
+sTaTiOn 35 01:40
+sTaTiOn 34 02:41
+sTaTiOn 33 03:42
+sTaTiOn 32 04:43
+91018
+sTaTiOn 36 00:41
+sTaTiOn 35 01:42
+sTaTiOn 34 02:43
+sTaTiOn 33 03:44
+sTaTiOn 32 04:45
+91019
+sTaTiOn 36 00:43
+sTaTiOn 35 01:44
+sTaTiOn 34 02:45
+sTaTiOn 33 03:46
+sTaTiOn 32 04:47
+91020
+sTaTiOn 36 00:45
+sTaTiOn 35 01:46
+sTaTiOn 34 02:47
+sTaTiOn 33 03:48
+sTaTiOn 32 04:49
+1001
+sTaTiOn 36 00:07
+sTaTiOn 37 01:08
+sTaTiOn 38 02:09
+sTaTiOn 39 03:10
+sTaTiOn 40 04:11
+1002
+sTaTiOn 36 00:09
+sTaTiOn 37 01:10
+sTaTiOn 38 02:11
+sTaTiOn 39 03:12
+sTaTiOn 40 04:13
+1003
+sTaTiOn 36 00:11
+sTaTiOn 37 01:12
+sTaTiOn 38 02:13
+sTaTiOn 39 03:14
+sTaTiOn 40 04:15
+1004
+sTaTiOn 36 00:13
+sTaTiOn 37 01:14
+sTaTiOn 38 02:15
+sTaTiOn 39 03:16
+sTaTiOn 40 04:17
+1005
+sTaTiOn 36 00:15
+sTaTiOn 37 01:16
+sTaTiOn 38 02:17
+sTaTiOn 39 03:18
+sTaTiOn 40 04:19
+1006
+sTaTiOn 36 00:17
+sTaTiOn 37 01:18
+sTaTiOn 38 02:19
+sTaTiOn 39 03:20
+sTaTiOn 40 04:21
+1007
+sTaTiOn 36 00:19
+sTaTiOn 37 01:20
+sTaTiOn 38 02:21
+sTaTiOn 39 03:22
+sTaTiOn 40 04:23
+1008
+sTaTiOn 36 00:21
+sTaTiOn 37 01:22
+sTaTiOn 38 02:23
+sTaTiOn 39 03:24
+sTaTiOn 40 04:25
+1009
+sTaTiOn 36 00:23
+sTaTiOn 37 01:24
+sTaTiOn 38 02:25
+sTaTiOn 39 03:26
+sTaTiOn 40 04:27
+1010
+sTaTiOn 36 00:25
+sTaTiOn 37 01:26
+sTaTiOn 38 02:27
+sTaTiOn 39 03:28
+sTaTiOn 40 04:29
+1011
+sTaTiOn 36 00:27
+sTaTiOn 37 01:28
+sTaTiOn 38 02:29
+sTaTiOn 39 03:30
+sTaTiOn 40 04:31
+1012
+sTaTiOn 36 00:29
+sTaTiOn 37 01:30
+sTaTiOn 38 02:31
+sTaTiOn 39 03:32
+sTaTiOn 40 04:33
+1013
+sTaTiOn 36 00:31
+sTaTiOn 37 01:32
+sTaTiOn 38 02:33
+sTaTiOn 39 03:34
+sTaTiOn 40 04:35
+1014
+sTaTiOn 36 00:33
+sTaTiOn 37 01:34
+sTaTiOn 38 02:35
+sTaTiOn 39 03:36
+sTaTiOn 40 04:37
+1015
+sTaTiOn 36 00:35
+sTaTiOn 37 01:36
+sTaTiOn 38 02:37
+sTaTiOn 39 03:38
+sTaTiOn 40 04:39
+1016
+sTaTiOn 36 00:37
+sTaTiOn 37 01:38
+sTaTiOn 38 02:39
+sTaTiOn 39 03:40
+sTaTiOn 40 04:41
+1017
+sTaTiOn 36 00:39
+sTaTiOn 37 01:40
+sTaTiOn 38 02:41
+sTaTiOn 39 03:42
+sTaTiOn 40 04:43
+1018
+sTaTiOn 36 00:41
+sTaTiOn 37 01:42
+sTaTiOn 38 02:43
+sTaTiOn 39 03:44
+sTaTiOn 40 04:45
+1019
+sTaTiOn 36 00:43
+sTaTiOn 37 01:44
+sTaTiOn 38 02:45
+sTaTiOn 39 03:46
+sTaTiOn 40 04:47
+1020
+sTaTiOn 36 00:45
+sTaTiOn 37 01:46
+sTaTiOn 38 02:47
+sTaTiOn 39 03:48
+sTaTiOn 40 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+101001
+sTaTiOn 40 00:07
+sTaTiOn 39 01:08
+sTaTiOn 38 02:09
+sTaTiOn 37 03:10
+sTaTiOn 36 04:11
+101002
+sTaTiOn 40 00:09
+sTaTiOn 39 01:10
+sTaTiOn 38 02:11
+sTaTiOn 37 03:12
+sTaTiOn 36 04:13
+101003
+sTaTiOn 40 00:11
+sTaTiOn 39 01:12
+sTaTiOn 38 02:13
+sTaTiOn 37 03:14
+sTaTiOn 36 04:15
+101004
+sTaTiOn 40 00:13
+sTaTiOn 39 01:14
+sTaTiOn 38 02:15
+sTaTiOn 37 03:16
+sTaTiOn 36 04:17
+101005
+sTaTiOn 40 00:15
+sTaTiOn 39 01:16
+sTaTiOn 38 02:17
+sTaTiOn 37 03:18
+sTaTiOn 36 04:19
+101006
+sTaTiOn 40 00:17
+sTaTiOn 39 01:18
+sTaTiOn 38 02:19
+sTaTiOn 37 03:20
+sTaTiOn 36 04:21
+101007
+sTaTiOn 40 00:19
+sTaTiOn 39 01:20
+sTaTiOn 38 02:21
+sTaTiOn 37 03:22
+sTaTiOn 36 04:23
+101008
+sTaTiOn 40 00:21
+sTaTiOn 39 01:22
+sTaTiOn 38 02:23
+sTaTiOn 37 03:24
+sTaTiOn 36 04:25
+101009
+sTaTiOn 40 00:23
+sTaTiOn 39 01:24
+sTaTiOn 38 02:25
+sTaTiOn 37 03:26
+sTaTiOn 36 04:27
+101010
+sTaTiOn 40 00:25
+sTaTiOn 39 01:26
+sTaTiOn 38 02:27
+sTaTiOn 37 03:28
+sTaTiOn 36 04:29
+101011
+sTaTiOn 40 00:27
+sTaTiOn 39 01:28
+sTaTiOn 38 02:29
+sTaTiOn 37 03:30
+sTaTiOn 36 04:31
+101012
+sTaTiOn 40 00:29
+sTaTiOn 39 01:30
+sTaTiOn 38 02:31
+sTaTiOn 37 03:32
+sTaTiOn 36 04:33
+101013
+sTaTiOn 40 00:31
+sTaTiOn 39 01:32
+sTaTiOn 38 02:33
+sTaTiOn 37 03:34
+sTaTiOn 36 04:35
+101014
+sTaTiOn 40 00:33
+sTaTiOn 39 01:34
+sTaTiOn 38 02:35
+sTaTiOn 37 03:36
+sTaTiOn 36 04:37
+101015
+sTaTiOn 40 00:35
+sTaTiOn 39 01:36
+sTaTiOn 38 02:37
+sTaTiOn 37 03:38
+sTaTiOn 36 04:39
+101016
+sTaTiOn 40 00:37
+sTaTiOn 39 01:38
+sTaTiOn 38 02:39
+sTaTiOn 37 03:40
+sTaTiOn 36 04:41
+101017
+sTaTiOn 40 00:39
+sTaTiOn 39 01:40
+sTaTiOn 38 02:41
+sTaTiOn 37 03:42
+sTaTiOn 36 04:43
+101018
+sTaTiOn 40 00:41
+sTaTiOn 39 01:42
+sTaTiOn 38 02:43
+sTaTiOn 37 03:44
+sTaTiOn 36 04:45
+101019
+sTaTiOn 40 00:43
+sTaTiOn 39 01:44
+sTaTiOn 38 02:45
+sTaTiOn 37 03:46
+sTaTiOn 36 04:47
+101020
+sTaTiOn 40 00:45
+sTaTiOn 39 01:46
+sTaTiOn 38 02:47
+sTaTiOn 37 03:48
+sTaTiOn 36 04:49
+1101
+sTaTiOn 40 00:07
+sTaTiOn 41 01:08
+sTaTiOn 42 02:09
+sTaTiOn 43 03:10
+sTaTiOn 44 04:11
+1102
+sTaTiOn 40 00:09
+sTaTiOn 41 01:10
+sTaTiOn 42 02:11
+sTaTiOn 43 03:12
+sTaTiOn 44 04:13
+1103
+sTaTiOn 40 00:11
+sTaTiOn 41 01:12
+sTaTiOn 42 02:13
+sTaTiOn 43 03:14
+sTaTiOn 44 04:15
+1104
+sTaTiOn 40 00:13
+sTaTiOn 41 01:14
+sTaTiOn 42 02:15
+sTaTiOn 43 03:16
+sTaTiOn 44 04:17
+1105
+sTaTiOn 40 00:15
+sTaTiOn 41 01:16
+sTaTiOn 42 02:17
+sTaTiOn 43 03:18
+sTaTiOn 44 04:19
+1106
+sTaTiOn 40 00:17
+sTaTiOn 41 01:18
+sTaTiOn 42 02:19
+sTaTiOn 43 03:20
+sTaTiOn 44 04:21
+1107
+sTaTiOn 40 00:19
+sTaTiOn 41 01:20
+sTaTiOn 42 02:21
+sTaTiOn 43 03:22
+sTaTiOn 44 04:23
+1108
+sTaTiOn 40 00:21
+sTaTiOn 41 01:22
+sTaTiOn 42 02:23
+sTaTiOn 43 03:24
+sTaTiOn 44 04:25
+1109
+sTaTiOn 40 00:23
+sTaTiOn 41 01:24
+sTaTiOn 42 02:25
+sTaTiOn 43 03:26
+sTaTiOn 44 04:27
+1110
+sTaTiOn 40 00:25
+sTaTiOn 41 01:26
+sTaTiOn 42 02:27
+sTaTiOn 43 03:28
+sTaTiOn 44 04:29
+1111
+sTaTiOn 40 00:27
+sTaTiOn 41 01:28
+sTaTiOn 42 02:29
+sTaTiOn 43 03:30
+sTaTiOn 44 04:31
+1112
+sTaTiOn 40 00:29
+sTaTiOn 41 01:30
+sTaTiOn 42 02:31
+sTaTiOn 43 03:32
+sTaTiOn 44 04:33
+1113
+sTaTiOn 40 00:31
+sTaTiOn 41 01:32
+sTaTiOn 42 02:33
+sTaTiOn 43 03:34
+sTaTiOn 44 04:35
+1114
+sTaTiOn 40 00:33
+sTaTiOn 41 01:34
+sTaTiOn 42 02:35
+sTaTiOn 43 03:36
+sTaTiOn 44 04:37
+1115
+sTaTiOn 40 00:35
+sTaTiOn 41 01:36
+sTaTiOn 42 02:37
+sTaTiOn 43 03:38
+sTaTiOn 44 04:39
+1116
+sTaTiOn 40 00:37
+sTaTiOn 41 01:38
+sTaTiOn 42 02:39
+sTaTiOn 43 03:40
+sTaTiOn 44 04:41
+1117
+sTaTiOn 40 00:39
+sTaTiOn 41 01:40
+sTaTiOn 42 02:41
+sTaTiOn 43 03:42
+sTaTiOn 44 04:43
+1118
+sTaTiOn 40 00:41
+sTaTiOn 41 01:42
+sTaTiOn 42 02:43
+sTaTiOn 43 03:44
+sTaTiOn 44 04:45
+1119
+sTaTiOn 40 00:43
+sTaTiOn 41 01:44
+sTaTiOn 42 02:45
+sTaTiOn 43 03:46
+sTaTiOn 44 04:47
+1120
+sTaTiOn 40 00:45
+sTaTiOn 41 01:46
+sTaTiOn 42 02:47
+sTaTiOn 43 03:48
+sTaTiOn 44 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+111001
+sTaTiOn 44 00:07
+sTaTiOn 43 01:08
+sTaTiOn 42 02:09
+sTaTiOn 41 03:10
+sTaTiOn 40 04:11
+111002
+sTaTiOn 44 00:09
+sTaTiOn 43 01:10
+sTaTiOn 42 02:11
+sTaTiOn 41 03:12
+sTaTiOn 40 04:13
+111003
+sTaTiOn 44 00:11
+sTaTiOn 43 01:12
+sTaTiOn 42 02:13
+sTaTiOn 41 03:14
+sTaTiOn 40 04:15
+111004
+sTaTiOn 44 00:13
+sTaTiOn 43 01:14
+sTaTiOn 42 02:15
+sTaTiOn 41 03:16
+sTaTiOn 40 04:17
+111005
+sTaTiOn 44 00:15
+sTaTiOn 43 01:16
+sTaTiOn 42 02:17
+sTaTiOn 41 03:18
+sTaTiOn 40 04:19
+111006
+sTaTiOn 44 00:17
+sTaTiOn 43 01:18
+sTaTiOn 42 02:19
+sTaTiOn 41 03:20
+sTaTiOn 40 04:21
+111007
+sTaTiOn 44 00:19
+sTaTiOn 43 01:20
+sTaTiOn 42 02:21
+sTaTiOn 41 03:22
+sTaTiOn 40 04:23
+111008
+sTaTiOn 44 00:21
+sTaTiOn 43 01:22
+sTaTiOn 42 02:23
+sTaTiOn 41 03:24
+sTaTiOn 40 04:25
+111009
+sTaTiOn 44 00:23
+sTaTiOn 43 01:24
+sTaTiOn 42 02:25
+sTaTiOn 41 03:26
+sTaTiOn 40 04:27
+111010
+sTaTiOn 44 00:25
+sTaTiOn 43 01:26
+sTaTiOn 42 02:27
+sTaTiOn 41 03:28
+sTaTiOn 40 04:29
+111011
+sTaTiOn 44 00:27
+sTaTiOn 43 01:28
+sTaTiOn 42 02:29
+sTaTiOn 41 03:30
+sTaTiOn 40 04:31
+111012
+sTaTiOn 44 00:29
+sTaTiOn 43 01:30
+sTaTiOn 42 02:31
+sTaTiOn 41 03:32
+sTaTiOn 40 04:33
+111013
+sTaTiOn 44 00:31
+sTaTiOn 43 01:32
+sTaTiOn 42 02:33
+sTaTiOn 41 03:34
+sTaTiOn 40 04:35
+111014
+sTaTiOn 44 00:33
+sTaTiOn 43 01:34
+sTaTiOn 42 02:35
+sTaTiOn 41 03:36
+sTaTiOn 40 04:37
+111015
+sTaTiOn 44 00:35
+sTaTiOn 43 01:36
+sTaTiOn 42 02:37
+sTaTiOn 41 03:38
+sTaTiOn 40 04:39
+111016
+sTaTiOn 44 00:37
+sTaTiOn 43 01:38
+sTaTiOn 42 02:39
+sTaTiOn 41 03:40
+sTaTiOn 40 04:41
+111017
+sTaTiOn 44 00:39
+sTaTiOn 43 01:40
+sTaTiOn 42 02:41
+sTaTiOn 41 03:42
+sTaTiOn 40 04:43
+111018
+sTaTiOn 44 00:41
+sTaTiOn 43 01:42
+sTaTiOn 42 02:43
+sTaTiOn 41 03:44
+sTaTiOn 40 04:45
+111019
+sTaTiOn 44 00:43
+sTaTiOn 43 01:44
+sTaTiOn 42 02:45
+sTaTiOn 41 03:46
+sTaTiOn 40 04:47
+111020
+sTaTiOn 44 00:45
+sTaTiOn 43 01:46
+sTaTiOn 42 02:47
+sTaTiOn 41 03:48
+sTaTiOn 40 04:49
+1201
+sTaTiOn 44 00:07
+sTaTiOn 45 01:08
+sTaTiOn 46 02:09
+sTaTiOn 47 03:10
+sTaTiOn 48 04:11
+1202
+sTaTiOn 44 00:09
+sTaTiOn 45 01:10
+sTaTiOn 46 02:11
+sTaTiOn 47 03:12
+sTaTiOn 48 04:13
+1203
+sTaTiOn 44 00:11
+sTaTiOn 45 01:12
+sTaTiOn 46 02:13
+sTaTiOn 47 03:14
+sTaTiOn 48 04:15
+1204
+sTaTiOn 44 00:13
+sTaTiOn 45 01:14
+sTaTiOn 46 02:15
+sTaTiOn 47 03:16
+sTaTiOn 48 04:17
+1205
+sTaTiOn 44 00:15
+sTaTiOn 45 01:16
+sTaTiOn 46 02:17
+sTaTiOn 47 03:18
+sTaTiOn 48 04:19
+1206
+sTaTiOn 44 00:17
+sTaTiOn 45 01:18
+sTaTiOn 46 02:19
+sTaTiOn 47 03:20
+sTaTiOn 48 04:21
+1207
+sTaTiOn 44 00:19
+sTaTiOn 45 01:20
+sTaTiOn 46 02:21
+sTaTiOn 47 03:22
+sTaTiOn 48 04:23
+1208
+sTaTiOn 44 00:21
+sTaTiOn 45 01:22
+sTaTiOn 46 02:23
+sTaTiOn 47 03:24
+sTaTiOn 48 04:25
+1209
+sTaTiOn 44 00:23
+sTaTiOn 45 01:24
+sTaTiOn 46 02:25
+sTaTiOn 47 03:26
+sTaTiOn 48 04:27
+1210
+sTaTiOn 44 00:25
+sTaTiOn 45 01:26
+sTaTiOn 46 02:27
+sTaTiOn 47 03:28
+sTaTiOn 48 04:29
+1211
+sTaTiOn 44 00:27
+sTaTiOn 45 01:28
+sTaTiOn 46 02:29
+sTaTiOn 47 03:30
+sTaTiOn 48 04:31
+1212
+sTaTiOn 44 00:29
+sTaTiOn 45 01:30
+sTaTiOn 46 02:31
+sTaTiOn 47 03:32
+sTaTiOn 48 04:33
+1213
+sTaTiOn 44 00:31
+sTaTiOn 45 01:32
+sTaTiOn 46 02:33
+sTaTiOn 47 03:34
+sTaTiOn 48 04:35
+1214
+sTaTiOn 44 00:33
+sTaTiOn 45 01:34
+sTaTiOn 46 02:35
+sTaTiOn 47 03:36
+sTaTiOn 48 04:37
+1215
+sTaTiOn 44 00:35
+sTaTiOn 45 01:36
+sTaTiOn 46 02:37
+sTaTiOn 47 03:38
+sTaTiOn 48 04:39
+1216
+sTaTiOn 44 00:37
+sTaTiOn 45 01:38
+sTaTiOn 46 02:39
+sTaTiOn 47 03:40
+sTaTiOn 48 04:41
+1217
+sTaTiOn 44 00:39
+sTaTiOn 45 01:40
+sTaTiOn 46 02:41
+sTaTiOn 47 03:42
+sTaTiOn 48 04:43
+1218
+sTaTiOn 44 00:41
+sTaTiOn 45 01:42
+sTaTiOn 46 02:43
+sTaTiOn 47 03:44
+sTaTiOn 48 04:45
+1219
+sTaTiOn 44 00:43
+sTaTiOn 45 01:44
+sTaTiOn 46 02:45
+sTaTiOn 47 03:46
+sTaTiOn 48 04:47
+1220
+sTaTiOn 44 00:45
+sTaTiOn 45 01:46
+sTaTiOn 46 02:47
+sTaTiOn 47 03:48
+sTaTiOn 48 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+121001
+sTaTiOn 48 00:07
+sTaTiOn 47 01:08
+sTaTiOn 46 02:09
+sTaTiOn 45 03:10
+sTaTiOn 44 04:11
+121002
+sTaTiOn 48 00:09
+sTaTiOn 47 01:10
+sTaTiOn 46 02:11
+sTaTiOn 45 03:12
+sTaTiOn 44 04:13
+121003
+sTaTiOn 48 00:11
+sTaTiOn 47 01:12
+sTaTiOn 46 02:13
+sTaTiOn 45 03:14
+sTaTiOn 44 04:15
+121004
+sTaTiOn 48 00:13
+sTaTiOn 47 01:14
+sTaTiOn 46 02:15
+sTaTiOn 45 03:16
+sTaTiOn 44 04:17
+121005
+sTaTiOn 48 00:15
+sTaTiOn 47 01:16
+sTaTiOn 46 02:17
+sTaTiOn 45 03:18
+sTaTiOn 44 04:19
+121006
+sTaTiOn 48 00:17
+sTaTiOn 47 01:18
+sTaTiOn 46 02:19
+sTaTiOn 45 03:20
+sTaTiOn 44 04:21
+121007
+sTaTiOn 48 00:19
+sTaTiOn 47 01:20
+sTaTiOn 46 02:21
+sTaTiOn 45 03:22
+sTaTiOn 44 04:23
+121008
+sTaTiOn 48 00:21
+sTaTiOn 47 01:22
+sTaTiOn 46 02:23
+sTaTiOn 45 03:24
+sTaTiOn 44 04:25
+121009
+sTaTiOn 48 00:23
+sTaTiOn 47 01:24
+sTaTiOn 46 02:25
+sTaTiOn 45 03:26
+sTaTiOn 44 04:27
+121010
+sTaTiOn 48 00:25
+sTaTiOn 47 01:26
+sTaTiOn 46 02:27
+sTaTiOn 45 03:28
+sTaTiOn 44 04:29
+121011
+sTaTiOn 48 00:27
+sTaTiOn 47 01:28
+sTaTiOn 46 02:29
+sTaTiOn 45 03:30
+sTaTiOn 44 04:31
+121012
+sTaTiOn 48 00:29
+sTaTiOn 47 01:30
+sTaTiOn 46 02:31
+sTaTiOn 45 03:32
+sTaTiOn 44 04:33
+121013
+sTaTiOn 48 00:31
+sTaTiOn 47 01:32
+sTaTiOn 46 02:33
+sTaTiOn 45 03:34
+sTaTiOn 44 04:35
+121014
+sTaTiOn 48 00:33
+sTaTiOn 47 01:34
+sTaTiOn 46 02:35
+sTaTiOn 45 03:36
+sTaTiOn 44 04:37
+121015
+sTaTiOn 48 00:35
+sTaTiOn 47 01:36
+sTaTiOn 46 02:37
+sTaTiOn 45 03:38
+sTaTiOn 44 04:39
+121016
+sTaTiOn 48 00:37
+sTaTiOn 47 01:38
+sTaTiOn 46 02:39
+sTaTiOn 45 03:40
+sTaTiOn 44 04:41
+121017
+sTaTiOn 48 00:39
+sTaTiOn 47 01:40
+sTaTiOn 46 02:41
+sTaTiOn 45 03:42
+sTaTiOn 44 04:43
+121018
+sTaTiOn 48 00:41
+sTaTiOn 47 01:42
+sTaTiOn 46 02:43
+sTaTiOn 45 03:44
+sTaTiOn 44 04:45
+121019
+sTaTiOn 48 00:43
+sTaTiOn 47 01:44
+sTaTiOn 46 02:45
+sTaTiOn 45 03:46
+sTaTiOn 44 04:47
+121020
+sTaTiOn 48 00:45
+sTaTiOn 47 01:46
+sTaTiOn 46 02:47
+sTaTiOn 45 03:48
+sTaTiOn 44 04:49
+1301
+sTaTiOn 48 00:07
+sTaTiOn 49 01:08
+sTaTiOn 50 02:09
+sTaTiOn 51 03:10
+sTaTiOn 52 04:11
+1302
+sTaTiOn 48 00:09
+sTaTiOn 49 01:10
+sTaTiOn 50 02:11
+sTaTiOn 51 03:12
+sTaTiOn 52 04:13
+1303
+sTaTiOn 48 00:11
+sTaTiOn 49 01:12
+sTaTiOn 50 02:13
+sTaTiOn 51 03:14
+sTaTiOn 52 04:15
+1304
+sTaTiOn 48 00:13
+sTaTiOn 49 01:14
+sTaTiOn 50 02:15
+sTaTiOn 51 03:16
+sTaTiOn 52 04:17
+1305
+sTaTiOn 48 00:15
+sTaTiOn 49 01:16
+sTaTiOn 50 02:17
+sTaTiOn 51 03:18
+sTaTiOn 52 04:19
+1306
+sTaTiOn 48 00:17
+sTaTiOn 49 01:18
+sTaTiOn 50 02:19
+sTaTiOn 51 03:20
+sTaTiOn 52 04:21
+1307
+sTaTiOn 48 00:19
+sTaTiOn 49 01:20
+sTaTiOn 50 02:21
+sTaTiOn 51 03:22
+sTaTiOn 52 04:23
+1308
+sTaTiOn 48 00:21
+sTaTiOn 49 01:22
+sTaTiOn 50 02:23
+sTaTiOn 51 03:24
+sTaTiOn 52 04:25
+1309
+sTaTiOn 48 00:23
+sTaTiOn 49 01:24
+sTaTiOn 50 02:25
+sTaTiOn 51 03:26
+sTaTiOn 52 04:27
+1310
+sTaTiOn 48 00:25
+sTaTiOn 49 01:26
+sTaTiOn 50 02:27
+sTaTiOn 51 03:28
+sTaTiOn 52 04:29
+1311
+sTaTiOn 48 00:27
+sTaTiOn 49 01:28
+sTaTiOn 50 02:29
+sTaTiOn 51 03:30
+sTaTiOn 52 04:31
+1312
+sTaTiOn 48 00:29
+sTaTiOn 49 01:30
+sTaTiOn 50 02:31
+sTaTiOn 51 03:32
+sTaTiOn 52 04:33
+1313
+sTaTiOn 48 00:31
+sTaTiOn 49 01:32
+sTaTiOn 50 02:33
+sTaTiOn 51 03:34
+sTaTiOn 52 04:35
+1314
+sTaTiOn 48 00:33
+sTaTiOn 49 01:34
+sTaTiOn 50 02:35
+sTaTiOn 51 03:36
+sTaTiOn 52 04:37
+1315
+sTaTiOn 48 00:35
+sTaTiOn 49 01:36
+sTaTiOn 50 02:37
+sTaTiOn 51 03:38
+sTaTiOn 52 04:39
+1316
+sTaTiOn 48 00:37
+sTaTiOn 49 01:38
+sTaTiOn 50 02:39
+sTaTiOn 51 03:40
+sTaTiOn 52 04:41
+1317
+sTaTiOn 48 00:39
+sTaTiOn 49 01:40
+sTaTiOn 50 02:41
+sTaTiOn 51 03:42
+sTaTiOn 52 04:43
+1318
+sTaTiOn 48 00:41
+sTaTiOn 49 01:42
+sTaTiOn 50 02:43
+sTaTiOn 51 03:44
+sTaTiOn 52 04:45
+1319
+sTaTiOn 48 00:43
+sTaTiOn 49 01:44
+sTaTiOn 50 02:45
+sTaTiOn 51 03:46
+sTaTiOn 52 04:47
+1320
+sTaTiOn 48 00:45
+sTaTiOn 49 01:46
+sTaTiOn 50 02:47
+sTaTiOn 51 03:48
+sTaTiOn 52 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+131001
+sTaTiOn 52 00:07
+sTaTiOn 51 01:08
+sTaTiOn 50 02:09
+sTaTiOn 49 03:10
+sTaTiOn 48 04:11
+131002
+sTaTiOn 52 00:09
+sTaTiOn 51 01:10
+sTaTiOn 50 02:11
+sTaTiOn 49 03:12
+sTaTiOn 48 04:13
+131003
+sTaTiOn 52 00:11
+sTaTiOn 51 01:12
+sTaTiOn 50 02:13
+sTaTiOn 49 03:14
+sTaTiOn 48 04:15
+131004
+sTaTiOn 52 00:13
+sTaTiOn 51 01:14
+sTaTiOn 50 02:15
+sTaTiOn 49 03:16
+sTaTiOn 48 04:17
+131005
+sTaTiOn 52 00:15
+sTaTiOn 51 01:16
+sTaTiOn 50 02:17
+sTaTiOn 49 03:18
+sTaTiOn 48 04:19
+131006
+sTaTiOn 52 00:17
+sTaTiOn 51 01:18
+sTaTiOn 50 02:19
+sTaTiOn 49 03:20
+sTaTiOn 48 04:21
+131007
+sTaTiOn 52 00:19
+sTaTiOn 51 01:20
+sTaTiOn 50 02:21
+sTaTiOn 49 03:22
+sTaTiOn 48 04:23
+131008
+sTaTiOn 52 00:21
+sTaTiOn 51 01:22
+sTaTiOn 50 02:23
+sTaTiOn 49 03:24
+sTaTiOn 48 04:25
+131009
+sTaTiOn 52 00:23
+sTaTiOn 51 01:24
+sTaTiOn 50 02:25
+sTaTiOn 49 03:26
+sTaTiOn 48 04:27
+131010
+sTaTiOn 52 00:25
+sTaTiOn 51 01:26
+sTaTiOn 50 02:27
+sTaTiOn 49 03:28
+sTaTiOn 48 04:29
+131011
+sTaTiOn 52 00:27
+sTaTiOn 51 01:28
+sTaTiOn 50 02:29
+sTaTiOn 49 03:30
+sTaTiOn 48 04:31
+131012
+sTaTiOn 52 00:29
+sTaTiOn 51 01:30
+sTaTiOn 50 02:31
+sTaTiOn 49 03:32
+sTaTiOn 48 04:33
+131013
+sTaTiOn 52 00:31
+sTaTiOn 51 01:32
+sTaTiOn 50 02:33
+sTaTiOn 49 03:34
+sTaTiOn 48 04:35
+131014
+sTaTiOn 52 00:33
+sTaTiOn 51 01:34
+sTaTiOn 50 02:35
+sTaTiOn 49 03:36
+sTaTiOn 48 04:37
+131015
+sTaTiOn 52 00:35
+sTaTiOn 51 01:36
+sTaTiOn 50 02:37
+sTaTiOn 49 03:38
+sTaTiOn 48 04:39
+131016
+sTaTiOn 52 00:37
+sTaTiOn 51 01:38
+sTaTiOn 50 02:39
+sTaTiOn 49 03:40
+sTaTiOn 48 04:41
+131017
+sTaTiOn 52 00:39
+sTaTiOn 51 01:40
+sTaTiOn 50 02:41
+sTaTiOn 49 03:42
+sTaTiOn 48 04:43
+131018
+sTaTiOn 52 00:41
+sTaTiOn 51 01:42
+sTaTiOn 50 02:43
+sTaTiOn 49 03:44
+sTaTiOn 48 04:45
+131019
+sTaTiOn 52 00:43
+sTaTiOn 51 01:44
+sTaTiOn 50 02:45
+sTaTiOn 49 03:46
+sTaTiOn 48 04:47
+131020
+sTaTiOn 52 00:45
+sTaTiOn 51 01:46
+sTaTiOn 50 02:47
+sTaTiOn 49 03:48
+sTaTiOn 48 04:49
+1401
+sTaTiOn 52 00:07
+sTaTiOn 53 01:08
+sTaTiOn 54 02:09
+sTaTiOn 55 03:10
+sTaTiOn 56 04:11
+1402
+sTaTiOn 52 00:09
+sTaTiOn 53 01:10
+sTaTiOn 54 02:11
+sTaTiOn 55 03:12
+sTaTiOn 56 04:13
+1403
+sTaTiOn 52 00:11
+sTaTiOn 53 01:12
+sTaTiOn 54 02:13
+sTaTiOn 55 03:14
+sTaTiOn 56 04:15
+1404
+sTaTiOn 52 00:13
+sTaTiOn 53 01:14
+sTaTiOn 54 02:15
+sTaTiOn 55 03:16
+sTaTiOn 56 04:17
+1405
+sTaTiOn 52 00:15
+sTaTiOn 53 01:16
+sTaTiOn 54 02:17
+sTaTiOn 55 03:18
+sTaTiOn 56 04:19
+1406
+sTaTiOn 52 00:17
+sTaTiOn 53 01:18
+sTaTiOn 54 02:19
+sTaTiOn 55 03:20
+sTaTiOn 56 04:21
+1407
+sTaTiOn 52 00:19
+sTaTiOn 53 01:20
+sTaTiOn 54 02:21
+sTaTiOn 55 03:22
+sTaTiOn 56 04:23
+1408
+sTaTiOn 52 00:21
+sTaTiOn 53 01:22
+sTaTiOn 54 02:23
+sTaTiOn 55 03:24
+sTaTiOn 56 04:25
+1409
+sTaTiOn 52 00:23
+sTaTiOn 53 01:24
+sTaTiOn 54 02:25
+sTaTiOn 55 03:26
+sTaTiOn 56 04:27
+1410
+sTaTiOn 52 00:25
+sTaTiOn 53 01:26
+sTaTiOn 54 02:27
+sTaTiOn 55 03:28
+sTaTiOn 56 04:29
+1411
+sTaTiOn 52 00:27
+sTaTiOn 53 01:28
+sTaTiOn 54 02:29
+sTaTiOn 55 03:30
+sTaTiOn 56 04:31
+1412
+sTaTiOn 52 00:29
+sTaTiOn 53 01:30
+sTaTiOn 54 02:31
+sTaTiOn 55 03:32
+sTaTiOn 56 04:33
+1413
+sTaTiOn 52 00:31
+sTaTiOn 53 01:32
+sTaTiOn 54 02:33
+sTaTiOn 55 03:34
+sTaTiOn 56 04:35
+1414
+sTaTiOn 52 00:33
+sTaTiOn 53 01:34
+sTaTiOn 54 02:35
+sTaTiOn 55 03:36
+sTaTiOn 56 04:37
+1415
+sTaTiOn 52 00:35
+sTaTiOn 53 01:36
+sTaTiOn 54 02:37
+sTaTiOn 55 03:38
+sTaTiOn 56 04:39
+1416
+sTaTiOn 52 00:37
+sTaTiOn 53 01:38
+sTaTiOn 54 02:39
+sTaTiOn 55 03:40
+sTaTiOn 56 04:41
+1417
+sTaTiOn 52 00:39
+sTaTiOn 53 01:40
+sTaTiOn 54 02:41
+sTaTiOn 55 03:42
+sTaTiOn 56 04:43
+1418
+sTaTiOn 52 00:41
+sTaTiOn 53 01:42
+sTaTiOn 54 02:43
+sTaTiOn 55 03:44
+sTaTiOn 56 04:45
+1419
+sTaTiOn 52 00:43
+sTaTiOn 53 01:44
+sTaTiOn 54 02:45
+sTaTiOn 55 03:46
+sTaTiOn 56 04:47
+1420
+sTaTiOn 52 00:45
+sTaTiOn 53 01:46
+sTaTiOn 54 02:47
+sTaTiOn 55 03:48
+sTaTiOn 56 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+141001
+sTaTiOn 56 00:07
+sTaTiOn 55 01:08
+sTaTiOn 54 02:09
+sTaTiOn 53 03:10
+sTaTiOn 52 04:11
+141002
+sTaTiOn 56 00:09
+sTaTiOn 55 01:10
+sTaTiOn 54 02:11
+sTaTiOn 53 03:12
+sTaTiOn 52 04:13
+141003
+sTaTiOn 56 00:11
+sTaTiOn 55 01:12
+sTaTiOn 54 02:13
+sTaTiOn 53 03:14
+sTaTiOn 52 04:15
+141004
+sTaTiOn 56 00:13
+sTaTiOn 55 01:14
+sTaTiOn 54 02:15
+sTaTiOn 53 03:16
+sTaTiOn 52 04:17
+141005
+sTaTiOn 56 00:15
+sTaTiOn 55 01:16
+sTaTiOn 54 02:17
+sTaTiOn 53 03:18
+sTaTiOn 52 04:19
+141006
+sTaTiOn 56 00:17
+sTaTiOn 55 01:18
+sTaTiOn 54 02:19
+sTaTiOn 53 03:20
+sTaTiOn 52 04:21
+141007
+sTaTiOn 56 00:19
+sTaTiOn 55 01:20
+sTaTiOn 54 02:21
+sTaTiOn 53 03:22
+sTaTiOn 52 04:23
+141008
+sTaTiOn 56 00:21
+sTaTiOn 55 01:22
+sTaTiOn 54 02:23
+sTaTiOn 53 03:24
+sTaTiOn 52 04:25
+141009
+sTaTiOn 56 00:23
+sTaTiOn 55 01:24
+sTaTiOn 54 02:25
+sTaTiOn 53 03:26
+sTaTiOn 52 04:27
+141010
+sTaTiOn 56 00:25
+sTaTiOn 55 01:26
+sTaTiOn 54 02:27
+sTaTiOn 53 03:28
+sTaTiOn 52 04:29
+141011
+sTaTiOn 56 00:27
+sTaTiOn 55 01:28
+sTaTiOn 54 02:29
+sTaTiOn 53 03:30
+sTaTiOn 52 04:31
+141012
+sTaTiOn 56 00:29
+sTaTiOn 55 01:30
+sTaTiOn 54 02:31
+sTaTiOn 53 03:32
+sTaTiOn 52 04:33
+141013
+sTaTiOn 56 00:31
+sTaTiOn 55 01:32
+sTaTiOn 54 02:33
+sTaTiOn 53 03:34
+sTaTiOn 52 04:35
+141014
+sTaTiOn 56 00:33
+sTaTiOn 55 01:34
+sTaTiOn 54 02:35
+sTaTiOn 53 03:36
+sTaTiOn 52 04:37
+141015
+sTaTiOn 56 00:35
+sTaTiOn 55 01:36
+sTaTiOn 54 02:37
+sTaTiOn 53 03:38
+sTaTiOn 52 04:39
+141016
+sTaTiOn 56 00:37
+sTaTiOn 55 01:38
+sTaTiOn 54 02:39
+sTaTiOn 53 03:40
+sTaTiOn 52 04:41
+141017
+sTaTiOn 56 00:39
+sTaTiOn 55 01:40
+sTaTiOn 54 02:41
+sTaTiOn 53 03:42
+sTaTiOn 52 04:43
+141018
+sTaTiOn 56 00:41
+sTaTiOn 55 01:42
+sTaTiOn 54 02:43
+sTaTiOn 53 03:44
+sTaTiOn 52 04:45
+141019
+sTaTiOn 56 00:43
+sTaTiOn 55 01:44
+sTaTiOn 54 02:45
+sTaTiOn 53 03:46
+sTaTiOn 52 04:47
+141020
+sTaTiOn 56 00:45
+sTaTiOn 55 01:46
+sTaTiOn 54 02:47
+sTaTiOn 53 03:48
+sTaTiOn 52 04:49
+1501
+sTaTiOn 56 00:07
+sTaTiOn 57 01:08
+sTaTiOn 58 02:09
+sTaTiOn 59 03:10
+sTaTiOn 60 04:11
+1502
+sTaTiOn 56 00:09
+sTaTiOn 57 01:10
+sTaTiOn 58 02:11
+sTaTiOn 59 03:12
+sTaTiOn 60 04:13
+1503
+sTaTiOn 56 00:11
+sTaTiOn 57 01:12
+sTaTiOn 58 02:13
+sTaTiOn 59 03:14
+sTaTiOn 60 04:15
+1504
+sTaTiOn 56 00:13
+sTaTiOn 57 01:14
+sTaTiOn 58 02:15
+sTaTiOn 59 03:16
+sTaTiOn 60 04:17
+1505
+sTaTiOn 56 00:15
+sTaTiOn 57 01:16
+sTaTiOn 58 02:17
+sTaTiOn 59 03:18
+sTaTiOn 60 04:19
+1506
+sTaTiOn 56 00:17
+sTaTiOn 57 01:18
+sTaTiOn 58 02:19
+sTaTiOn 59 03:20
+sTaTiOn 60 04:21
+1507
+sTaTiOn 56 00:19
+sTaTiOn 57 01:20
+sTaTiOn 58 02:21
+sTaTiOn 59 03:22
+sTaTiOn 60 04:23
+1508
+sTaTiOn 56 00:21
+sTaTiOn 57 01:22
+sTaTiOn 58 02:23
+sTaTiOn 59 03:24
+sTaTiOn 60 04:25
+1509
+sTaTiOn 56 00:23
+sTaTiOn 57 01:24
+sTaTiOn 58 02:25
+sTaTiOn 59 03:26
+sTaTiOn 60 04:27
+1510
+sTaTiOn 56 00:25
+sTaTiOn 57 01:26
+sTaTiOn 58 02:27
+sTaTiOn 59 03:28
+sTaTiOn 60 04:29
+1511
+sTaTiOn 56 00:27
+sTaTiOn 57 01:28
+sTaTiOn 58 02:29
+sTaTiOn 59 03:30
+sTaTiOn 60 04:31
+1512
+sTaTiOn 56 00:29
+sTaTiOn 57 01:30
+sTaTiOn 58 02:31
+sTaTiOn 59 03:32
+sTaTiOn 60 04:33
+1513
+sTaTiOn 56 00:31
+sTaTiOn 57 01:32
+sTaTiOn 58 02:33
+sTaTiOn 59 03:34
+sTaTiOn 60 04:35
+1514
+sTaTiOn 56 00:33
+sTaTiOn 57 01:34
+sTaTiOn 58 02:35
+sTaTiOn 59 03:36
+sTaTiOn 60 04:37
+1515
+sTaTiOn 56 00:35
+sTaTiOn 57 01:36
+sTaTiOn 58 02:37
+sTaTiOn 59 03:38
+sTaTiOn 60 04:39
+1516
+sTaTiOn 56 00:37
+sTaTiOn 57 01:38
+sTaTiOn 58 02:39
+sTaTiOn 59 03:40
+sTaTiOn 60 04:41
+1517
+sTaTiOn 56 00:39
+sTaTiOn 57 01:40
+sTaTiOn 58 02:41
+sTaTiOn 59 03:42
+sTaTiOn 60 04:43
+1518
+sTaTiOn 56 00:41
+sTaTiOn 57 01:42
+sTaTiOn 58 02:43
+sTaTiOn 59 03:44
+sTaTiOn 60 04:45
+1519
+sTaTiOn 56 00:43
+sTaTiOn 57 01:44
+sTaTiOn 58 02:45
+sTaTiOn 59 03:46
+sTaTiOn 60 04:47
+1520
+sTaTiOn 56 00:45
+sTaTiOn 57 01:46
+sTaTiOn 58 02:47
+sTaTiOn 59 03:48
+sTaTiOn 60 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+151001
+sTaTiOn 60 00:07
+sTaTiOn 59 01:08
+sTaTiOn 58 02:09
+sTaTiOn 57 03:10
+sTaTiOn 56 04:11
+151002
+sTaTiOn 60 00:09
+sTaTiOn 59 01:10
+sTaTiOn 58 02:11
+sTaTiOn 57 03:12
+sTaTiOn 56 04:13
+151003
+sTaTiOn 60 00:11
+sTaTiOn 59 01:12
+sTaTiOn 58 02:13
+sTaTiOn 57 03:14
+sTaTiOn 56 04:15
+151004
+sTaTiOn 60 00:13
+sTaTiOn 59 01:14
+sTaTiOn 58 02:15
+sTaTiOn 57 03:16
+sTaTiOn 56 04:17
+151005
+sTaTiOn 60 00:15
+sTaTiOn 59 01:16
+sTaTiOn 58 02:17
+sTaTiOn 57 03:18
+sTaTiOn 56 04:19
+151006
+sTaTiOn 60 00:17
+sTaTiOn 59 01:18
+sTaTiOn 58 02:19
+sTaTiOn 57 03:20
+sTaTiOn 56 04:21
+151007
+sTaTiOn 60 00:19
+sTaTiOn 59 01:20
+sTaTiOn 58 02:21
+sTaTiOn 57 03:22
+sTaTiOn 56 04:23
+151008
+sTaTiOn 60 00:21
+sTaTiOn 59 01:22
+sTaTiOn 58 02:23
+sTaTiOn 57 03:24
+sTaTiOn 56 04:25
+151009
+sTaTiOn 60 00:23
+sTaTiOn 59 01:24
+sTaTiOn 58 02:25
+sTaTiOn 57 03:26
+sTaTiOn 56 04:27
+151010
+sTaTiOn 60 00:25
+sTaTiOn 59 01:26
+sTaTiOn 58 02:27
+sTaTiOn 57 03:28
+sTaTiOn 56 04:29
+151011
+sTaTiOn 60 00:27
+sTaTiOn 59 01:28
+sTaTiOn 58 02:29
+sTaTiOn 57 03:30
+sTaTiOn 56 04:31
+151012
+sTaTiOn 60 00:29
+sTaTiOn 59 01:30
+sTaTiOn 58 02:31
+sTaTiOn 57 03:32
+sTaTiOn 56 04:33
+151013
+sTaTiOn 60 00:31
+sTaTiOn 59 01:32
+sTaTiOn 58 02:33
+sTaTiOn 57 03:34
+sTaTiOn 56 04:35
+151014
+sTaTiOn 60 00:33
+sTaTiOn 59 01:34
+sTaTiOn 58 02:35
+sTaTiOn 57 03:36
+sTaTiOn 56 04:37
+151015
+sTaTiOn 60 00:35
+sTaTiOn 59 01:36
+sTaTiOn 58 02:37
+sTaTiOn 57 03:38
+sTaTiOn 56 04:39
+151016
+sTaTiOn 60 00:37
+sTaTiOn 59 01:38
+sTaTiOn 58 02:39
+sTaTiOn 57 03:40
+sTaTiOn 56 04:41
+151017
+sTaTiOn 60 00:39
+sTaTiOn 59 01:40
+sTaTiOn 58 02:41
+sTaTiOn 57 03:42
+sTaTiOn 56 04:43
+151018
+sTaTiOn 60 00:41
+sTaTiOn 59 01:42
+sTaTiOn 58 02:43
+sTaTiOn 57 03:44
+sTaTiOn 56 04:45
+151019
+sTaTiOn 60 00:43
+sTaTiOn 59 01:44
+sTaTiOn 58 02:45
+sTaTiOn 57 03:46
+sTaTiOn 56 04:47
+151020
+sTaTiOn 60 00:45
+sTaTiOn 59 01:46
+sTaTiOn 58 02:47
+sTaTiOn 57 03:48
+sTaTiOn 56 04:49
+1601
+sTaTiOn 60 00:07
+sTaTiOn 61 01:08
+sTaTiOn 62 02:09
+sTaTiOn 63 03:10
+sTaTiOn 64 04:11
+1602
+sTaTiOn 60 00:09
+sTaTiOn 61 01:10
+sTaTiOn 62 02:11
+sTaTiOn 63 03:12
+sTaTiOn 64 04:13
+1603
+sTaTiOn 60 00:11
+sTaTiOn 61 01:12
+sTaTiOn 62 02:13
+sTaTiOn 63 03:14
+sTaTiOn 64 04:15
+1604
+sTaTiOn 60 00:13
+sTaTiOn 61 01:14
+sTaTiOn 62 02:15
+sTaTiOn 63 03:16
+sTaTiOn 64 04:17
+1605
+sTaTiOn 60 00:15
+sTaTiOn 61 01:16
+sTaTiOn 62 02:17
+sTaTiOn 63 03:18
+sTaTiOn 64 04:19
+1606
+sTaTiOn 60 00:17
+sTaTiOn 61 01:18
+sTaTiOn 62 02:19
+sTaTiOn 63 03:20
+sTaTiOn 64 04:21
+1607
+sTaTiOn 60 00:19
+sTaTiOn 61 01:20
+sTaTiOn 62 02:21
+sTaTiOn 63 03:22
+sTaTiOn 64 04:23
+1608
+sTaTiOn 60 00:21
+sTaTiOn 61 01:22
+sTaTiOn 62 02:23
+sTaTiOn 63 03:24
+sTaTiOn 64 04:25
+1609
+sTaTiOn 60 00:23
+sTaTiOn 61 01:24
+sTaTiOn 62 02:25
+sTaTiOn 63 03:26
+sTaTiOn 64 04:27
+1610
+sTaTiOn 60 00:25
+sTaTiOn 61 01:26
+sTaTiOn 62 02:27
+sTaTiOn 63 03:28
+sTaTiOn 64 04:29
+1611
+sTaTiOn 60 00:27
+sTaTiOn 61 01:28
+sTaTiOn 62 02:29
+sTaTiOn 63 03:30
+sTaTiOn 64 04:31
+1612
+sTaTiOn 60 00:29
+sTaTiOn 61 01:30
+sTaTiOn 62 02:31
+sTaTiOn 63 03:32
+sTaTiOn 64 04:33
+1613
+sTaTiOn 60 00:31
+sTaTiOn 61 01:32
+sTaTiOn 62 02:33
+sTaTiOn 63 03:34
+sTaTiOn 64 04:35
+1614
+sTaTiOn 60 00:33
+sTaTiOn 61 01:34
+sTaTiOn 62 02:35
+sTaTiOn 63 03:36
+sTaTiOn 64 04:37
+1615
+sTaTiOn 60 00:35
+sTaTiOn 61 01:36
+sTaTiOn 62 02:37
+sTaTiOn 63 03:38
+sTaTiOn 64 04:39
+1616
+sTaTiOn 60 00:37
+sTaTiOn 61 01:38
+sTaTiOn 62 02:39
+sTaTiOn 63 03:40
+sTaTiOn 64 04:41
+1617
+sTaTiOn 60 00:39
+sTaTiOn 61 01:40
+sTaTiOn 62 02:41
+sTaTiOn 63 03:42
+sTaTiOn 64 04:43
+1618
+sTaTiOn 60 00:41
+sTaTiOn 61 01:42
+sTaTiOn 62 02:43
+sTaTiOn 63 03:44
+sTaTiOn 64 04:45
+1619
+sTaTiOn 60 00:43
+sTaTiOn 61 01:44
+sTaTiOn 62 02:45
+sTaTiOn 63 03:46
+sTaTiOn 64 04:47
+1620
+sTaTiOn 60 00:45
+sTaTiOn 61 01:46
+sTaTiOn 62 02:47
+sTaTiOn 63 03:48
+sTaTiOn 64 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+161001
+sTaTiOn 64 00:07
+sTaTiOn 63 01:08
+sTaTiOn 62 02:09
+sTaTiOn 61 03:10
+sTaTiOn 60 04:11
+161002
+sTaTiOn 64 00:09
+sTaTiOn 63 01:10
+sTaTiOn 62 02:11
+sTaTiOn 61 03:12
+sTaTiOn 60 04:13
+161003
+sTaTiOn 64 00:11
+sTaTiOn 63 01:12
+sTaTiOn 62 02:13
+sTaTiOn 61 03:14
+sTaTiOn 60 04:15
+161004
+sTaTiOn 64 00:13
+sTaTiOn 63 01:14
+sTaTiOn 62 02:15
+sTaTiOn 61 03:16
+sTaTiOn 60 04:17
+161005
+sTaTiOn 64 00:15
+sTaTiOn 63 01:16
+sTaTiOn 62 02:17
+sTaTiOn 61 03:18
+sTaTiOn 60 04:19
+161006
+sTaTiOn 64 00:17
+sTaTiOn 63 01:18
+sTaTiOn 62 02:19
+sTaTiOn 61 03:20
+sTaTiOn 60 04:21
+161007
+sTaTiOn 64 00:19
+sTaTiOn 63 01:20
+sTaTiOn 62 02:21
+sTaTiOn 61 03:22
+sTaTiOn 60 04:23
+161008
+sTaTiOn 64 00:21
+sTaTiOn 63 01:22
+sTaTiOn 62 02:23
+sTaTiOn 61 03:24
+sTaTiOn 60 04:25
+161009
+sTaTiOn 64 00:23
+sTaTiOn 63 01:24
+sTaTiOn 62 02:25
+sTaTiOn 61 03:26
+sTaTiOn 60 04:27
+161010
+sTaTiOn 64 00:25
+sTaTiOn 63 01:26
+sTaTiOn 62 02:27
+sTaTiOn 61 03:28
+sTaTiOn 60 04:29
+161011
+sTaTiOn 64 00:27
+sTaTiOn 63 01:28
+sTaTiOn 62 02:29
+sTaTiOn 61 03:30
+sTaTiOn 60 04:31
+161012
+sTaTiOn 64 00:29
+sTaTiOn 63 01:30
+sTaTiOn 62 02:31
+sTaTiOn 61 03:32
+sTaTiOn 60 04:33
+161013
+sTaTiOn 64 00:31
+sTaTiOn 63 01:32
+sTaTiOn 62 02:33
+sTaTiOn 61 03:34
+sTaTiOn 60 04:35
+161014
+sTaTiOn 64 00:33
+sTaTiOn 63 01:34
+sTaTiOn 62 02:35
+sTaTiOn 61 03:36
+sTaTiOn 60 04:37
+161015
+sTaTiOn 64 00:35
+sTaTiOn 63 01:36
+sTaTiOn 62 02:37
+sTaTiOn 61 03:38
+sTaTiOn 60 04:39
+161016
+sTaTiOn 64 00:37
+sTaTiOn 63 01:38
+sTaTiOn 62 02:39
+sTaTiOn 61 03:40
+sTaTiOn 60 04:41
+161017
+sTaTiOn 64 00:39
+sTaTiOn 63 01:40
+sTaTiOn 62 02:41
+sTaTiOn 61 03:42
+sTaTiOn 60 04:43
+161018
+sTaTiOn 64 00:41
+sTaTiOn 63 01:42
+sTaTiOn 62 02:43
+sTaTiOn 61 03:44
+sTaTiOn 60 04:45
+161019
+sTaTiOn 64 00:43
+sTaTiOn 63 01:44
+sTaTiOn 62 02:45
+sTaTiOn 61 03:46
+sTaTiOn 60 04:47
+161020
+sTaTiOn 64 00:45
+sTaTiOn 63 01:46
+sTaTiOn 62 02:47
+sTaTiOn 61 03:48
+sTaTiOn 60 04:49
+1701
+sTaTiOn 64 00:07
+sTaTiOn 65 01:08
+sTaTiOn 66 02:09
+sTaTiOn 67 03:10
+sTaTiOn 68 04:11
+1702
+sTaTiOn 64 00:09
+sTaTiOn 65 01:10
+sTaTiOn 66 02:11
+sTaTiOn 67 03:12
+sTaTiOn 68 04:13
+1703
+sTaTiOn 64 00:11
+sTaTiOn 65 01:12
+sTaTiOn 66 02:13
+sTaTiOn 67 03:14
+sTaTiOn 68 04:15
+1704
+sTaTiOn 64 00:13
+sTaTiOn 65 01:14
+sTaTiOn 66 02:15
+sTaTiOn 67 03:16
+sTaTiOn 68 04:17
+1705
+sTaTiOn 64 00:15
+sTaTiOn 65 01:16
+sTaTiOn 66 02:17
+sTaTiOn 67 03:18
+sTaTiOn 68 04:19
+1706
+sTaTiOn 64 00:17
+sTaTiOn 65 01:18
+sTaTiOn 66 02:19
+sTaTiOn 67 03:20
+sTaTiOn 68 04:21
+1707
+sTaTiOn 64 00:19
+sTaTiOn 65 01:20
+sTaTiOn 66 02:21
+sTaTiOn 67 03:22
+sTaTiOn 68 04:23
+1708
+sTaTiOn 64 00:21
+sTaTiOn 65 01:22
+sTaTiOn 66 02:23
+sTaTiOn 67 03:24
+sTaTiOn 68 04:25
+1709
+sTaTiOn 64 00:23
+sTaTiOn 65 01:24
+sTaTiOn 66 02:25
+sTaTiOn 67 03:26
+sTaTiOn 68 04:27
+1710
+sTaTiOn 64 00:25
+sTaTiOn 65 01:26
+sTaTiOn 66 02:27
+sTaTiOn 67 03:28
+sTaTiOn 68 04:29
+1711
+sTaTiOn 64 00:27
+sTaTiOn 65 01:28
+sTaTiOn 66 02:29
+sTaTiOn 67 03:30
+sTaTiOn 68 04:31
+1712
+sTaTiOn 64 00:29
+sTaTiOn 65 01:30
+sTaTiOn 66 02:31
+sTaTiOn 67 03:32
+sTaTiOn 68 04:33
+1713
+sTaTiOn 64 00:31
+sTaTiOn 65 01:32
+sTaTiOn 66 02:33
+sTaTiOn 67 03:34
+sTaTiOn 68 04:35
+1714
+sTaTiOn 64 00:33
+sTaTiOn 65 01:34
+sTaTiOn 66 02:35
+sTaTiOn 67 03:36
+sTaTiOn 68 04:37
+1715
+sTaTiOn 64 00:35
+sTaTiOn 65 01:36
+sTaTiOn 66 02:37
+sTaTiOn 67 03:38
+sTaTiOn 68 04:39
+1716
+sTaTiOn 64 00:37
+sTaTiOn 65 01:38
+sTaTiOn 66 02:39
+sTaTiOn 67 03:40
+sTaTiOn 68 04:41
+1717
+sTaTiOn 64 00:39
+sTaTiOn 65 01:40
+sTaTiOn 66 02:41
+sTaTiOn 67 03:42
+sTaTiOn 68 04:43
+1718
+sTaTiOn 64 00:41
+sTaTiOn 65 01:42
+sTaTiOn 66 02:43
+sTaTiOn 67 03:44
+sTaTiOn 68 04:45
+1719
+sTaTiOn 64 00:43
+sTaTiOn 65 01:44
+sTaTiOn 66 02:45
+sTaTiOn 67 03:46
+sTaTiOn 68 04:47
+1720
+sTaTiOn 64 00:45
+sTaTiOn 65 01:46
+sTaTiOn 66 02:47
+sTaTiOn 67 03:48
+sTaTiOn 68 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+171001
+sTaTiOn 68 00:07
+sTaTiOn 67 01:08
+sTaTiOn 66 02:09
+sTaTiOn 65 03:10
+sTaTiOn 64 04:11
+171002
+sTaTiOn 68 00:09
+sTaTiOn 67 01:10
+sTaTiOn 66 02:11
+sTaTiOn 65 03:12
+sTaTiOn 64 04:13
+171003
+sTaTiOn 68 00:11
+sTaTiOn 67 01:12
+sTaTiOn 66 02:13
+sTaTiOn 65 03:14
+sTaTiOn 64 04:15
+171004
+sTaTiOn 68 00:13
+sTaTiOn 67 01:14
+sTaTiOn 66 02:15
+sTaTiOn 65 03:16
+sTaTiOn 64 04:17
+171005
+sTaTiOn 68 00:15
+sTaTiOn 67 01:16
+sTaTiOn 66 02:17
+sTaTiOn 65 03:18
+sTaTiOn 64 04:19
+171006
+sTaTiOn 68 00:17
+sTaTiOn 67 01:18
+sTaTiOn 66 02:19
+sTaTiOn 65 03:20
+sTaTiOn 64 04:21
+171007
+sTaTiOn 68 00:19
+sTaTiOn 67 01:20
+sTaTiOn 66 02:21
+sTaTiOn 65 03:22
+sTaTiOn 64 04:23
+171008
+sTaTiOn 68 00:21
+sTaTiOn 67 01:22
+sTaTiOn 66 02:23
+sTaTiOn 65 03:24
+sTaTiOn 64 04:25
+171009
+sTaTiOn 68 00:23
+sTaTiOn 67 01:24
+sTaTiOn 66 02:25
+sTaTiOn 65 03:26
+sTaTiOn 64 04:27
+171010
+sTaTiOn 68 00:25
+sTaTiOn 67 01:26
+sTaTiOn 66 02:27
+sTaTiOn 65 03:28
+sTaTiOn 64 04:29
+171011
+sTaTiOn 68 00:27
+sTaTiOn 67 01:28
+sTaTiOn 66 02:29
+sTaTiOn 65 03:30
+sTaTiOn 64 04:31
+171012
+sTaTiOn 68 00:29
+sTaTiOn 67 01:30
+sTaTiOn 66 02:31
+sTaTiOn 65 03:32
+sTaTiOn 64 04:33
+171013
+sTaTiOn 68 00:31
+sTaTiOn 67 01:32
+sTaTiOn 66 02:33
+sTaTiOn 65 03:34
+sTaTiOn 64 04:35
+171014
+sTaTiOn 68 00:33
+sTaTiOn 67 01:34
+sTaTiOn 66 02:35
+sTaTiOn 65 03:36
+sTaTiOn 64 04:37
+171015
+sTaTiOn 68 00:35
+sTaTiOn 67 01:36
+sTaTiOn 66 02:37
+sTaTiOn 65 03:38
+sTaTiOn 64 04:39
+171016
+sTaTiOn 68 00:37
+sTaTiOn 67 01:38
+sTaTiOn 66 02:39
+sTaTiOn 65 03:40
+sTaTiOn 64 04:41
+171017
+sTaTiOn 68 00:39
+sTaTiOn 67 01:40
+sTaTiOn 66 02:41
+sTaTiOn 65 03:42
+sTaTiOn 64 04:43
+171018
+sTaTiOn 68 00:41
+sTaTiOn 67 01:42
+sTaTiOn 66 02:43
+sTaTiOn 65 03:44
+sTaTiOn 64 04:45
+171019
+sTaTiOn 68 00:43
+sTaTiOn 67 01:44
+sTaTiOn 66 02:45
+sTaTiOn 65 03:46
+sTaTiOn 64 04:47
+171020
+sTaTiOn 68 00:45
+sTaTiOn 67 01:46
+sTaTiOn 66 02:47
+sTaTiOn 65 03:48
+sTaTiOn 64 04:49
+1801
+sTaTiOn 68 00:07
+sTaTiOn 69 01:08
+sTaTiOn 70 02:09
+sTaTiOn 71 03:10
+sTaTiOn 72 04:11
+1802
+sTaTiOn 68 00:09
+sTaTiOn 69 01:10
+sTaTiOn 70 02:11
+sTaTiOn 71 03:12
+sTaTiOn 72 04:13
+1803
+sTaTiOn 68 00:11
+sTaTiOn 69 01:12
+sTaTiOn 70 02:13
+sTaTiOn 71 03:14
+sTaTiOn 72 04:15
+1804
+sTaTiOn 68 00:13
+sTaTiOn 69 01:14
+sTaTiOn 70 02:15
+sTaTiOn 71 03:16
+sTaTiOn 72 04:17
+1805
+sTaTiOn 68 00:15
+sTaTiOn 69 01:16
+sTaTiOn 70 02:17
+sTaTiOn 71 03:18
+sTaTiOn 72 04:19
+1806
+sTaTiOn 68 00:17
+sTaTiOn 69 01:18
+sTaTiOn 70 02:19
+sTaTiOn 71 03:20
+sTaTiOn 72 04:21
+1807
+sTaTiOn 68 00:19
+sTaTiOn 69 01:20
+sTaTiOn 70 02:21
+sTaTiOn 71 03:22
+sTaTiOn 72 04:23
+1808
+sTaTiOn 68 00:21
+sTaTiOn 69 01:22
+sTaTiOn 70 02:23
+sTaTiOn 71 03:24
+sTaTiOn 72 04:25
+1809
+sTaTiOn 68 00:23
+sTaTiOn 69 01:24
+sTaTiOn 70 02:25
+sTaTiOn 71 03:26
+sTaTiOn 72 04:27
+1810
+sTaTiOn 68 00:25
+sTaTiOn 69 01:26
+sTaTiOn 70 02:27
+sTaTiOn 71 03:28
+sTaTiOn 72 04:29
+1811
+sTaTiOn 68 00:27
+sTaTiOn 69 01:28
+sTaTiOn 70 02:29
+sTaTiOn 71 03:30
+sTaTiOn 72 04:31
+1812
+sTaTiOn 68 00:29
+sTaTiOn 69 01:30
+sTaTiOn 70 02:31
+sTaTiOn 71 03:32
+sTaTiOn 72 04:33
+1813
+sTaTiOn 68 00:31
+sTaTiOn 69 01:32
+sTaTiOn 70 02:33
+sTaTiOn 71 03:34
+sTaTiOn 72 04:35
+1814
+sTaTiOn 68 00:33
+sTaTiOn 69 01:34
+sTaTiOn 70 02:35
+sTaTiOn 71 03:36
+sTaTiOn 72 04:37
+1815
+sTaTiOn 68 00:35
+sTaTiOn 69 01:36
+sTaTiOn 70 02:37
+sTaTiOn 71 03:38
+sTaTiOn 72 04:39
+1816
+sTaTiOn 68 00:37
+sTaTiOn 69 01:38
+sTaTiOn 70 02:39
+sTaTiOn 71 03:40
+sTaTiOn 72 04:41
+1817
+sTaTiOn 68 00:39
+sTaTiOn 69 01:40
+sTaTiOn 70 02:41
+sTaTiOn 71 03:42
+sTaTiOn 72 04:43
+1818
+sTaTiOn 68 00:41
+sTaTiOn 69 01:42
+sTaTiOn 70 02:43
+sTaTiOn 71 03:44
+sTaTiOn 72 04:45
+1819
+sTaTiOn 68 00:43
+sTaTiOn 69 01:44
+sTaTiOn 70 02:45
+sTaTiOn 71 03:46
+sTaTiOn 72 04:47
+1820
+sTaTiOn 68 00:45
+sTaTiOn 69 01:46
+sTaTiOn 70 02:47
+sTaTiOn 71 03:48
+sTaTiOn 72 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+181001
+sTaTiOn 72 00:07
+sTaTiOn 71 01:08
+sTaTiOn 70 02:09
+sTaTiOn 69 03:10
+sTaTiOn 68 04:11
+181002
+sTaTiOn 72 00:09
+sTaTiOn 71 01:10
+sTaTiOn 70 02:11
+sTaTiOn 69 03:12
+sTaTiOn 68 04:13
+181003
+sTaTiOn 72 00:11
+sTaTiOn 71 01:12
+sTaTiOn 70 02:13
+sTaTiOn 69 03:14
+sTaTiOn 68 04:15
+181004
+sTaTiOn 72 00:13
+sTaTiOn 71 01:14
+sTaTiOn 70 02:15
+sTaTiOn 69 03:16
+sTaTiOn 68 04:17
+181005
+sTaTiOn 72 00:15
+sTaTiOn 71 01:16
+sTaTiOn 70 02:17
+sTaTiOn 69 03:18
+sTaTiOn 68 04:19
+181006
+sTaTiOn 72 00:17
+sTaTiOn 71 01:18
+sTaTiOn 70 02:19
+sTaTiOn 69 03:20
+sTaTiOn 68 04:21
+181007
+sTaTiOn 72 00:19
+sTaTiOn 71 01:20
+sTaTiOn 70 02:21
+sTaTiOn 69 03:22
+sTaTiOn 68 04:23
+181008
+sTaTiOn 72 00:21
+sTaTiOn 71 01:22
+sTaTiOn 70 02:23
+sTaTiOn 69 03:24
+sTaTiOn 68 04:25
+181009
+sTaTiOn 72 00:23
+sTaTiOn 71 01:24
+sTaTiOn 70 02:25
+sTaTiOn 69 03:26
+sTaTiOn 68 04:27
+181010
+sTaTiOn 72 00:25
+sTaTiOn 71 01:26
+sTaTiOn 70 02:27
+sTaTiOn 69 03:28
+sTaTiOn 68 04:29
+181011
+sTaTiOn 72 00:27
+sTaTiOn 71 01:28
+sTaTiOn 70 02:29
+sTaTiOn 69 03:30
+sTaTiOn 68 04:31
+181012
+sTaTiOn 72 00:29
+sTaTiOn 71 01:30
+sTaTiOn 70 02:31
+sTaTiOn 69 03:32
+sTaTiOn 68 04:33
+181013
+sTaTiOn 72 00:31
+sTaTiOn 71 01:32
+sTaTiOn 70 02:33
+sTaTiOn 69 03:34
+sTaTiOn 68 04:35
+181014
+sTaTiOn 72 00:33
+sTaTiOn 71 01:34
+sTaTiOn 70 02:35
+sTaTiOn 69 03:36
+sTaTiOn 68 04:37
+181015
+sTaTiOn 72 00:35
+sTaTiOn 71 01:36
+sTaTiOn 70 02:37
+sTaTiOn 69 03:38
+sTaTiOn 68 04:39
+181016
+sTaTiOn 72 00:37
+sTaTiOn 71 01:38
+sTaTiOn 70 02:39
+sTaTiOn 69 03:40
+sTaTiOn 68 04:41
+181017
+sTaTiOn 72 00:39
+sTaTiOn 71 01:40
+sTaTiOn 70 02:41
+sTaTiOn 69 03:42
+sTaTiOn 68 04:43
+181018
+sTaTiOn 72 00:41
+sTaTiOn 71 01:42
+sTaTiOn 70 02:43
+sTaTiOn 69 03:44
+sTaTiOn 68 04:45
+181019
+sTaTiOn 72 00:43
+sTaTiOn 71 01:44
+sTaTiOn 70 02:45
+sTaTiOn 69 03:46
+sTaTiOn 68 04:47
+181020
+sTaTiOn 72 00:45
+sTaTiOn 71 01:46
+sTaTiOn 70 02:47
+sTaTiOn 69 03:48
+sTaTiOn 68 04:49
+1901
+sTaTiOn 72 00:07
+sTaTiOn 73 01:08
+sTaTiOn 74 02:09
+sTaTiOn 75 03:10
+sTaTiOn 76 04:11
+1902
+sTaTiOn 72 00:09
+sTaTiOn 73 01:10
+sTaTiOn 74 02:11
+sTaTiOn 75 03:12
+sTaTiOn 76 04:13
+1903
+sTaTiOn 72 00:11
+sTaTiOn 73 01:12
+sTaTiOn 74 02:13
+sTaTiOn 75 03:14
+sTaTiOn 76 04:15
+1904
+sTaTiOn 72 00:13
+sTaTiOn 73 01:14
+sTaTiOn 74 02:15
+sTaTiOn 75 03:16
+sTaTiOn 76 04:17
+1905
+sTaTiOn 72 00:15
+sTaTiOn 73 01:16
+sTaTiOn 74 02:17
+sTaTiOn 75 03:18
+sTaTiOn 76 04:19
+1906
+sTaTiOn 72 00:17
+sTaTiOn 73 01:18
+sTaTiOn 74 02:19
+sTaTiOn 75 03:20
+sTaTiOn 76 04:21
+1907
+sTaTiOn 72 00:19
+sTaTiOn 73 01:20
+sTaTiOn 74 02:21
+sTaTiOn 75 03:22
+sTaTiOn 76 04:23
+1908
+sTaTiOn 72 00:21
+sTaTiOn 73 01:22
+sTaTiOn 74 02:23
+sTaTiOn 75 03:24
+sTaTiOn 76 04:25
+1909
+sTaTiOn 72 00:23
+sTaTiOn 73 01:24
+sTaTiOn 74 02:25
+sTaTiOn 75 03:26
+sTaTiOn 76 04:27
+1910
+sTaTiOn 72 00:25
+sTaTiOn 73 01:26
+sTaTiOn 74 02:27
+sTaTiOn 75 03:28
+sTaTiOn 76 04:29
+1911
+sTaTiOn 72 00:27
+sTaTiOn 73 01:28
+sTaTiOn 74 02:29
+sTaTiOn 75 03:30
+sTaTiOn 76 04:31
+1912
+sTaTiOn 72 00:29
+sTaTiOn 73 01:30
+sTaTiOn 74 02:31
+sTaTiOn 75 03:32
+sTaTiOn 76 04:33
+1913
+sTaTiOn 72 00:31
+sTaTiOn 73 01:32
+sTaTiOn 74 02:33
+sTaTiOn 75 03:34
+sTaTiOn 76 04:35
+1914
+sTaTiOn 72 00:33
+sTaTiOn 73 01:34
+sTaTiOn 74 02:35
+sTaTiOn 75 03:36
+sTaTiOn 76 04:37
+1915
+sTaTiOn 72 00:35
+sTaTiOn 73 01:36
+sTaTiOn 74 02:37
+sTaTiOn 75 03:38
+sTaTiOn 76 04:39
+1916
+sTaTiOn 72 00:37
+sTaTiOn 73 01:38
+sTaTiOn 74 02:39
+sTaTiOn 75 03:40
+sTaTiOn 76 04:41
+1917
+sTaTiOn 72 00:39
+sTaTiOn 73 01:40
+sTaTiOn 74 02:41
+sTaTiOn 75 03:42
+sTaTiOn 76 04:43
+1918
+sTaTiOn 72 00:41
+sTaTiOn 73 01:42
+sTaTiOn 74 02:43
+sTaTiOn 75 03:44
+sTaTiOn 76 04:45
+1919
+sTaTiOn 72 00:43
+sTaTiOn 73 01:44
+sTaTiOn 74 02:45
+sTaTiOn 75 03:46
+sTaTiOn 76 04:47
+1920
+sTaTiOn 72 00:45
+sTaTiOn 73 01:46
+sTaTiOn 74 02:47
+sTaTiOn 75 03:48
+sTaTiOn 76 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+191001
+sTaTiOn 76 00:07
+sTaTiOn 75 01:08
+sTaTiOn 74 02:09
+sTaTiOn 73 03:10
+sTaTiOn 72 04:11
+191002
+sTaTiOn 76 00:09
+sTaTiOn 75 01:10
+sTaTiOn 74 02:11
+sTaTiOn 73 03:12
+sTaTiOn 72 04:13
+191003
+sTaTiOn 76 00:11
+sTaTiOn 75 01:12
+sTaTiOn 74 02:13
+sTaTiOn 73 03:14
+sTaTiOn 72 04:15
+191004
+sTaTiOn 76 00:13
+sTaTiOn 75 01:14
+sTaTiOn 74 02:15
+sTaTiOn 73 03:16
+sTaTiOn 72 04:17
+191005
+sTaTiOn 76 00:15
+sTaTiOn 75 01:16
+sTaTiOn 74 02:17
+sTaTiOn 73 03:18
+sTaTiOn 72 04:19
+191006
+sTaTiOn 76 00:17
+sTaTiOn 75 01:18
+sTaTiOn 74 02:19
+sTaTiOn 73 03:20
+sTaTiOn 72 04:21
+191007
+sTaTiOn 76 00:19
+sTaTiOn 75 01:20
+sTaTiOn 74 02:21
+sTaTiOn 73 03:22
+sTaTiOn 72 04:23
+191008
+sTaTiOn 76 00:21
+sTaTiOn 75 01:22
+sTaTiOn 74 02:23
+sTaTiOn 73 03:24
+sTaTiOn 72 04:25
+191009
+sTaTiOn 76 00:23
+sTaTiOn 75 01:24
+sTaTiOn 74 02:25
+sTaTiOn 73 03:26
+sTaTiOn 72 04:27
+191010
+sTaTiOn 76 00:25
+sTaTiOn 75 01:26
+sTaTiOn 74 02:27
+sTaTiOn 73 03:28
+sTaTiOn 72 04:29
+191011
+sTaTiOn 76 00:27
+sTaTiOn 75 01:28
+sTaTiOn 74 02:29
+sTaTiOn 73 03:30
+sTaTiOn 72 04:31
+191012
+sTaTiOn 76 00:29
+sTaTiOn 75 01:30
+sTaTiOn 74 02:31
+sTaTiOn 73 03:32
+sTaTiOn 72 04:33
+191013
+sTaTiOn 76 00:31
+sTaTiOn 75 01:32
+sTaTiOn 74 02:33
+sTaTiOn 73 03:34
+sTaTiOn 72 04:35
+191014
+sTaTiOn 76 00:33
+sTaTiOn 75 01:34
+sTaTiOn 74 02:35
+sTaTiOn 73 03:36
+sTaTiOn 72 04:37
+191015
+sTaTiOn 76 00:35
+sTaTiOn 75 01:36
+sTaTiOn 74 02:37
+sTaTiOn 73 03:38
+sTaTiOn 72 04:39
+191016
+sTaTiOn 76 00:37
+sTaTiOn 75 01:38
+sTaTiOn 74 02:39
+sTaTiOn 73 03:40
+sTaTiOn 72 04:41
+191017
+sTaTiOn 76 00:39
+sTaTiOn 75 01:40
+sTaTiOn 74 02:41
+sTaTiOn 73 03:42
+sTaTiOn 72 04:43
+191018
+sTaTiOn 76 00:41
+sTaTiOn 75 01:42
+sTaTiOn 74 02:43
+sTaTiOn 73 03:44
+sTaTiOn 72 04:45
+191019
+sTaTiOn 76 00:43
+sTaTiOn 75 01:44
+sTaTiOn 74 02:45
+sTaTiOn 73 03:46
+sTaTiOn 72 04:47
+191020
+sTaTiOn 76 00:45
+sTaTiOn 75 01:46
+sTaTiOn 74 02:47
+sTaTiOn 73 03:48
+sTaTiOn 72 04:49
+2001
+sTaTiOn 76 00:07
+sTaTiOn 77 01:08
+sTaTiOn 78 02:09
+sTaTiOn 79 03:10
+sTaTiOn 80 04:11
+2002
+sTaTiOn 76 00:09
+sTaTiOn 77 01:10
+sTaTiOn 78 02:11
+sTaTiOn 79 03:12
+sTaTiOn 80 04:13
+2003
+sTaTiOn 76 00:11
+sTaTiOn 77 01:12
+sTaTiOn 78 02:13
+sTaTiOn 79 03:14
+sTaTiOn 80 04:15
+2004
+sTaTiOn 76 00:13
+sTaTiOn 77 01:14
+sTaTiOn 78 02:15
+sTaTiOn 79 03:16
+sTaTiOn 80 04:17
+2005
+sTaTiOn 76 00:15
+sTaTiOn 77 01:16
+sTaTiOn 78 02:17
+sTaTiOn 79 03:18
+sTaTiOn 80 04:19
+2006
+sTaTiOn 76 00:17
+sTaTiOn 77 01:18
+sTaTiOn 78 02:19
+sTaTiOn 79 03:20
+sTaTiOn 80 04:21
+2007
+sTaTiOn 76 00:19
+sTaTiOn 77 01:20
+sTaTiOn 78 02:21
+sTaTiOn 79 03:22
+sTaTiOn 80 04:23
+2008
+sTaTiOn 76 00:21
+sTaTiOn 77 01:22
+sTaTiOn 78 02:23
+sTaTiOn 79 03:24
+sTaTiOn 80 04:25
+2009
+sTaTiOn 76 00:23
+sTaTiOn 77 01:24
+sTaTiOn 78 02:25
+sTaTiOn 79 03:26
+sTaTiOn 80 04:27
+2010
+sTaTiOn 76 00:25
+sTaTiOn 77 01:26
+sTaTiOn 78 02:27
+sTaTiOn 79 03:28
+sTaTiOn 80 04:29
+2011
+sTaTiOn 76 00:27
+sTaTiOn 77 01:28
+sTaTiOn 78 02:29
+sTaTiOn 79 03:30
+sTaTiOn 80 04:31
+2012
+sTaTiOn 76 00:29
+sTaTiOn 77 01:30
+sTaTiOn 78 02:31
+sTaTiOn 79 03:32
+sTaTiOn 80 04:33
+2013
+sTaTiOn 76 00:31
+sTaTiOn 77 01:32
+sTaTiOn 78 02:33
+sTaTiOn 79 03:34
+sTaTiOn 80 04:35
+2014
+sTaTiOn 76 00:33
+sTaTiOn 77 01:34
+sTaTiOn 78 02:35
+sTaTiOn 79 03:36
+sTaTiOn 80 04:37
+2015
+sTaTiOn 76 00:35
+sTaTiOn 77 01:36
+sTaTiOn 78 02:37
+sTaTiOn 79 03:38
+sTaTiOn 80 04:39
+2016
+sTaTiOn 76 00:37
+sTaTiOn 77 01:38
+sTaTiOn 78 02:39
+sTaTiOn 79 03:40
+sTaTiOn 80 04:41
+2017
+sTaTiOn 76 00:39
+sTaTiOn 77 01:40
+sTaTiOn 78 02:41
+sTaTiOn 79 03:42
+sTaTiOn 80 04:43
+2018
+sTaTiOn 76 00:41
+sTaTiOn 77 01:42
+sTaTiOn 78 02:43
+sTaTiOn 79 03:44
+sTaTiOn 80 04:45
+2019
+sTaTiOn 76 00:43
+sTaTiOn 77 01:44
+sTaTiOn 78 02:45
+sTaTiOn 79 03:46
+sTaTiOn 80 04:47
+2020
+sTaTiOn 76 00:45
+sTaTiOn 77 01:46
+sTaTiOn 78 02:47
+sTaTiOn 79 03:48
+sTaTiOn 80 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+201001
+sTaTiOn 80 00:07
+sTaTiOn 79 01:08
+sTaTiOn 78 02:09
+sTaTiOn 77 03:10
+sTaTiOn 76 04:11
+201002
+sTaTiOn 80 00:09
+sTaTiOn 79 01:10
+sTaTiOn 78 02:11
+sTaTiOn 77 03:12
+sTaTiOn 76 04:13
+201003
+sTaTiOn 80 00:11
+sTaTiOn 79 01:12
+sTaTiOn 78 02:13
+sTaTiOn 77 03:14
+sTaTiOn 76 04:15
+201004
+sTaTiOn 80 00:13
+sTaTiOn 79 01:14
+sTaTiOn 78 02:15
+sTaTiOn 77 03:16
+sTaTiOn 76 04:17
+201005
+sTaTiOn 80 00:15
+sTaTiOn 79 01:16
+sTaTiOn 78 02:17
+sTaTiOn 77 03:18
+sTaTiOn 76 04:19
+201006
+sTaTiOn 80 00:17
+sTaTiOn 79 01:18
+sTaTiOn 78 02:19
+sTaTiOn 77 03:20
+sTaTiOn 76 04:21
+201007
+sTaTiOn 80 00:19
+sTaTiOn 79 01:20
+sTaTiOn 78 02:21
+sTaTiOn 77 03:22
+sTaTiOn 76 04:23
+201008
+sTaTiOn 80 00:21
+sTaTiOn 79 01:22
+sTaTiOn 78 02:23
+sTaTiOn 77 03:24
+sTaTiOn 76 04:25
+201009
+sTaTiOn 80 00:23
+sTaTiOn 79 01:24
+sTaTiOn 78 02:25
+sTaTiOn 77 03:26
+sTaTiOn 76 04:27
+201010
+sTaTiOn 80 00:25
+sTaTiOn 79 01:26
+sTaTiOn 78 02:27
+sTaTiOn 77 03:28
+sTaTiOn 76 04:29
+201011
+sTaTiOn 80 00:27
+sTaTiOn 79 01:28
+sTaTiOn 78 02:29
+sTaTiOn 77 03:30
+sTaTiOn 76 04:31
+201012
+sTaTiOn 80 00:29
+sTaTiOn 79 01:30
+sTaTiOn 78 02:31
+sTaTiOn 77 03:32
+sTaTiOn 76 04:33
+201013
+sTaTiOn 80 00:31
+sTaTiOn 79 01:32
+sTaTiOn 78 02:33
+sTaTiOn 77 03:34
+sTaTiOn 76 04:35
+201014
+sTaTiOn 80 00:33
+sTaTiOn 79 01:34
+sTaTiOn 78 02:35
+sTaTiOn 77 03:36
+sTaTiOn 76 04:37
+201015
+sTaTiOn 80 00:35
+sTaTiOn 79 01:36
+sTaTiOn 78 02:37
+sTaTiOn 77 03:38
+sTaTiOn 76 04:39
+201016
+sTaTiOn 80 00:37
+sTaTiOn 79 01:38
+sTaTiOn 78 02:39
+sTaTiOn 77 03:40
+sTaTiOn 76 04:41
+201017
+sTaTiOn 80 00:39
+sTaTiOn 79 01:40
+sTaTiOn 78 02:41
+sTaTiOn 77 03:42
+sTaTiOn 76 04:43
+201018
+sTaTiOn 80 00:41
+sTaTiOn 79 01:42
+sTaTiOn 78 02:43
+sTaTiOn 77 03:44
+sTaTiOn 76 04:45
+201019
+sTaTiOn 80 00:43
+sTaTiOn 79 01:44
+sTaTiOn 78 02:45
+sTaTiOn 77 03:46
+sTaTiOn 76 04:47
+201020
+sTaTiOn 80 00:45
+sTaTiOn 79 01:46
+sTaTiOn 78 02:47
+sTaTiOn 77 03:48
+sTaTiOn 76 04:49
+2101
+sTaTiOn 80 00:07
+sTaTiOn 81 01:08
+sTaTiOn 82 02:09
+sTaTiOn 83 03:10
+sTaTiOn 84 04:11
+2102
+sTaTiOn 80 00:09
+sTaTiOn 81 01:10
+sTaTiOn 82 02:11
+sTaTiOn 83 03:12
+sTaTiOn 84 04:13
+2103
+sTaTiOn 80 00:11
+sTaTiOn 81 01:12
+sTaTiOn 82 02:13
+sTaTiOn 83 03:14
+sTaTiOn 84 04:15
+2104
+sTaTiOn 80 00:13
+sTaTiOn 81 01:14
+sTaTiOn 82 02:15
+sTaTiOn 83 03:16
+sTaTiOn 84 04:17
+2105
+sTaTiOn 80 00:15
+sTaTiOn 81 01:16
+sTaTiOn 82 02:17
+sTaTiOn 83 03:18
+sTaTiOn 84 04:19
+2106
+sTaTiOn 80 00:17
+sTaTiOn 81 01:18
+sTaTiOn 82 02:19
+sTaTiOn 83 03:20
+sTaTiOn 84 04:21
+2107
+sTaTiOn 80 00:19
+sTaTiOn 81 01:20
+sTaTiOn 82 02:21
+sTaTiOn 83 03:22
+sTaTiOn 84 04:23
+2108
+sTaTiOn 80 00:21
+sTaTiOn 81 01:22
+sTaTiOn 82 02:23
+sTaTiOn 83 03:24
+sTaTiOn 84 04:25
+2109
+sTaTiOn 80 00:23
+sTaTiOn 81 01:24
+sTaTiOn 82 02:25
+sTaTiOn 83 03:26
+sTaTiOn 84 04:27
+2110
+sTaTiOn 80 00:25
+sTaTiOn 81 01:26
+sTaTiOn 82 02:27
+sTaTiOn 83 03:28
+sTaTiOn 84 04:29
+2111
+sTaTiOn 80 00:27
+sTaTiOn 81 01:28
+sTaTiOn 82 02:29
+sTaTiOn 83 03:30
+sTaTiOn 84 04:31
+2112
+sTaTiOn 80 00:29
+sTaTiOn 81 01:30
+sTaTiOn 82 02:31
+sTaTiOn 83 03:32
+sTaTiOn 84 04:33
+2113
+sTaTiOn 80 00:31
+sTaTiOn 81 01:32
+sTaTiOn 82 02:33
+sTaTiOn 83 03:34
+sTaTiOn 84 04:35
+2114
+sTaTiOn 80 00:33
+sTaTiOn 81 01:34
+sTaTiOn 82 02:35
+sTaTiOn 83 03:36
+sTaTiOn 84 04:37
+2115
+sTaTiOn 80 00:35
+sTaTiOn 81 01:36
+sTaTiOn 82 02:37
+sTaTiOn 83 03:38
+sTaTiOn 84 04:39
+2116
+sTaTiOn 80 00:37
+sTaTiOn 81 01:38
+sTaTiOn 82 02:39
+sTaTiOn 83 03:40
+sTaTiOn 84 04:41
+2117
+sTaTiOn 80 00:39
+sTaTiOn 81 01:40
+sTaTiOn 82 02:41
+sTaTiOn 83 03:42
+sTaTiOn 84 04:43
+2118
+sTaTiOn 80 00:41
+sTaTiOn 81 01:42
+sTaTiOn 82 02:43
+sTaTiOn 83 03:44
+sTaTiOn 84 04:45
+2119
+sTaTiOn 80 00:43
+sTaTiOn 81 01:44
+sTaTiOn 82 02:45
+sTaTiOn 83 03:46
+sTaTiOn 84 04:47
+2120
+sTaTiOn 80 00:45
+sTaTiOn 81 01:46
+sTaTiOn 82 02:47
+sTaTiOn 83 03:48
+sTaTiOn 84 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+211001
+sTaTiOn 84 00:07
+sTaTiOn 83 01:08
+sTaTiOn 82 02:09
+sTaTiOn 81 03:10
+sTaTiOn 80 04:11
+211002
+sTaTiOn 84 00:09
+sTaTiOn 83 01:10
+sTaTiOn 82 02:11
+sTaTiOn 81 03:12
+sTaTiOn 80 04:13
+211003
+sTaTiOn 84 00:11
+sTaTiOn 83 01:12
+sTaTiOn 82 02:13
+sTaTiOn 81 03:14
+sTaTiOn 80 04:15
+211004
+sTaTiOn 84 00:13
+sTaTiOn 83 01:14
+sTaTiOn 82 02:15
+sTaTiOn 81 03:16
+sTaTiOn 80 04:17
+211005
+sTaTiOn 84 00:15
+sTaTiOn 83 01:16
+sTaTiOn 82 02:17
+sTaTiOn 81 03:18
+sTaTiOn 80 04:19
+211006
+sTaTiOn 84 00:17
+sTaTiOn 83 01:18
+sTaTiOn 82 02:19
+sTaTiOn 81 03:20
+sTaTiOn 80 04:21
+211007
+sTaTiOn 84 00:19
+sTaTiOn 83 01:20
+sTaTiOn 82 02:21
+sTaTiOn 81 03:22
+sTaTiOn 80 04:23
+211008
+sTaTiOn 84 00:21
+sTaTiOn 83 01:22
+sTaTiOn 82 02:23
+sTaTiOn 81 03:24
+sTaTiOn 80 04:25
+211009
+sTaTiOn 84 00:23
+sTaTiOn 83 01:24
+sTaTiOn 82 02:25
+sTaTiOn 81 03:26
+sTaTiOn 80 04:27
+211010
+sTaTiOn 84 00:25
+sTaTiOn 83 01:26
+sTaTiOn 82 02:27
+sTaTiOn 81 03:28
+sTaTiOn 80 04:29
+211011
+sTaTiOn 84 00:27
+sTaTiOn 83 01:28
+sTaTiOn 82 02:29
+sTaTiOn 81 03:30
+sTaTiOn 80 04:31
+211012
+sTaTiOn 84 00:29
+sTaTiOn 83 01:30
+sTaTiOn 82 02:31
+sTaTiOn 81 03:32
+sTaTiOn 80 04:33
+211013
+sTaTiOn 84 00:31
+sTaTiOn 83 01:32
+sTaTiOn 82 02:33
+sTaTiOn 81 03:34
+sTaTiOn 80 04:35
+211014
+sTaTiOn 84 00:33
+sTaTiOn 83 01:34
+sTaTiOn 82 02:35
+sTaTiOn 81 03:36
+sTaTiOn 80 04:37
+211015
+sTaTiOn 84 00:35
+sTaTiOn 83 01:36
+sTaTiOn 82 02:37
+sTaTiOn 81 03:38
+sTaTiOn 80 04:39
+211016
+sTaTiOn 84 00:37
+sTaTiOn 83 01:38
+sTaTiOn 82 02:39
+sTaTiOn 81 03:40
+sTaTiOn 80 04:41
+211017
+sTaTiOn 84 00:39
+sTaTiOn 83 01:40
+sTaTiOn 82 02:41
+sTaTiOn 81 03:42
+sTaTiOn 80 04:43
+211018
+sTaTiOn 84 00:41
+sTaTiOn 83 01:42
+sTaTiOn 82 02:43
+sTaTiOn 81 03:44
+sTaTiOn 80 04:45
+211019
+sTaTiOn 84 00:43
+sTaTiOn 83 01:44
+sTaTiOn 82 02:45
+sTaTiOn 81 03:46
+sTaTiOn 80 04:47
+211020
+sTaTiOn 84 00:45
+sTaTiOn 83 01:46
+sTaTiOn 82 02:47
+sTaTiOn 81 03:48
+sTaTiOn 80 04:49
+2201
+sTaTiOn 84 00:07
+sTaTiOn 85 01:08
+sTaTiOn 86 02:09
+sTaTiOn 87 03:10
+sTaTiOn 88 04:11
+2202
+sTaTiOn 84 00:09
+sTaTiOn 85 01:10
+sTaTiOn 86 02:11
+sTaTiOn 87 03:12
+sTaTiOn 88 04:13
+2203
+sTaTiOn 84 00:11
+sTaTiOn 85 01:12
+sTaTiOn 86 02:13
+sTaTiOn 87 03:14
+sTaTiOn 88 04:15
+2204
+sTaTiOn 84 00:13
+sTaTiOn 85 01:14
+sTaTiOn 86 02:15
+sTaTiOn 87 03:16
+sTaTiOn 88 04:17
+2205
+sTaTiOn 84 00:15
+sTaTiOn 85 01:16
+sTaTiOn 86 02:17
+sTaTiOn 87 03:18
+sTaTiOn 88 04:19
+2206
+sTaTiOn 84 00:17
+sTaTiOn 85 01:18
+sTaTiOn 86 02:19
+sTaTiOn 87 03:20
+sTaTiOn 88 04:21
+2207
+sTaTiOn 84 00:19
+sTaTiOn 85 01:20
+sTaTiOn 86 02:21
+sTaTiOn 87 03:22
+sTaTiOn 88 04:23
+2208
+sTaTiOn 84 00:21
+sTaTiOn 85 01:22
+sTaTiOn 86 02:23
+sTaTiOn 87 03:24
+sTaTiOn 88 04:25
+2209
+sTaTiOn 84 00:23
+sTaTiOn 85 01:24
+sTaTiOn 86 02:25
+sTaTiOn 87 03:26
+sTaTiOn 88 04:27
+2210
+sTaTiOn 84 00:25
+sTaTiOn 85 01:26
+sTaTiOn 86 02:27
+sTaTiOn 87 03:28
+sTaTiOn 88 04:29
+2211
+sTaTiOn 84 00:27
+sTaTiOn 85 01:28
+sTaTiOn 86 02:29
+sTaTiOn 87 03:30
+sTaTiOn 88 04:31
+2212
+sTaTiOn 84 00:29
+sTaTiOn 85 01:30
+sTaTiOn 86 02:31
+sTaTiOn 87 03:32
+sTaTiOn 88 04:33
+2213
+sTaTiOn 84 00:31
+sTaTiOn 85 01:32
+sTaTiOn 86 02:33
+sTaTiOn 87 03:34
+sTaTiOn 88 04:35
+2214
+sTaTiOn 84 00:33
+sTaTiOn 85 01:34
+sTaTiOn 86 02:35
+sTaTiOn 87 03:36
+sTaTiOn 88 04:37
+2215
+sTaTiOn 84 00:35
+sTaTiOn 85 01:36
+sTaTiOn 86 02:37
+sTaTiOn 87 03:38
+sTaTiOn 88 04:39
+2216
+sTaTiOn 84 00:37
+sTaTiOn 85 01:38
+sTaTiOn 86 02:39
+sTaTiOn 87 03:40
+sTaTiOn 88 04:41
+2217
+sTaTiOn 84 00:39
+sTaTiOn 85 01:40
+sTaTiOn 86 02:41
+sTaTiOn 87 03:42
+sTaTiOn 88 04:43
+2218
+sTaTiOn 84 00:41
+sTaTiOn 85 01:42
+sTaTiOn 86 02:43
+sTaTiOn 87 03:44
+sTaTiOn 88 04:45
+2219
+sTaTiOn 84 00:43
+sTaTiOn 85 01:44
+sTaTiOn 86 02:45
+sTaTiOn 87 03:46
+sTaTiOn 88 04:47
+2220
+sTaTiOn 84 00:45
+sTaTiOn 85 01:46
+sTaTiOn 86 02:47
+sTaTiOn 87 03:48
+sTaTiOn 88 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+221001
+sTaTiOn 88 00:07
+sTaTiOn 87 01:08
+sTaTiOn 86 02:09
+sTaTiOn 85 03:10
+sTaTiOn 84 04:11
+221002
+sTaTiOn 88 00:09
+sTaTiOn 87 01:10
+sTaTiOn 86 02:11
+sTaTiOn 85 03:12
+sTaTiOn 84 04:13
+221003
+sTaTiOn 88 00:11
+sTaTiOn 87 01:12
+sTaTiOn 86 02:13
+sTaTiOn 85 03:14
+sTaTiOn 84 04:15
+221004
+sTaTiOn 88 00:13
+sTaTiOn 87 01:14
+sTaTiOn 86 02:15
+sTaTiOn 85 03:16
+sTaTiOn 84 04:17
+221005
+sTaTiOn 88 00:15
+sTaTiOn 87 01:16
+sTaTiOn 86 02:17
+sTaTiOn 85 03:18
+sTaTiOn 84 04:19
+221006
+sTaTiOn 88 00:17
+sTaTiOn 87 01:18
+sTaTiOn 86 02:19
+sTaTiOn 85 03:20
+sTaTiOn 84 04:21
+221007
+sTaTiOn 88 00:19
+sTaTiOn 87 01:20
+sTaTiOn 86 02:21
+sTaTiOn 85 03:22
+sTaTiOn 84 04:23
+221008
+sTaTiOn 88 00:21
+sTaTiOn 87 01:22
+sTaTiOn 86 02:23
+sTaTiOn 85 03:24
+sTaTiOn 84 04:25
+221009
+sTaTiOn 88 00:23
+sTaTiOn 87 01:24
+sTaTiOn 86 02:25
+sTaTiOn 85 03:26
+sTaTiOn 84 04:27
+221010
+sTaTiOn 88 00:25
+sTaTiOn 87 01:26
+sTaTiOn 86 02:27
+sTaTiOn 85 03:28
+sTaTiOn 84 04:29
+221011
+sTaTiOn 88 00:27
+sTaTiOn 87 01:28
+sTaTiOn 86 02:29
+sTaTiOn 85 03:30
+sTaTiOn 84 04:31
+221012
+sTaTiOn 88 00:29
+sTaTiOn 87 01:30
+sTaTiOn 86 02:31
+sTaTiOn 85 03:32
+sTaTiOn 84 04:33
+221013
+sTaTiOn 88 00:31
+sTaTiOn 87 01:32
+sTaTiOn 86 02:33
+sTaTiOn 85 03:34
+sTaTiOn 84 04:35
+221014
+sTaTiOn 88 00:33
+sTaTiOn 87 01:34
+sTaTiOn 86 02:35
+sTaTiOn 85 03:36
+sTaTiOn 84 04:37
+221015
+sTaTiOn 88 00:35
+sTaTiOn 87 01:36
+sTaTiOn 86 02:37
+sTaTiOn 85 03:38
+sTaTiOn 84 04:39
+221016
+sTaTiOn 88 00:37
+sTaTiOn 87 01:38
+sTaTiOn 86 02:39
+sTaTiOn 85 03:40
+sTaTiOn 84 04:41
+221017
+sTaTiOn 88 00:39
+sTaTiOn 87 01:40
+sTaTiOn 86 02:41
+sTaTiOn 85 03:42
+sTaTiOn 84 04:43
+221018
+sTaTiOn 88 00:41
+sTaTiOn 87 01:42
+sTaTiOn 86 02:43
+sTaTiOn 85 03:44
+sTaTiOn 84 04:45
+221019
+sTaTiOn 88 00:43
+sTaTiOn 87 01:44
+sTaTiOn 86 02:45
+sTaTiOn 85 03:46
+sTaTiOn 84 04:47
+221020
+sTaTiOn 88 00:45
+sTaTiOn 87 01:46
+sTaTiOn 86 02:47
+sTaTiOn 85 03:48
+sTaTiOn 84 04:49
+2301
+sTaTiOn 88 00:07
+sTaTiOn 89 01:08
+sTaTiOn 90 02:09
+sTaTiOn 91 03:10
+sTaTiOn 92 04:11
+2302
+sTaTiOn 88 00:09
+sTaTiOn 89 01:10
+sTaTiOn 90 02:11
+sTaTiOn 91 03:12
+sTaTiOn 92 04:13
+2303
+sTaTiOn 88 00:11
+sTaTiOn 89 01:12
+sTaTiOn 90 02:13
+sTaTiOn 91 03:14
+sTaTiOn 92 04:15
+2304
+sTaTiOn 88 00:13
+sTaTiOn 89 01:14
+sTaTiOn 90 02:15
+sTaTiOn 91 03:16
+sTaTiOn 92 04:17
+2305
+sTaTiOn 88 00:15
+sTaTiOn 89 01:16
+sTaTiOn 90 02:17
+sTaTiOn 91 03:18
+sTaTiOn 92 04:19
+2306
+sTaTiOn 88 00:17
+sTaTiOn 89 01:18
+sTaTiOn 90 02:19
+sTaTiOn 91 03:20
+sTaTiOn 92 04:21
+2307
+sTaTiOn 88 00:19
+sTaTiOn 89 01:20
+sTaTiOn 90 02:21
+sTaTiOn 91 03:22
+sTaTiOn 92 04:23
+2308
+sTaTiOn 88 00:21
+sTaTiOn 89 01:22
+sTaTiOn 90 02:23
+sTaTiOn 91 03:24
+sTaTiOn 92 04:25
+2309
+sTaTiOn 88 00:23
+sTaTiOn 89 01:24
+sTaTiOn 90 02:25
+sTaTiOn 91 03:26
+sTaTiOn 92 04:27
+2310
+sTaTiOn 88 00:25
+sTaTiOn 89 01:26
+sTaTiOn 90 02:27
+sTaTiOn 91 03:28
+sTaTiOn 92 04:29
+2311
+sTaTiOn 88 00:27
+sTaTiOn 89 01:28
+sTaTiOn 90 02:29
+sTaTiOn 91 03:30
+sTaTiOn 92 04:31
+2312
+sTaTiOn 88 00:29
+sTaTiOn 89 01:30
+sTaTiOn 90 02:31
+sTaTiOn 91 03:32
+sTaTiOn 92 04:33
+2313
+sTaTiOn 88 00:31
+sTaTiOn 89 01:32
+sTaTiOn 90 02:33
+sTaTiOn 91 03:34
+sTaTiOn 92 04:35
+2314
+sTaTiOn 88 00:33
+sTaTiOn 89 01:34
+sTaTiOn 90 02:35
+sTaTiOn 91 03:36
+sTaTiOn 92 04:37
+2315
+sTaTiOn 88 00:35
+sTaTiOn 89 01:36
+sTaTiOn 90 02:37
+sTaTiOn 91 03:38
+sTaTiOn 92 04:39
+2316
+sTaTiOn 88 00:37
+sTaTiOn 89 01:38
+sTaTiOn 90 02:39
+sTaTiOn 91 03:40
+sTaTiOn 92 04:41
+2317
+sTaTiOn 88 00:39
+sTaTiOn 89 01:40
+sTaTiOn 90 02:41
+sTaTiOn 91 03:42
+sTaTiOn 92 04:43
+2318
+sTaTiOn 88 00:41
+sTaTiOn 89 01:42
+sTaTiOn 90 02:43
+sTaTiOn 91 03:44
+sTaTiOn 92 04:45
+2319
+sTaTiOn 88 00:43
+sTaTiOn 89 01:44
+sTaTiOn 90 02:45
+sTaTiOn 91 03:46
+sTaTiOn 92 04:47
+2320
+sTaTiOn 88 00:45
+sTaTiOn 89 01:46
+sTaTiOn 90 02:47
+sTaTiOn 91 03:48
+sTaTiOn 92 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+231001
+sTaTiOn 92 00:07
+sTaTiOn 91 01:08
+sTaTiOn 90 02:09
+sTaTiOn 89 03:10
+sTaTiOn 88 04:11
+231002
+sTaTiOn 92 00:09
+sTaTiOn 91 01:10
+sTaTiOn 90 02:11
+sTaTiOn 89 03:12
+sTaTiOn 88 04:13
+231003
+sTaTiOn 92 00:11
+sTaTiOn 91 01:12
+sTaTiOn 90 02:13
+sTaTiOn 89 03:14
+sTaTiOn 88 04:15
+231004
+sTaTiOn 92 00:13
+sTaTiOn 91 01:14
+sTaTiOn 90 02:15
+sTaTiOn 89 03:16
+sTaTiOn 88 04:17
+231005
+sTaTiOn 92 00:15
+sTaTiOn 91 01:16
+sTaTiOn 90 02:17
+sTaTiOn 89 03:18
+sTaTiOn 88 04:19
+231006
+sTaTiOn 92 00:17
+sTaTiOn 91 01:18
+sTaTiOn 90 02:19
+sTaTiOn 89 03:20
+sTaTiOn 88 04:21
+231007
+sTaTiOn 92 00:19
+sTaTiOn 91 01:20
+sTaTiOn 90 02:21
+sTaTiOn 89 03:22
+sTaTiOn 88 04:23
+231008
+sTaTiOn 92 00:21
+sTaTiOn 91 01:22
+sTaTiOn 90 02:23
+sTaTiOn 89 03:24
+sTaTiOn 88 04:25
+231009
+sTaTiOn 92 00:23
+sTaTiOn 91 01:24
+sTaTiOn 90 02:25
+sTaTiOn 89 03:26
+sTaTiOn 88 04:27
+231010
+sTaTiOn 92 00:25
+sTaTiOn 91 01:26
+sTaTiOn 90 02:27
+sTaTiOn 89 03:28
+sTaTiOn 88 04:29
+231011
+sTaTiOn 92 00:27
+sTaTiOn 91 01:28
+sTaTiOn 90 02:29
+sTaTiOn 89 03:30
+sTaTiOn 88 04:31
+231012
+sTaTiOn 92 00:29
+sTaTiOn 91 01:30
+sTaTiOn 90 02:31
+sTaTiOn 89 03:32
+sTaTiOn 88 04:33
+231013
+sTaTiOn 92 00:31
+sTaTiOn 91 01:32
+sTaTiOn 90 02:33
+sTaTiOn 89 03:34
+sTaTiOn 88 04:35
+231014
+sTaTiOn 92 00:33
+sTaTiOn 91 01:34
+sTaTiOn 90 02:35
+sTaTiOn 89 03:36
+sTaTiOn 88 04:37
+231015
+sTaTiOn 92 00:35
+sTaTiOn 91 01:36
+sTaTiOn 90 02:37
+sTaTiOn 89 03:38
+sTaTiOn 88 04:39
+231016
+sTaTiOn 92 00:37
+sTaTiOn 91 01:38
+sTaTiOn 90 02:39
+sTaTiOn 89 03:40
+sTaTiOn 88 04:41
+231017
+sTaTiOn 92 00:39
+sTaTiOn 91 01:40
+sTaTiOn 90 02:41
+sTaTiOn 89 03:42
+sTaTiOn 88 04:43
+231018
+sTaTiOn 92 00:41
+sTaTiOn 91 01:42
+sTaTiOn 90 02:43
+sTaTiOn 89 03:44
+sTaTiOn 88 04:45
+231019
+sTaTiOn 92 00:43
+sTaTiOn 91 01:44
+sTaTiOn 90 02:45
+sTaTiOn 89 03:46
+sTaTiOn 88 04:47
+231020
+sTaTiOn 92 00:45
+sTaTiOn 91 01:46
+sTaTiOn 90 02:47
+sTaTiOn 89 03:48
+sTaTiOn 88 04:49
+2401
+sTaTiOn 92 00:07
+sTaTiOn 93 01:08
+sTaTiOn 94 02:09
+sTaTiOn 95 03:10
+sTaTiOn 96 04:11
+2402
+sTaTiOn 92 00:09
+sTaTiOn 93 01:10
+sTaTiOn 94 02:11
+sTaTiOn 95 03:12
+sTaTiOn 96 04:13
+2403
+sTaTiOn 92 00:11
+sTaTiOn 93 01:12
+sTaTiOn 94 02:13
+sTaTiOn 95 03:14
+sTaTiOn 96 04:15
+2404
+sTaTiOn 92 00:13
+sTaTiOn 93 01:14
+sTaTiOn 94 02:15
+sTaTiOn 95 03:16
+sTaTiOn 96 04:17
+2405
+sTaTiOn 92 00:15
+sTaTiOn 93 01:16
+sTaTiOn 94 02:17
+sTaTiOn 95 03:18
+sTaTiOn 96 04:19
+2406
+sTaTiOn 92 00:17
+sTaTiOn 93 01:18
+sTaTiOn 94 02:19
+sTaTiOn 95 03:20
+sTaTiOn 96 04:21
+2407
+sTaTiOn 92 00:19
+sTaTiOn 93 01:20
+sTaTiOn 94 02:21
+sTaTiOn 95 03:22
+sTaTiOn 96 04:23
+2408
+sTaTiOn 92 00:21
+sTaTiOn 93 01:22
+sTaTiOn 94 02:23
+sTaTiOn 95 03:24
+sTaTiOn 96 04:25
+2409
+sTaTiOn 92 00:23
+sTaTiOn 93 01:24
+sTaTiOn 94 02:25
+sTaTiOn 95 03:26
+sTaTiOn 96 04:27
+2410
+sTaTiOn 92 00:25
+sTaTiOn 93 01:26
+sTaTiOn 94 02:27
+sTaTiOn 95 03:28
+sTaTiOn 96 04:29
+2411
+sTaTiOn 92 00:27
+sTaTiOn 93 01:28
+sTaTiOn 94 02:29
+sTaTiOn 95 03:30
+sTaTiOn 96 04:31
+2412
+sTaTiOn 92 00:29
+sTaTiOn 93 01:30
+sTaTiOn 94 02:31
+sTaTiOn 95 03:32
+sTaTiOn 96 04:33
+2413
+sTaTiOn 92 00:31
+sTaTiOn 93 01:32
+sTaTiOn 94 02:33
+sTaTiOn 95 03:34
+sTaTiOn 96 04:35
+2414
+sTaTiOn 92 00:33
+sTaTiOn 93 01:34
+sTaTiOn 94 02:35
+sTaTiOn 95 03:36
+sTaTiOn 96 04:37
+2415
+sTaTiOn 92 00:35
+sTaTiOn 93 01:36
+sTaTiOn 94 02:37
+sTaTiOn 95 03:38
+sTaTiOn 96 04:39
+2416
+sTaTiOn 92 00:37
+sTaTiOn 93 01:38
+sTaTiOn 94 02:39
+sTaTiOn 95 03:40
+sTaTiOn 96 04:41
+2417
+sTaTiOn 92 00:39
+sTaTiOn 93 01:40
+sTaTiOn 94 02:41
+sTaTiOn 95 03:42
+sTaTiOn 96 04:43
+2418
+sTaTiOn 92 00:41
+sTaTiOn 93 01:42
+sTaTiOn 94 02:43
+sTaTiOn 95 03:44
+sTaTiOn 96 04:45
+2419
+sTaTiOn 92 00:43
+sTaTiOn 93 01:44
+sTaTiOn 94 02:45
+sTaTiOn 95 03:46
+sTaTiOn 96 04:47
+2420
+sTaTiOn 92 00:45
+sTaTiOn 93 01:46
+sTaTiOn 94 02:47
+sTaTiOn 95 03:48
+sTaTiOn 96 04:49
+Estação de partida inexistente.
+Estação de partida inexistente.
+241001
+sTaTiOn 96 00:07
+sTaTiOn 95 01:08
+sTaTiOn 94 02:09
+sTaTiOn 93 03:10
+sTaTiOn 92 04:11
+241002
+sTaTiOn 96 00:09
+sTaTiOn 95 01:10
+sTaTiOn 94 02:11
+sTaTiOn 93 03:12
+sTaTiOn 92 04:13
+241003
+sTaTiOn 96 00:11
+sTaTiOn 95 01:12
+sTaTiOn 94 02:13
+sTaTiOn 93 03:14
+sTaTiOn 92 04:15
+241004
+sTaTiOn 96 00:13
+sTaTiOn 95 01:14
+sTaTiOn 94 02:15
+sTaTiOn 93 03:16
+sTaTiOn 92 04:17
+241005
+sTaTiOn 96 00:15
+sTaTiOn 95 01:16
+sTaTiOn 94 02:17
+sTaTiOn 93 03:18
+sTaTiOn 92 04:19
+241006
+sTaTiOn 96 00:17
+sTaTiOn 95 01:18
+sTaTiOn 94 02:19
+sTaTiOn 93 03:20
+sTaTiOn 92 04:21
+241007
+sTaTiOn 96 00:19
+sTaTiOn 95 01:20
+sTaTiOn 94 02:21
+sTaTiOn 93 03:22
+sTaTiOn 92 04:23
+241008
+sTaTiOn 96 00:21
+sTaTiOn 95 01:22
+sTaTiOn 94 02:23
+sTaTiOn 93 03:24
+sTaTiOn 92 04:25
+241009
+sTaTiOn 96 00:23
+sTaTiOn 95 01:24
+sTaTiOn 94 02:25
+sTaTiOn 93 03:26
+sTaTiOn 92 04:27
+241010
+sTaTiOn 96 00:25
+sTaTiOn 95 01:26
+sTaTiOn 94 02:27
+sTaTiOn 93 03:28
+sTaTiOn 92 04:29
+241011
+sTaTiOn 96 00:27
+sTaTiOn 95 01:28
+sTaTiOn 94 02:29
+sTaTiOn 93 03:30
+sTaTiOn 92 04:31
+241012
+sTaTiOn 96 00:29
+sTaTiOn 95 01:30
+sTaTiOn 94 02:31
+sTaTiOn 93 03:32
+sTaTiOn 92 04:33
+241013
+sTaTiOn 96 00:31
+sTaTiOn 95 01:32
+sTaTiOn 94 02:33
+sTaTiOn 93 03:34
+sTaTiOn 92 04:35
+241014
+sTaTiOn 96 00:33
+sTaTiOn 95 01:34
+sTaTiOn 94 02:35
+sTaTiOn 93 03:36
+sTaTiOn 92 04:37
+241015
+sTaTiOn 96 00:35
+sTaTiOn 95 01:36
+sTaTiOn 94 02:37
+sTaTiOn 93 03:38
+sTaTiOn 92 04:39
+241016
+sTaTiOn 96 00:37
+sTaTiOn 95 01:38
+sTaTiOn 94 02:39
+sTaTiOn 93 03:40
+sTaTiOn 92 04:41
+241017
+sTaTiOn 96 00:39
+sTaTiOn 95 01:40
+sTaTiOn 94 02:41
+sTaTiOn 93 03:42
+sTaTiOn 92 04:43
+241018
+sTaTiOn 96 00:41
+sTaTiOn 95 01:42
+sTaTiOn 94 02:43
+sTaTiOn 93 03:44
+sTaTiOn 92 04:45
+241019
+sTaTiOn 96 00:43
+sTaTiOn 95 01:44
+sTaTiOn 94 02:45
+sTaTiOn 93 03:46
+sTaTiOn 92 04:47
+241020
+sTaTiOn 96 00:45
+sTaTiOn 95 01:46
+sTaTiOn 94 02:47
+sTaTiOn 93 03:48
+sTaTiOn 92 04:49
+250000000
+sTaTiOn 96 00:05
+sTaTiOn 97 01:06
+sTaTiOn 98 02:07
+sTaTiOn 99 03:08
+250000001
+sTaTiOn 96 00:08
+sTaTiOn 98 02:10
+sTaTiOn 99 03:11
+250000002
+sTaTiOn 96 00:09
+sTaTiOn 99 03:12
+250000012
+sTaTiOn 100 00:05
+sTaTiOn 99 01:06
+sTaTiOn 98 02:07
+sTaTiOn 97 03:08
+25000001
+sTaTiOn 100 00:08
+sTaTiOn 98 02:10
+sTaTiOn 97 03:11
+sTaTiOn 96 04:12
+25000002
+sTaTiOn 100 00:09
+sTaTiOn 97 03:12
+sTaTiOn 96 04:13
+260000000
+sTaTiOn 100 00:05
+sTaTiOn 101 01:06
+sTaTiOn 102 02:07
+sTaTiOn 103 03:08
+260000001
+sTaTiOn 100 00:08
+sTaTiOn 102 02:10
+sTaTiOn 103 03:11
+260000002
+sTaTiOn 100 00:09
+sTaTiOn 103 03:12
+260000012
+sTaTiOn 104 00:05
+sTaTiOn 103 01:06
+sTaTiOn 102 02:07
+sTaTiOn 101 03:08
+26000001
+sTaTiOn 104 00:08
+sTaTiOn 102 02:10
+sTaTiOn 101 03:11
+sTaTiOn 100 04:12
+26000002
+sTaTiOn 104 00:09
+sTaTiOn 101 03:12
+sTaTiOn 100 04:13
+270000000
+sTaTiOn 104 00:05
+sTaTiOn 105 01:06
+sTaTiOn 106 02:07
+sTaTiOn 107 03:08
+270000001
+sTaTiOn 104 00:08
+sTaTiOn 106 02:10
+sTaTiOn 107 03:11
+270000002
+sTaTiOn 104 00:09
+sTaTiOn 107 03:12
+270000012
+sTaTiOn 108 00:05
+sTaTiOn 107 01:06
+sTaTiOn 106 02:07
+sTaTiOn 105 03:08
+27000001
+sTaTiOn 108 00:08
+sTaTiOn 106 02:10
+sTaTiOn 105 03:11
+sTaTiOn 104 04:12
+27000002
+sTaTiOn 108 00:09
+sTaTiOn 105 03:12
+sTaTiOn 104 04:13
+280000000
+sTaTiOn 108 00:05
+sTaTiOn 109 01:06
+sTaTiOn 110 02:07
+sTaTiOn 111 03:08
+280000001
+sTaTiOn 108 00:08
+sTaTiOn 110 02:10
+sTaTiOn 111 03:11
+280000002
+sTaTiOn 108 00:09
+sTaTiOn 111 03:12
+280000012
+sTaTiOn 112 00:05
+sTaTiOn 111 01:06
+sTaTiOn 110 02:07
+sTaTiOn 109 03:08
+28000001
+sTaTiOn 112 00:08
+sTaTiOn 110 02:10
+sTaTiOn 109 03:11
+sTaTiOn 108 04:12
+28000002
+sTaTiOn 112 00:09
+sTaTiOn 109 03:12
+sTaTiOn 108 04:13
+290000000
+sTaTiOn 112 00:05
+sTaTiOn 113 01:06
+sTaTiOn 114 02:07
+sTaTiOn 115 03:08
+290000001
+sTaTiOn 112 00:08
+sTaTiOn 114 02:10
+sTaTiOn 115 03:11
+290000002
+sTaTiOn 112 00:09
+sTaTiOn 115 03:12
+290000012
+sTaTiOn 116 00:05
+sTaTiOn 115 01:06
+sTaTiOn 114 02:07
+sTaTiOn 113 03:08
+29000001
+sTaTiOn 116 00:08
+sTaTiOn 114 02:10
+sTaTiOn 113 03:11
+sTaTiOn 112 04:12
+29000002
+sTaTiOn 116 00:09
+sTaTiOn 113 03:12
+sTaTiOn 112 04:13
+300000000
+sTaTiOn 116 00:05
+sTaTiOn 117 01:06
+sTaTiOn 118 02:07
+sTaTiOn 119 03:08
+300000001
+sTaTiOn 116 00:08
+sTaTiOn 118 02:10
+sTaTiOn 119 03:11
+300000002
+sTaTiOn 116 00:09
+sTaTiOn 119 03:12
+300000012
+sTaTiOn 120 00:05
+sTaTiOn 119 01:06
+sTaTiOn 118 02:07
+sTaTiOn 117 03:08
+30000001
+sTaTiOn 120 00:08
+sTaTiOn 118 02:10
+sTaTiOn 117 03:11
+sTaTiOn 116 04:12
+30000002
+sTaTiOn 120 00:09
+sTaTiOn 117 03:12
+sTaTiOn 116 04:13
+310000000
+sTaTiOn 120 00:05
+sTaTiOn 121 01:06
+sTaTiOn 122 02:07
+sTaTiOn 123 03:08
+310000001
+sTaTiOn 120 00:08
+sTaTiOn 122 02:10
+sTaTiOn 123 03:11
+310000002
+sTaTiOn 120 00:09
+sTaTiOn 123 03:12
+310000012
+sTaTiOn 124 00:05
+sTaTiOn 123 01:06
+sTaTiOn 122 02:07
+sTaTiOn 121 03:08
+31000001
+sTaTiOn 124 00:08
+sTaTiOn 122 02:10
+sTaTiOn 121 03:11
+sTaTiOn 120 04:12
+31000002
+sTaTiOn 124 00:09
+sTaTiOn 121 03:12
+sTaTiOn 120 04:13
+320000000
+sTaTiOn 124 00:05
+sTaTiOn 125 01:06
+sTaTiOn 126 02:07
+sTaTiOn 127 03:08
+320000001
+sTaTiOn 124 00:08
+sTaTiOn 126 02:10
+sTaTiOn 127 03:11
+320000002
+sTaTiOn 124 00:09
+sTaTiOn 127 03:12
+320000012
+sTaTiOn 128 00:05
+sTaTiOn 127 01:06
+sTaTiOn 126 02:07
+sTaTiOn 125 03:08
+32000001
+sTaTiOn 128 00:08
+sTaTiOn 126 02:10
+sTaTiOn 125 03:11
+sTaTiOn 124 04:12
+32000002
+sTaTiOn 128 00:09
+sTaTiOn 125 03:12
+sTaTiOn 124 04:13
+330000000
+sTaTiOn 128 00:05
+sTaTiOn 129 01:06
+sTaTiOn 130 02:07
+sTaTiOn 131 03:08
+330000001
+sTaTiOn 128 00:08
+sTaTiOn 130 02:10
+sTaTiOn 131 03:11
+330000002
+sTaTiOn 128 00:09
+sTaTiOn 131 03:12
+330000012
+sTaTiOn 132 00:05
+sTaTiOn 131 01:06
+sTaTiOn 130 02:07
+sTaTiOn 129 03:08
+33000001
+sTaTiOn 132 00:08
+sTaTiOn 130 02:10
+sTaTiOn 129 03:11
+sTaTiOn 128 04:12
+33000002
+sTaTiOn 132 00:09
+sTaTiOn 129 03:12
+sTaTiOn 128 04:13
+340000000
+sTaTiOn 132 00:05
+sTaTiOn 133 01:06
+sTaTiOn 134 02:07
+sTaTiOn 135 03:08
+340000001
+sTaTiOn 132 00:08
+sTaTiOn 134 02:10
+sTaTiOn 135 03:11
+340000002
+sTaTiOn 132 00:09
+sTaTiOn 135 03:12
+340000012
+sTaTiOn 136 00:05
+sTaTiOn 135 01:06
+sTaTiOn 134 02:07
+sTaTiOn 133 03:08
+34000001
+sTaTiOn 136 00:08
+sTaTiOn 134 02:10
+sTaTiOn 133 03:11
+sTaTiOn 132 04:12
+34000002
+sTaTiOn 136 00:09
+sTaTiOn 133 03:12
+sTaTiOn 132 04:13
+350000000
+sTaTiOn 136 00:05
+sTaTiOn 137 01:06
+sTaTiOn 138 02:07
+sTaTiOn 139 03:08
+350000001
+sTaTiOn 136 00:08
+sTaTiOn 138 02:10
+sTaTiOn 139 03:11
+350000002
+sTaTiOn 136 00:09
+sTaTiOn 139 03:12
+350000012
+sTaTiOn 140 00:05
+sTaTiOn 139 01:06
+sTaTiOn 138 02:07
+sTaTiOn 137 03:08
+35000001
+sTaTiOn 140 00:08
+sTaTiOn 138 02:10
+sTaTiOn 137 03:11
+sTaTiOn 136 04:12
+35000002
+sTaTiOn 140 00:09
+sTaTiOn 137 03:12
+sTaTiOn 136 04:13
+360000000
+sTaTiOn 140 00:05
+sTaTiOn 141 01:06
+sTaTiOn 142 02:07
+sTaTiOn 143 03:08
+360000001
+sTaTiOn 140 00:08
+sTaTiOn 142 02:10
+sTaTiOn 143 03:11
+360000002
+sTaTiOn 140 00:09
+sTaTiOn 143 03:12
+360000012
+sTaTiOn 144 00:05
+sTaTiOn 143 01:06
+sTaTiOn 142 02:07
+sTaTiOn 141 03:08
+36000001
+sTaTiOn 144 00:08
+sTaTiOn 142 02:10
+sTaTiOn 141 03:11
+sTaTiOn 140 04:12
+36000002
+sTaTiOn 144 00:09
+sTaTiOn 141 03:12
+sTaTiOn 140 04:13
+370000000
+sTaTiOn 144 00:05
+sTaTiOn 145 01:06
+sTaTiOn 146 02:07
+sTaTiOn 147 03:08
+370000001
+sTaTiOn 144 00:08
+sTaTiOn 146 02:10
+sTaTiOn 147 03:11
+370000002
+sTaTiOn 144 00:09
+sTaTiOn 147 03:12
+370000012
+sTaTiOn 148 00:05
+sTaTiOn 147 01:06
+sTaTiOn 146 02:07
+sTaTiOn 145 03:08
+37000001
+sTaTiOn 148 00:08
+sTaTiOn 146 02:10
+sTaTiOn 145 03:11
+sTaTiOn 144 04:12
+37000002
+sTaTiOn 148 00:09
+sTaTiOn 145 03:12
+sTaTiOn 144 04:13
+380000000
+sTaTiOn 148 00:05
+sTaTiOn 149 01:06
+sTaTiOn 150 02:07
+sTaTiOn 151 03:08
+380000001
+sTaTiOn 148 00:08
+sTaTiOn 150 02:10
+sTaTiOn 151 03:11
+380000002
+sTaTiOn 148 00:09
+sTaTiOn 151 03:12
+380000012
+sTaTiOn 152 00:05
+sTaTiOn 151 01:06
+sTaTiOn 150 02:07
+sTaTiOn 149 03:08
+38000001
+sTaTiOn 152 00:08
+sTaTiOn 150 02:10
+sTaTiOn 149 03:11
+sTaTiOn 148 04:12
+38000002
+sTaTiOn 152 00:09
+sTaTiOn 149 03:12
+sTaTiOn 148 04:13
+390000000
+sTaTiOn 152 00:05
+sTaTiOn 153 01:06
+sTaTiOn 154 02:07
+sTaTiOn 155 03:08
+390000001
+sTaTiOn 152 00:08
+sTaTiOn 154 02:10
+sTaTiOn 155 03:11
+390000002
+sTaTiOn 152 00:09
+sTaTiOn 155 03:12
+390000012
+sTaTiOn 156 00:05
+sTaTiOn 155 01:06
+sTaTiOn 154 02:07
+sTaTiOn 153 03:08
+39000001
+sTaTiOn 156 00:08
+sTaTiOn 154 02:10
+sTaTiOn 153 03:11
+sTaTiOn 152 04:12
+39000002
+sTaTiOn 156 00:09
+sTaTiOn 153 03:12
+sTaTiOn 152 04:13
+400000000
+sTaTiOn 156 00:05
+sTaTiOn 157 01:06
+sTaTiOn 158 02:07
+sTaTiOn 159 03:08
+400000001
+sTaTiOn 156 00:08
+sTaTiOn 158 02:10
+sTaTiOn 159 03:11
+400000002
+sTaTiOn 156 00:09
+sTaTiOn 159 03:12
+400000012
+sTaTiOn 160 00:05
+sTaTiOn 159 01:06
+sTaTiOn 158 02:07
+sTaTiOn 157 03:08
+40000001
+sTaTiOn 160 00:08
+sTaTiOn 158 02:10
+sTaTiOn 157 03:11
+sTaTiOn 156 04:12
+40000002
+sTaTiOn 160 00:09
+sTaTiOn 157 03:12
+sTaTiOn 156 04:13
+410000000
+sTaTiOn 160 00:05
+sTaTiOn 161 01:06
+sTaTiOn 162 02:07
+sTaTiOn 163 03:08
+410000001
+sTaTiOn 160 00:08
+sTaTiOn 162 02:10
+sTaTiOn 163 03:11
+410000002
+sTaTiOn 160 00:09
+sTaTiOn 163 03:12
+410000012
+sTaTiOn 164 00:05
+sTaTiOn 163 01:06
+sTaTiOn 162 02:07
+sTaTiOn 161 03:08
+41000001
+sTaTiOn 164 00:08
+sTaTiOn 162 02:10
+sTaTiOn 161 03:11
+sTaTiOn 160 04:12
+41000002
+sTaTiOn 164 00:09
+sTaTiOn 161 03:12
+sTaTiOn 160 04:13
+420000000
+sTaTiOn 164 00:05
+sTaTiOn 165 01:06
+sTaTiOn 166 02:07
+sTaTiOn 167 03:08
+420000001
+sTaTiOn 164 00:08
+sTaTiOn 166 02:10
+sTaTiOn 167 03:11
+420000002
+sTaTiOn 164 00:09
+sTaTiOn 167 03:12
+420000012
+sTaTiOn 168 00:05
+sTaTiOn 167 01:06
+sTaTiOn 166 02:07
+sTaTiOn 165 03:08
+42000001
+sTaTiOn 168 00:08
+sTaTiOn 166 02:10
+sTaTiOn 165 03:11
+sTaTiOn 164 04:12
+42000002
+sTaTiOn 168 00:09
+sTaTiOn 165 03:12
+sTaTiOn 164 04:13
+430000000
+sTaTiOn 168 00:05
+sTaTiOn 169 01:06
+sTaTiOn 170 02:07
+sTaTiOn 171 03:08
+430000001
+sTaTiOn 168 00:08
+sTaTiOn 170 02:10
+sTaTiOn 171 03:11
+430000002
+sTaTiOn 168 00:09
+sTaTiOn 171 03:12
+430000012
+sTaTiOn 172 00:05
+sTaTiOn 171 01:06
+sTaTiOn 170 02:07
+sTaTiOn 169 03:08
+43000001
+sTaTiOn 172 00:08
+sTaTiOn 170 02:10
+sTaTiOn 169 03:11
+sTaTiOn 168 04:12
+43000002
+sTaTiOn 172 00:09
+sTaTiOn 169 03:12
+sTaTiOn 168 04:13
+440000000
+sTaTiOn 172 00:05
+sTaTiOn 173 01:06
+sTaTiOn 174 02:07
+sTaTiOn 175 03:08
+440000001
+sTaTiOn 172 00:08
+sTaTiOn 174 02:10
+sTaTiOn 175 03:11
+440000002
+sTaTiOn 172 00:09
+sTaTiOn 175 03:12
+440000012
+sTaTiOn 176 00:05
+sTaTiOn 175 01:06
+sTaTiOn 174 02:07
+sTaTiOn 173 03:08
+44000001
+sTaTiOn 176 00:08
+sTaTiOn 174 02:10
+sTaTiOn 173 03:11
+sTaTiOn 172 04:12
+44000002
+sTaTiOn 176 00:09
+sTaTiOn 173 03:12
+sTaTiOn 172 04:13
+450000000
+sTaTiOn 176 00:05
+sTaTiOn 177 01:06
+sTaTiOn 178 02:07
+sTaTiOn 179 03:08
+450000001
+sTaTiOn 176 00:08
+sTaTiOn 178 02:10
+sTaTiOn 179 03:11
+450000002
+sTaTiOn 176 00:09
+sTaTiOn 179 03:12
+450000012
+sTaTiOn 180 00:05
+sTaTiOn 179 01:06
+sTaTiOn 178 02:07
+sTaTiOn 177 03:08
+45000001
+sTaTiOn 180 00:08
+sTaTiOn 178 02:10
+sTaTiOn 177 03:11
+sTaTiOn 176 04:12
+45000002
+sTaTiOn 180 00:09
+sTaTiOn 177 03:12
+sTaTiOn 176 04:13
+460000000
+sTaTiOn 180 00:05
+sTaTiOn 181 01:06
+sTaTiOn 182 02:07
+sTaTiOn 183 03:08
+460000001
+sTaTiOn 180 00:08
+sTaTiOn 182 02:10
+sTaTiOn 183 03:11
+460000002
+sTaTiOn 180 00:09
+sTaTiOn 183 03:12
+460000012
+sTaTiOn 184 00:05
+sTaTiOn 183 01:06
+sTaTiOn 182 02:07
+sTaTiOn 181 03:08
+46000001
+sTaTiOn 184 00:08
+sTaTiOn 182 02:10
+sTaTiOn 181 03:11
+sTaTiOn 180 04:12
+46000002
+sTaTiOn 184 00:09
+sTaTiOn 181 03:12
+sTaTiOn 180 04:13
+470000000
+sTaTiOn 184 00:05
+sTaTiOn 185 01:06
+sTaTiOn 186 02:07
+sTaTiOn 187 03:08
+470000001
+sTaTiOn 184 00:08
+sTaTiOn 186 02:10
+sTaTiOn 187 03:11
+470000002
+sTaTiOn 184 00:09
+sTaTiOn 187 03:12
+470000012
+sTaTiOn 188 00:05
+sTaTiOn 187 01:06
+sTaTiOn 186 02:07
+sTaTiOn 185 03:08
+47000001
+sTaTiOn 188 00:08
+sTaTiOn 186 02:10
+sTaTiOn 185 03:11
+sTaTiOn 184 04:12
+47000002
+sTaTiOn 188 00:09
+sTaTiOn 185 03:12
+sTaTiOn 184 04:13
+480000000
+sTaTiOn 188 00:05
+sTaTiOn 189 01:06
+sTaTiOn 190 02:07
+sTaTiOn 191 03:08
+480000001
+sTaTiOn 188 00:08
+sTaTiOn 190 02:10
+sTaTiOn 191 03:11
+480000002
+sTaTiOn 188 00:09
+sTaTiOn 191 03:12
+480000012
+sTaTiOn 192 00:05
+sTaTiOn 191 01:06
+sTaTiOn 190 02:07
+sTaTiOn 189 03:08
+48000001
+sTaTiOn 192 00:08
+sTaTiOn 190 02:10
+sTaTiOn 189 03:11
+sTaTiOn 188 04:12
+48000002
+sTaTiOn 192 00:09
+sTaTiOn 189 03:12
+sTaTiOn 188 04:13
+490000000
+sTaTiOn 192 00:05
+sTaTiOn 193 01:06
+sTaTiOn 194 02:07
+sTaTiOn 195 03:08
+490000001
+sTaTiOn 192 00:08
+sTaTiOn 194 02:10
+sTaTiOn 195 03:11
+490000002
+sTaTiOn 192 00:09
+sTaTiOn 195 03:12
+490000012
+sTaTiOn 196 00:05
+sTaTiOn 195 01:06
+sTaTiOn 194 02:07
+sTaTiOn 193 03:08
+49000001
+sTaTiOn 196 00:08
+sTaTiOn 194 02:10
+sTaTiOn 193 03:11
+sTaTiOn 192 04:12
+49000002
+sTaTiOn 196 00:09
+sTaTiOn 193 03:12
+sTaTiOn 192 04:13
+Aplicação terminada.

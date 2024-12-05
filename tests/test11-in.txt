@@ -1,0 +1,586 @@
+iL train line 1
+sTaTiOn 0
+sTaTiOn 1
+sTaTiOn 2
+sTaTiOn 3
+sTaTiOn 4
+
+Cl train line 1
+Rl train lInE 1
+Cl train line 1
+iL train line 1
+sTaTiOn 0
+sTaTiOn 1
+sTaTiOn 2
+sTaTiOn 3
+sTaTiOn 4
+
+Cl train line 1
+Rh train line 1
+sTaTiOn 0 00:07
+iH train line 1
+1
+sTaTiOn 2 00:07
+sTaTiOn 3 01:08
+sTaTiOn 4 02:09
+sTaTiOn 1 03:10
+sTaTiOn 0 04:11
+
+iH train line 1
+1
+sTaTiOn 0 00:07
+sTaTiOn 1 01:08
+sTaTiOn 2 02:09
+sTaTiOn 3 03:10
+sTaTiOn 4 04:11
+
+Rh train line 1
+sTaTiOn 0 00:07
+iH train line 1
+1
+sTaTiOn 0 00:07
+sTaTiOn 1 01:08
+sTaTiOn 2 02:09
+sTaTiOn 3 03:10
+sTaTiOn 4 04:11
+
+iH train line 1
+1
+sTaTiOn 0 00:05
+sTaTiOn 1 04:09
+sTaTiOn 2 02:07
+sTaTiOn 3 03:08
+sTaTiOn 4 01:06
+
+iH train line 1
+101
+sTaTiOn 0 00:11
+sTaTiOn 1 01:12
+sTaTiOn 2 02:13
+sTaTiOn 3 03:14
+
+iH train line 1
+201
+sTaTiOn 1 01:08
+sTaTiOn 2 02:09
+sTaTiOn 3 03:10
+sTaTiOn 4 04:11
+
+iH train line 1
+201
+sTaTiOn 0 00:07
+sTaTiOn 1 01:08
+sTaTiOn 3 03:10
+sTaTiOn 2 02:09
+sTaTiOn 4 04:11
+
+Ch train line 1
+sTaTiOn 0
+Ch train line 1
+sTaTiOn 4
+Ch train line 1
+sTaTiOn 1
+mh train line 1
+sTaTiOn 0
+sTaTiOn 3
+03:14
+mh train line 1
+sTaTiOn 1
+sTaTiOn 3
+03:14
+mh train line 1
+sTaTiOn 0
+sTaTiOn 3
+03:13
+mh train line 1
+sTaTiOn 0
+sTaTiOn 4
+04:12
+iH train line 1
+301
+sTaTiOn 4 00:07
+sTaTiOn 1 01:08
+sTaTiOn 0 04:11
+
+iH train line 1
+401
+sTaTiOn 4 02:07
+sTaTiOn 1 01:06
+sTaTiOn 0 00:05
+
+iH train line 1
+501
+sTaTiOn 4 00:12
+sTaTiOn 1 01:13
+
+Ch train line 1
+sTaTiOn 4
+iL train line 2
+sTaTiOn 4
+sTaTiOn 5
+sTaTiOn 6
+sTaTiOn 7
+sTaTiOn 8
+
+Cl train line 2
+Rl train lInE 2
+Cl train line 2
+iL train line 2
+sTaTiOn 4
+sTaTiOn 5
+sTaTiOn 6
+sTaTiOn 7
+sTaTiOn 8
+
+Cl train line 2
+Rh train line 2
+sTaTiOn 4 00:07
+iH train line 2
+2
+sTaTiOn 7 00:07
+sTaTiOn 5 01:08
+sTaTiOn 8 02:09
+sTaTiOn 4 03:10
+sTaTiOn 6 04:11
+
+iH train line 2
+2
+sTaTiOn 4 00:07
+sTaTiOn 5 01:08
+sTaTiOn 6 02:09
+sTaTiOn 7 03:10
+sTaTiOn 8 04:11
+
+Rh train line 2
+sTaTiOn 4 00:07
+iH train line 2
+2
+sTaTiOn 4 00:07
+sTaTiOn 5 01:08
+sTaTiOn 6 02:09
+sTaTiOn 7 03:10
+sTaTiOn 8 04:11
+
+iH train line 2
+2
+sTaTiOn 4 01:06
+sTaTiOn 5 04:09
+sTaTiOn 6 00:05
+sTaTiOn 7 02:07
+sTaTiOn 8 03:08
+
+iH train line 2
+102
+sTaTiOn 4 00:11
+sTaTiOn 5 01:12
+sTaTiOn 6 02:13
+sTaTiOn 7 03:14
+
+iH train line 2
+202
+sTaTiOn 5 01:08
+sTaTiOn 6 02:09
+sTaTiOn 7 03:10
+sTaTiOn 8 04:11
+
+iH train line 2
+202
+sTaTiOn 4 00:07
+sTaTiOn 5 01:08
+sTaTiOn 7 03:10
+sTaTiOn 6 02:09
+sTaTiOn 8 04:11
+
+Ch train line 2
+sTaTiOn 4
+Ch train line 2
+sTaTiOn 8
+Ch train line 2
+sTaTiOn 5
+mh train line 2
+sTaTiOn 4
+sTaTiOn 7
+03:14
+mh train line 2
+sTaTiOn 5
+sTaTiOn 7
+03:14
+mh train line 2
+sTaTiOn 4
+sTaTiOn 7
+03:13
+mh train line 2
+sTaTiOn 4
+sTaTiOn 8
+04:12
+iH train line 2
+302
+sTaTiOn 8 00:07
+sTaTiOn 5 01:08
+sTaTiOn 4 04:11
+
+iH train line 2
+402
+sTaTiOn 8 02:07
+sTaTiOn 5 01:06
+sTaTiOn 4 00:05
+
+iH train line 2
+502
+sTaTiOn 8 00:12
+sTaTiOn 5 01:13
+
+Ch train line 2
+sTaTiOn 8
+iL train line 3
+sTaTiOn 8
+sTaTiOn 9
+sTaTiOn 10
+sTaTiOn 11
+sTaTiOn 12
+
+Cl train line 3
+Rl train lInE 3
+Cl train line 3
+iL train line 3
+sTaTiOn 8
+sTaTiOn 9
+sTaTiOn 10
+sTaTiOn 11
+sTaTiOn 12
+
+Cl train line 3
+Rh train line 3
+sTaTiOn 8 00:07
+iH train line 3
+3
+sTaTiOn 11 00:07
+sTaTiOn 9 01:08
+sTaTiOn 12 02:09
+sTaTiOn 8 03:10
+sTaTiOn 10 04:11
+
+iH train line 3
+3
+sTaTiOn 8 00:07
+sTaTiOn 9 01:08
+sTaTiOn 10 02:09
+sTaTiOn 11 03:10
+sTaTiOn 12 04:11
+
+Rh train line 3
+sTaTiOn 8 00:07
+iH train line 3
+3
+sTaTiOn 8 00:07
+sTaTiOn 9 01:08
+sTaTiOn 10 02:09
+sTaTiOn 11 03:10
+sTaTiOn 12 04:11
+
+iH train line 3
+3
+sTaTiOn 8 03:08
+sTaTiOn 9 00:05
+sTaTiOn 10 01:06
+sTaTiOn 11 02:07
+sTaTiOn 12 04:09
+
+iH train line 3
+103
+sTaTiOn 8 00:11
+sTaTiOn 9 01:12
+sTaTiOn 10 02:13
+sTaTiOn 11 03:14
+
+iH train line 3
+203
+sTaTiOn 9 01:08
+sTaTiOn 10 02:09
+sTaTiOn 11 03:10
+sTaTiOn 12 04:11
+
+iH train line 3
+203
+sTaTiOn 8 00:07
+sTaTiOn 9 01:08
+sTaTiOn 11 03:10
+sTaTiOn 10 02:09
+sTaTiOn 12 04:11
+
+Ch train line 3
+sTaTiOn 8
+Ch train line 3
+sTaTiOn 12
+Ch train line 3
+sTaTiOn 9
+mh train line 3
+sTaTiOn 8
+sTaTiOn 11
+03:14
+mh train line 3
+sTaTiOn 9
+sTaTiOn 11
+03:14
+mh train line 3
+sTaTiOn 8
+sTaTiOn 11
+03:13
+mh train line 3
+sTaTiOn 8
+sTaTiOn 12
+04:12
+iH train line 3
+303
+sTaTiOn 12 00:07
+sTaTiOn 9 01:08
+sTaTiOn 8 04:11
+
+iH train line 3
+403
+sTaTiOn 12 02:07
+sTaTiOn 9 01:06
+sTaTiOn 8 00:05
+
+iH train line 3
+503
+sTaTiOn 12 00:12
+sTaTiOn 9 01:13
+
+Ch train line 3
+sTaTiOn 12
+iL train line 4
+sTaTiOn 12
+sTaTiOn 13
+sTaTiOn 14
+sTaTiOn 15
+sTaTiOn 16
+
+Cl train line 4
+Rl train lInE 4
+Cl train line 4
+iL train line 4
+sTaTiOn 12
+sTaTiOn 13
+sTaTiOn 14
+sTaTiOn 15
+sTaTiOn 16
+
+Cl train line 4
+Rh train line 4
+sTaTiOn 12 00:07
+iH train line 4
+4
+sTaTiOn 13 00:07
+sTaTiOn 14 01:08
+sTaTiOn 15 02:09
+sTaTiOn 16 03:10
+sTaTiOn 12 04:11
+
+iH train line 4
+4
+sTaTiOn 12 00:07
+sTaTiOn 13 01:08
+sTaTiOn 14 02:09
+sTaTiOn 15 03:10
+sTaTiOn 16 04:11
+
+Rh train line 4
+sTaTiOn 12 00:07
+iH train line 4
+4
+sTaTiOn 12 00:07
+sTaTiOn 13 01:08
+sTaTiOn 14 02:09
+sTaTiOn 15 03:10
+sTaTiOn 16 04:11
+
+iH train line 4
+4
+sTaTiOn 12 00:05
+sTaTiOn 13 04:09
+sTaTiOn 14 02:07
+sTaTiOn 15 01:06
+sTaTiOn 16 03:08
+
+iH train line 4
+104
+sTaTiOn 12 00:11
+sTaTiOn 13 01:12
+sTaTiOn 14 02:13
+sTaTiOn 15 03:14
+
+iH train line 4
+204
+sTaTiOn 13 01:08
+sTaTiOn 14 02:09
+sTaTiOn 15 03:10
+sTaTiOn 16 04:11
+
+iH train line 4
+204
+sTaTiOn 12 00:07
+sTaTiOn 13 01:08
+sTaTiOn 15 03:10
+sTaTiOn 14 02:09
+sTaTiOn 16 04:11
+
+Ch train line 4
+sTaTiOn 12
+Ch train line 4
+sTaTiOn 16
+Ch train line 4
+sTaTiOn 13
+mh train line 4
+sTaTiOn 12
+sTaTiOn 15
+03:14
+mh train line 4
+sTaTiOn 13
+sTaTiOn 15
+03:14
+mh train line 4
+sTaTiOn 12
+sTaTiOn 15
+03:13
+mh train line 4
+sTaTiOn 12
+sTaTiOn 16
+04:12
+iH train line 4
+304
+sTaTiOn 16 00:07
+sTaTiOn 13 01:08
+sTaTiOn 12 04:11
+
+iH train line 4
+404
+sTaTiOn 16 02:07
+sTaTiOn 13 01:06
+sTaTiOn 12 00:05
+
+iH train line 4
+504
+sTaTiOn 16 00:12
+sTaTiOn 13 01:13
+
+Ch train line 4
+sTaTiOn 16
+iL train line 5
+sTaTiOn 16
+sTaTiOn 17
+sTaTiOn 18
+sTaTiOn 19
+sTaTiOn 20
+
+Cl train line 5
+Rl train lInE 5
+Cl train line 5
+iL train line 5
+sTaTiOn 16
+sTaTiOn 17
+sTaTiOn 18
+sTaTiOn 19
+sTaTiOn 20
+
+Cl train line 5
+Rh train line 5
+sTaTiOn 16 00:07
+iH train line 5
+5
+sTaTiOn 20 00:07
+sTaTiOn 17 01:08
+sTaTiOn 19 02:09
+sTaTiOn 18 03:10
+sTaTiOn 16 04:11
+
+iH train line 5
+5
+sTaTiOn 16 00:07
+sTaTiOn 17 01:08
+sTaTiOn 18 02:09
+sTaTiOn 19 03:10
+sTaTiOn 20 04:11
+
+Rh train line 5
+sTaTiOn 16 00:07
+iH train line 5
+5
+sTaTiOn 16 00:07
+sTaTiOn 17 01:08
+sTaTiOn 18 02:09
+sTaTiOn 19 03:10
+sTaTiOn 20 04:11
+
+iH train line 5
+5
+sTaTiOn 16 00:05
+sTaTiOn 17 02:07
+sTaTiOn 18 04:09
+sTaTiOn 19 03:08
+sTaTiOn 20 01:06
+
+iH train line 5
+105
+sTaTiOn 16 00:11
+sTaTiOn 17 01:12
+sTaTiOn 18 02:13
+sTaTiOn 19 03:14
+
+iH train line 5
+205
+sTaTiOn 17 01:08
+sTaTiOn 18 02:09
+sTaTiOn 19 03:10
+sTaTiOn 20 04:11
+
+iH train line 5
+205
+sTaTiOn 16 00:07
+sTaTiOn 17 01:08
+sTaTiOn 19 03:10
+sTaTiOn 18 02:09
+sTaTiOn 20 04:11
+
+Ch train line 5
+sTaTiOn 16
+Ch train line 5
+sTaTiOn 20
+Ch train line 5
+sTaTiOn 17
+mh train line 5
+sTaTiOn 16
+sTaTiOn 19
+03:14
+mh train line 5
+sTaTiOn 17
+sTaTiOn 19
+03:14
+mh train line 5
+sTaTiOn 16
+sTaTiOn 19
+03:13
+mh train line 5
+sTaTiOn 16
+sTaTiOn 20
+04:12
+iH train line 5
+305
+sTaTiOn 20 00:07
+sTaTiOn 17 01:08
+sTaTiOn 16 04:11
+
+iH train line 5
+405
+sTaTiOn 20 02:07
+sTaTiOn 17 01:06
+sTaTiOn 16 00:05
+
+iH train line 5
+505
+sTaTiOn 20 00:12
+sTaTiOn 17 01:13
+
+Ch train line 5
+sTaTiOn 20
+tA

@@ -1,0 +1,43 @@
+Rl line 1
+Rl line1
+Cl line 1
+Cl line1
+Rh line 23
+stationdep 00:00
+Rh line23
+stationdep 00:00
+Rh line23
+station dep 00:00
+Rh line 23
+station dep 00:00
+Ch line foo
+station
+Ch line foo
+station name
+Ch linefoo
+station name
+mh line 1
+departure station
+arrival station
+00:59
+mh line 1
+departurestation
+arrivalstation
+00:59
+mh line1
+departurestation
+arrivalstation
+00:59
+mh line1
+departure station
+arrivalstation
+00:59
+mh line1
+departure station
+arrival station
+00:59
+mh line1
+departure station
+arrivalstation
+00:59
+tA

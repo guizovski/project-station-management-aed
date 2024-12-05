@@ -1,0 +1,257 @@
+cE station 0
+cE station 1
+cE station 2
+cE station 3
+cE station 4
+cE station 4
+cE station 5
+cE station 6
+cE station 7
+cE station 8
+cE station 8
+cE station 9
+cE station 10
+cE station 11
+cE station 12
+cE station 12
+cE station 13
+cE station 14
+cE station 15
+cE station 16
+cE sTaTiOn 4
+cE sTaTiOn 3
+cE sTaTiOn 2
+cE sTaTiOn 1
+cE sTaTiOn 0
+cE sTaTiOn 8
+cE sTaTiOn 7
+cE sTaTiOn 6
+cE sTaTiOn 5
+cE sTaTiOn 4
+cE sTaTiOn 12
+cE sTaTiOn 11
+cE sTaTiOn 10
+cE sTaTiOn 9
+cE sTaTiOn 8
+cE sTaTiOn 16
+cE sTaTiOn 15
+cE sTaTiOn 14
+cE sTaTiOn 13
+cE sTaTiOn 12
+cE sTaTiOn 20
+cE sTaTiOn 19
+cE sTaTiOn 18
+cE sTaTiOn 17
+cE sTaTiOn 16
+cE sTaTiOn 24
+cE sTaTiOn 23
+cE sTaTiOn 22
+cE sTaTiOn 21
+cE sTaTiOn 20
+cE sTaTiOn 28
+cE sTaTiOn 27
+cE sTaTiOn 26
+cE sTaTiOn 25
+cE sTaTiOn 24
+cE sTaTiOn 32
+cE sTaTiOn 31
+cE sTaTiOn 30
+cE sTaTiOn 29
+cE sTaTiOn 28
+cE sTaTiOn 36
+cE sTaTiOn 35
+cE sTaTiOn 34
+cE sTaTiOn 33
+cE sTaTiOn 32
+cE sTaTiOn 40
+cE sTaTiOn 39
+cE sTaTiOn 38
+cE sTaTiOn 37
+cE sTaTiOn 36
+cE sTaTiOn 44
+cE sTaTiOn 43
+cE sTaTiOn 42
+cE sTaTiOn 41
+cE sTaTiOn 40
+cE sTaTiOn 48
+cE sTaTiOn 47
+cE sTaTiOn 46
+cE sTaTiOn 45
+cE sTaTiOn 44
+cE sTaTiOn 52
+cE sTaTiOn 51
+cE sTaTiOn 50
+cE sTaTiOn 49
+cE sTaTiOn 48
+cE sTaTiOn 56
+cE sTaTiOn 55
+cE sTaTiOn 54
+cE sTaTiOn 53
+cE sTaTiOn 52
+cE sTaTiOn 60
+cE sTaTiOn 59
+cE sTaTiOn 58
+cE sTaTiOn 57
+cE sTaTiOn 56
+cE sTaTiOn 64
+cE sTaTiOn 63
+cE sTaTiOn 62
+cE sTaTiOn 61
+cE sTaTiOn 60
+cE sTaTiOn 68
+cE sTaTiOn 67
+cE sTaTiOn 66
+cE sTaTiOn 65
+cE sTaTiOn 64
+cE sTaTiOn 72
+cE sTaTiOn 71
+cE sTaTiOn 70
+cE sTaTiOn 69
+cE sTaTiOn 68
+cE sTaTiOn 76
+cE sTaTiOn 75
+cE sTaTiOn 74
+cE sTaTiOn 73
+cE sTaTiOn 72
+cE sTaTiOn 80
+cE sTaTiOn 79
+cE sTaTiOn 78
+cE sTaTiOn 77
+cE sTaTiOn 76
+iL dummy line 0
+dummy1
+dummy2
+uNiQue ish 0
+uNiQue 0
+dummy3
+dummy4
+
+iH dummy line 0
+1020000
+dummy1 00:05
+dummy2 01:06
+uNiQue ish 0 02:07
+uNiQue 0 03:08
+dummy3 04:09
+dummy4 05:10
+
+iL dummy line 1
+dummy1
+dummy2
+uNiQue ish 1
+uNiQue 1
+dummy3
+dummy4
+
+iH dummy line 1
+969000
+dummy1 00:06
+dummy2 01:07
+uNiQue ish 1 02:08
+uNiQue 1 03:09
+dummy3 04:10
+dummy4 05:11
+
+iL dummy line 2
+dummy1
+dummy2
+uNiQue ish 2
+uNiQue 2
+dummy3
+dummy4
+
+iH dummy line 2
+918000
+dummy1 00:07
+dummy2 01:08
+uNiQue ish 2 02:09
+uNiQue 2 03:10
+dummy3 04:11
+dummy4 05:12
+
+iL dummy line 3
+dummy1
+dummy2
+uNiQue ish 3
+uNiQue 3
+dummy3
+dummy4
+
+iH dummy line 3
+867000
+dummy1 00:08
+dummy2 01:09
+uNiQue ish 3 02:10
+uNiQue 3 03:11
+dummy3 04:12
+dummy4 05:13
+
+iL dummy line 4
+dummy1
+dummy2
+uNiQue ish 4
+uNiQue 4
+dummy3
+dummy4
+
+iH dummy line 4
+816000
+dummy1 00:09
+dummy2 01:10
+uNiQue ish 4 02:11
+uNiQue 4 03:12
+dummy3 04:13
+dummy4 05:14
+
+iL dummy line 5
+dummy1
+dummy2
+uNiQue ish 0
+uNiQue 5
+dummy3
+dummy4
+
+iH dummy line 5
+765000
+dummy1 00:10
+dummy2 01:11
+uNiQue ish 0 02:12
+uNiQue 5 03:13
+dummy3 04:14
+dummy4 05:15
+
+cE dummy1
+cE dummy2
+cE dummy3
+cE dummy4
+cE unique ish 0
+cE unique ish 1
+cE unique ish 2
+cE unique ish 3
+cE unique ish 4
+cE unique 0
+Rl dummy line 0
+cE unique 0
+cE dummy1
+cE dummy3
+cE unique 1
+Rl dummy line 1
+cE unique 1
+cE dummy1
+cE dummy3
+cE unique 2
+Rl dummy line 2
+cE unique 2
+cE dummy1
+cE dummy3
+cE unique 3
+Rl dummy line 3
+cE unique 3
+cE dummy1
+cE dummy3
+cE unique 4
+Rl dummy line 4
+cE unique 4
+cE dummy1
+cE dummy3
+tA

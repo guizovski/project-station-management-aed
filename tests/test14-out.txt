@@ -1,0 +1,88 @@
+Inserção de linha com sucesso.
+Criação de horário com sucesso.
+Horário inválido.
+Horário inválido.
+Horário inválido.
+Comboio 666666 00:05
+Comboio 666666 01:06
+Comboio 666666 02:07
+Comboio 666666 03:08
+Inserção de linha com sucesso.
+Criação de horário com sucesso.
+Criação de horário com sucesso.
+Criação de horário com sucesso.
+Inserção de linha com sucesso.
+Comboio 666666 00:05
+Comboio 666667 00:06
+Comboio 666668 00:07
+Comboio 666669 00:08
+Comboio 666666 01:06
+Comboio 666667 01:07
+Comboio 666668 01:08
+Comboio 666669 01:09
+Comboio 666666 02:07
+Comboio 666667 02:08
+Comboio 666668 02:09
+Comboio 666669 02:10
+Comboio 666666 03:08
+Comboio 666667 03:09
+Comboio 666668 03:10
+Comboio 666669 03:11
+Inserção de linha com sucesso.
+Criação de horário com sucesso.
+Criação de horário com sucesso.
+Comboio 666666 00:05
+Comboio 666667 00:06
+Comboio 666668 00:07
+Comboio 666669 00:08
+Comboio 666662 00:09
+Comboio 666661 00:10
+Comboio 666666 01:06
+Comboio 666667 01:07
+Comboio 666668 01:08
+Comboio 666669 01:09
+Comboio 666662 01:10
+Comboio 666661 01:11
+Comboio 666666 02:07
+Comboio 666667 02:08
+Comboio 666668 02:09
+Comboio 666669 02:10
+Comboio 666662 02:11
+Comboio 666661 02:12
+Comboio 666666 03:08
+Comboio 666667 03:09
+Comboio 666668 03:10
+Comboio 666669 03:11
+Comboio 666662 03:12
+Comboio 666661 03:13
+Criação de horário com sucesso.
+Horário inválido.
+Comboio 666666 00:05
+Comboio 666670 00:05
+Comboio 666667 00:06
+Comboio 666668 00:07
+Comboio 666669 00:08
+Comboio 666662 00:09
+Comboio 666661 00:10
+Comboio 666666 01:06
+Comboio 666670 01:06
+Comboio 666667 01:07
+Comboio 666668 01:08
+Comboio 666669 01:09
+Comboio 666662 01:10
+Comboio 666661 01:11
+Comboio 666666 02:07
+Comboio 666670 02:07
+Comboio 666667 02:08
+Comboio 666668 02:09
+Comboio 666669 02:10
+Comboio 666662 02:11
+Comboio 666661 02:12
+Comboio 666666 03:08
+Comboio 666670 03:08
+Comboio 666667 03:09
+Comboio 666668 03:10
+Comboio 666669 03:11
+Comboio 666662 03:12
+Comboio 666661 03:13
+Aplicação terminada.

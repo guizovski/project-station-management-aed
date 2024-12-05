@@ -1,17 +1,17 @@
-package dataStructures;                                         
+package dataStructures;
 
-import java.io.Serializable; 
+import java.io.Serializable;
 
 /**
  * BST node implementation
- * 
+ *
  * @author AED team
  * @version 1.0
  *
  * @param <E> Generic Value
  */
 public class BSTNode<E> implements Serializable
-{                                                                   
+{
 
 
 
@@ -24,13 +24,13 @@ public class BSTNode<E> implements Serializable
 
     /**
      * (Pointer to) the left child.
-     * 
+     *
      */
     protected BSTNode<E> left;
 
     /**
      * (Pointer to) the right child.
-     * 
+     *
      */
     protected BSTNode<E> right;
     /**
@@ -41,10 +41,10 @@ public class BSTNode<E> implements Serializable
 
     /**
      * Constructor for BST nodes
-     * 
+     *
      */
     public BSTNode( E elem, BSTNode<E> parent, BSTNode<E> left, BSTNode<E> right )
-    {                                                                
+    {
         this.element = elem;
         this.parent = parent;
         this.left = left;
@@ -56,7 +56,7 @@ public class BSTNode<E> implements Serializable
 
     /**
      * Returns the element of the current node.
-     * 
+     *
      * @return
      */
     E getElement( )
@@ -68,18 +68,18 @@ public class BSTNode<E> implements Serializable
 
     /**
      * Returns the left child node of the current node.
-     * 
+     *
      * @return
      */
     BSTNode<E> getLeft( )
-    {    
+    {
         return left;
     }
 
 
     /**
      * Returns the right child node of the current node.
-     * 
+     *
      * @return
      */
     BSTNode<E> getRight( )
@@ -97,8 +97,7 @@ public class BSTNode<E> implements Serializable
     }
 
     boolean isInternal() {
-        //TODO
-        return true;
+        return left != null || right != null;
     }
 
     public void setLeft(BSTNode<E> left) {

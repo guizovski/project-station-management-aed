@@ -1,0 +1,19 @@
+Inserção de linha com sucesso.
+Criação de horário com sucesso.
+Criação de horário com sucesso.
+Criação de horário com sucesso.
+Criação de horário com sucesso.
+Horário inválido.
+Horário inválido.
+Horário inválido.
+Horário inválido.
+Criação de horário com sucesso.
+Criação de horário com sucesso.
+Criação de horário com sucesso.
+Horário inválido.
+Horário inválido.
+Horário inválido.
+Horário inválido.
+Horário inválido.
+Horário inválido.
+Aplicação terminada.

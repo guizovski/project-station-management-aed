@@ -1,0 +1,3832 @@
+Remoção de horário com sucesso.
+250000000
+sTaTiOn 96 00:05
+sTaTiOn 97 01:06
+sTaTiOn 98 02:07
+sTaTiOn 99 03:08
+250000002
+sTaTiOn 96 00:09
+sTaTiOn 99 03:12
+Horário inexistente.
+250000000
+sTaTiOn 96 00:05
+sTaTiOn 97 01:06
+sTaTiOn 98 02:07
+sTaTiOn 99 03:08
+250000002
+sTaTiOn 96 00:09
+sTaTiOn 99 03:12
+Remoção de horário com sucesso.
+250000012
+sTaTiOn 100 00:05
+sTaTiOn 99 01:06
+sTaTiOn 98 02:07
+sTaTiOn 97 03:08
+25000002
+sTaTiOn 100 00:09
+sTaTiOn 97 03:12
+sTaTiOn 96 04:13
+Horário inexistente.
+250000012
+sTaTiOn 100 00:05
+sTaTiOn 99 01:06
+sTaTiOn 98 02:07
+sTaTiOn 97 03:08
+25000002
+sTaTiOn 100 00:09
+sTaTiOn 97 03:12
+sTaTiOn 96 04:13
+Remoção de horário com sucesso.
+260000000
+sTaTiOn 100 00:05
+sTaTiOn 101 01:06
+sTaTiOn 102 02:07
+sTaTiOn 103 03:08
+260000002
+sTaTiOn 100 00:09
+sTaTiOn 103 03:12
+Horário inexistente.
+260000000
+sTaTiOn 100 00:05
+sTaTiOn 101 01:06
+sTaTiOn 102 02:07
+sTaTiOn 103 03:08
+260000002
+sTaTiOn 100 00:09
+sTaTiOn 103 03:12
+Remoção de horário com sucesso.
+260000012
+sTaTiOn 104 00:05
+sTaTiOn 103 01:06
+sTaTiOn 102 02:07
+sTaTiOn 101 03:08
+26000002
+sTaTiOn 104 00:09
+sTaTiOn 101 03:12
+sTaTiOn 100 04:13
+Horário inexistente.
+260000012
+sTaTiOn 104 00:05
+sTaTiOn 103 01:06
+sTaTiOn 102 02:07
+sTaTiOn 101 03:08
+26000002
+sTaTiOn 104 00:09
+sTaTiOn 101 03:12
+sTaTiOn 100 04:13
+Remoção de horário com sucesso.
+270000000
+sTaTiOn 104 00:05
+sTaTiOn 105 01:06
+sTaTiOn 106 02:07
+sTaTiOn 107 03:08
+270000002
+sTaTiOn 104 00:09
+sTaTiOn 107 03:12
+Horário inexistente.
+270000000
+sTaTiOn 104 00:05
+sTaTiOn 105 01:06
+sTaTiOn 106 02:07
+sTaTiOn 107 03:08
+270000002
+sTaTiOn 104 00:09
+sTaTiOn 107 03:12
+Remoção de horário com sucesso.
+270000012
+sTaTiOn 108 00:05
+sTaTiOn 107 01:06
+sTaTiOn 106 02:07
+sTaTiOn 105 03:08
+27000002
+sTaTiOn 108 00:09
+sTaTiOn 105 03:12
+sTaTiOn 104 04:13
+Horário inexistente.
+270000012
+sTaTiOn 108 00:05
+sTaTiOn 107 01:06
+sTaTiOn 106 02:07
+sTaTiOn 105 03:08
+27000002
+sTaTiOn 108 00:09
+sTaTiOn 105 03:12
+sTaTiOn 104 04:13
+Remoção de horário com sucesso.
+280000000
+sTaTiOn 108 00:05
+sTaTiOn 109 01:06
+sTaTiOn 110 02:07
+sTaTiOn 111 03:08
+280000002
+sTaTiOn 108 00:09
+sTaTiOn 111 03:12
+Horário inexistente.
+280000000
+sTaTiOn 108 00:05
+sTaTiOn 109 01:06
+sTaTiOn 110 02:07
+sTaTiOn 111 03:08
+280000002
+sTaTiOn 108 00:09
+sTaTiOn 111 03:12
+Remoção de horário com sucesso.
+280000012
+sTaTiOn 112 00:05
+sTaTiOn 111 01:06
+sTaTiOn 110 02:07
+sTaTiOn 109 03:08
+28000002
+sTaTiOn 112 00:09
+sTaTiOn 109 03:12
+sTaTiOn 108 04:13
+Horário inexistente.
+280000012
+sTaTiOn 112 00:05
+sTaTiOn 111 01:06
+sTaTiOn 110 02:07
+sTaTiOn 109 03:08
+28000002
+sTaTiOn 112 00:09
+sTaTiOn 109 03:12
+sTaTiOn 108 04:13
+Remoção de horário com sucesso.
+290000000
+sTaTiOn 112 00:05
+sTaTiOn 113 01:06
+sTaTiOn 114 02:07
+sTaTiOn 115 03:08
+290000002
+sTaTiOn 112 00:09
+sTaTiOn 115 03:12
+Horário inexistente.
+290000000
+sTaTiOn 112 00:05
+sTaTiOn 113 01:06
+sTaTiOn 114 02:07
+sTaTiOn 115 03:08
+290000002
+sTaTiOn 112 00:09
+sTaTiOn 115 03:12
+Remoção de horário com sucesso.
+290000012
+sTaTiOn 116 00:05
+sTaTiOn 115 01:06
+sTaTiOn 114 02:07
+sTaTiOn 113 03:08
+29000002
+sTaTiOn 116 00:09
+sTaTiOn 113 03:12
+sTaTiOn 112 04:13
+Horário inexistente.
+290000012
+sTaTiOn 116 00:05
+sTaTiOn 115 01:06
+sTaTiOn 114 02:07
+sTaTiOn 113 03:08
+29000002
+sTaTiOn 116 00:09
+sTaTiOn 113 03:12
+sTaTiOn 112 04:13
+Remoção de horário com sucesso.
+300000000
+sTaTiOn 116 00:05
+sTaTiOn 117 01:06
+sTaTiOn 118 02:07
+sTaTiOn 119 03:08
+300000002
+sTaTiOn 116 00:09
+sTaTiOn 119 03:12
+Horário inexistente.
+300000000
+sTaTiOn 116 00:05
+sTaTiOn 117 01:06
+sTaTiOn 118 02:07
+sTaTiOn 119 03:08
+300000002
+sTaTiOn 116 00:09
+sTaTiOn 119 03:12
+Remoção de horário com sucesso.
+300000012
+sTaTiOn 120 00:05
+sTaTiOn 119 01:06
+sTaTiOn 118 02:07
+sTaTiOn 117 03:08
+30000002
+sTaTiOn 120 00:09
+sTaTiOn 117 03:12
+sTaTiOn 116 04:13
+Horário inexistente.
+300000012
+sTaTiOn 120 00:05
+sTaTiOn 119 01:06
+sTaTiOn 118 02:07
+sTaTiOn 117 03:08
+30000002
+sTaTiOn 120 00:09
+sTaTiOn 117 03:12
+sTaTiOn 116 04:13
+Remoção de horário com sucesso.
+310000000
+sTaTiOn 120 00:05
+sTaTiOn 121 01:06
+sTaTiOn 122 02:07
+sTaTiOn 123 03:08
+310000002
+sTaTiOn 120 00:09
+sTaTiOn 123 03:12
+Horário inexistente.
+310000000
+sTaTiOn 120 00:05
+sTaTiOn 121 01:06
+sTaTiOn 122 02:07
+sTaTiOn 123 03:08
+310000002
+sTaTiOn 120 00:09
+sTaTiOn 123 03:12
+Remoção de horário com sucesso.
+310000012
+sTaTiOn 124 00:05
+sTaTiOn 123 01:06
+sTaTiOn 122 02:07
+sTaTiOn 121 03:08
+31000002
+sTaTiOn 124 00:09
+sTaTiOn 121 03:12
+sTaTiOn 120 04:13
+Horário inexistente.
+310000012
+sTaTiOn 124 00:05
+sTaTiOn 123 01:06
+sTaTiOn 122 02:07
+sTaTiOn 121 03:08
+31000002
+sTaTiOn 124 00:09
+sTaTiOn 121 03:12
+sTaTiOn 120 04:13
+Remoção de horário com sucesso.
+320000000
+sTaTiOn 124 00:05
+sTaTiOn 125 01:06
+sTaTiOn 126 02:07
+sTaTiOn 127 03:08
+320000002
+sTaTiOn 124 00:09
+sTaTiOn 127 03:12
+Horário inexistente.
+320000000
+sTaTiOn 124 00:05
+sTaTiOn 125 01:06
+sTaTiOn 126 02:07
+sTaTiOn 127 03:08
+320000002
+sTaTiOn 124 00:09
+sTaTiOn 127 03:12
+Remoção de horário com sucesso.
+320000012
+sTaTiOn 128 00:05
+sTaTiOn 127 01:06
+sTaTiOn 126 02:07
+sTaTiOn 125 03:08
+32000002
+sTaTiOn 128 00:09
+sTaTiOn 125 03:12
+sTaTiOn 124 04:13
+Horário inexistente.
+320000012
+sTaTiOn 128 00:05
+sTaTiOn 127 01:06
+sTaTiOn 126 02:07
+sTaTiOn 125 03:08
+32000002
+sTaTiOn 128 00:09
+sTaTiOn 125 03:12
+sTaTiOn 124 04:13
+Remoção de horário com sucesso.
+330000000
+sTaTiOn 128 00:05
+sTaTiOn 129 01:06
+sTaTiOn 130 02:07
+sTaTiOn 131 03:08
+330000002
+sTaTiOn 128 00:09
+sTaTiOn 131 03:12
+Horário inexistente.
+330000000
+sTaTiOn 128 00:05
+sTaTiOn 129 01:06
+sTaTiOn 130 02:07
+sTaTiOn 131 03:08
+330000002
+sTaTiOn 128 00:09
+sTaTiOn 131 03:12
+Remoção de horário com sucesso.
+330000012
+sTaTiOn 132 00:05
+sTaTiOn 131 01:06
+sTaTiOn 130 02:07
+sTaTiOn 129 03:08
+33000002
+sTaTiOn 132 00:09
+sTaTiOn 129 03:12
+sTaTiOn 128 04:13
+Horário inexistente.
+330000012
+sTaTiOn 132 00:05
+sTaTiOn 131 01:06
+sTaTiOn 130 02:07
+sTaTiOn 129 03:08
+33000002
+sTaTiOn 132 00:09
+sTaTiOn 129 03:12
+sTaTiOn 128 04:13
+Remoção de horário com sucesso.
+340000000
+sTaTiOn 132 00:05
+sTaTiOn 133 01:06
+sTaTiOn 134 02:07
+sTaTiOn 135 03:08
+340000002
+sTaTiOn 132 00:09
+sTaTiOn 135 03:12
+Horário inexistente.
+340000000
+sTaTiOn 132 00:05
+sTaTiOn 133 01:06
+sTaTiOn 134 02:07
+sTaTiOn 135 03:08
+340000002
+sTaTiOn 132 00:09
+sTaTiOn 135 03:12
+Remoção de horário com sucesso.
+340000012
+sTaTiOn 136 00:05
+sTaTiOn 135 01:06
+sTaTiOn 134 02:07
+sTaTiOn 133 03:08
+34000002
+sTaTiOn 136 00:09
+sTaTiOn 133 03:12
+sTaTiOn 132 04:13
+Horário inexistente.
+340000012
+sTaTiOn 136 00:05
+sTaTiOn 135 01:06
+sTaTiOn 134 02:07
+sTaTiOn 133 03:08
+34000002
+sTaTiOn 136 00:09
+sTaTiOn 133 03:12
+sTaTiOn 132 04:13
+Remoção de horário com sucesso.
+350000000
+sTaTiOn 136 00:05
+sTaTiOn 137 01:06
+sTaTiOn 138 02:07
+sTaTiOn 139 03:08
+350000002
+sTaTiOn 136 00:09
+sTaTiOn 139 03:12
+Horário inexistente.
+350000000
+sTaTiOn 136 00:05
+sTaTiOn 137 01:06
+sTaTiOn 138 02:07
+sTaTiOn 139 03:08
+350000002
+sTaTiOn 136 00:09
+sTaTiOn 139 03:12
+Remoção de horário com sucesso.
+350000012
+sTaTiOn 140 00:05
+sTaTiOn 139 01:06
+sTaTiOn 138 02:07
+sTaTiOn 137 03:08
+35000002
+sTaTiOn 140 00:09
+sTaTiOn 137 03:12
+sTaTiOn 136 04:13
+Horário inexistente.
+350000012
+sTaTiOn 140 00:05
+sTaTiOn 139 01:06
+sTaTiOn 138 02:07
+sTaTiOn 137 03:08
+35000002
+sTaTiOn 140 00:09
+sTaTiOn 137 03:12
+sTaTiOn 136 04:13
+Remoção de horário com sucesso.
+360000000
+sTaTiOn 140 00:05
+sTaTiOn 141 01:06
+sTaTiOn 142 02:07
+sTaTiOn 143 03:08
+360000002
+sTaTiOn 140 00:09
+sTaTiOn 143 03:12
+Horário inexistente.
+360000000
+sTaTiOn 140 00:05
+sTaTiOn 141 01:06
+sTaTiOn 142 02:07
+sTaTiOn 143 03:08
+360000002
+sTaTiOn 140 00:09
+sTaTiOn 143 03:12
+Remoção de horário com sucesso.
+360000012
+sTaTiOn 144 00:05
+sTaTiOn 143 01:06
+sTaTiOn 142 02:07
+sTaTiOn 141 03:08
+36000002
+sTaTiOn 144 00:09
+sTaTiOn 141 03:12
+sTaTiOn 140 04:13
+Horário inexistente.
+360000012
+sTaTiOn 144 00:05
+sTaTiOn 143 01:06
+sTaTiOn 142 02:07
+sTaTiOn 141 03:08
+36000002
+sTaTiOn 144 00:09
+sTaTiOn 141 03:12
+sTaTiOn 140 04:13
+Remoção de horário com sucesso.
+370000000
+sTaTiOn 144 00:05
+sTaTiOn 145 01:06
+sTaTiOn 146 02:07
+sTaTiOn 147 03:08
+370000002
+sTaTiOn 144 00:09
+sTaTiOn 147 03:12
+Horário inexistente.
+370000000
+sTaTiOn 144 00:05
+sTaTiOn 145 01:06
+sTaTiOn 146 02:07
+sTaTiOn 147 03:08
+370000002
+sTaTiOn 144 00:09
+sTaTiOn 147 03:12
+Remoção de horário com sucesso.
+370000012
+sTaTiOn 148 00:05
+sTaTiOn 147 01:06
+sTaTiOn 146 02:07
+sTaTiOn 145 03:08
+37000002
+sTaTiOn 148 00:09
+sTaTiOn 145 03:12
+sTaTiOn 144 04:13
+Horário inexistente.
+370000012
+sTaTiOn 148 00:05
+sTaTiOn 147 01:06
+sTaTiOn 146 02:07
+sTaTiOn 145 03:08
+37000002
+sTaTiOn 148 00:09
+sTaTiOn 145 03:12
+sTaTiOn 144 04:13
+Remoção de horário com sucesso.
+380000000
+sTaTiOn 148 00:05
+sTaTiOn 149 01:06
+sTaTiOn 150 02:07
+sTaTiOn 151 03:08
+380000002
+sTaTiOn 148 00:09
+sTaTiOn 151 03:12
+Horário inexistente.
+380000000
+sTaTiOn 148 00:05
+sTaTiOn 149 01:06
+sTaTiOn 150 02:07
+sTaTiOn 151 03:08
+380000002
+sTaTiOn 148 00:09
+sTaTiOn 151 03:12
+Remoção de horário com sucesso.
+380000012
+sTaTiOn 152 00:05
+sTaTiOn 151 01:06
+sTaTiOn 150 02:07
+sTaTiOn 149 03:08
+38000002
+sTaTiOn 152 00:09
+sTaTiOn 149 03:12
+sTaTiOn 148 04:13
+Horário inexistente.
+380000012
+sTaTiOn 152 00:05
+sTaTiOn 151 01:06
+sTaTiOn 150 02:07
+sTaTiOn 149 03:08
+38000002
+sTaTiOn 152 00:09
+sTaTiOn 149 03:12
+sTaTiOn 148 04:13
+Remoção de horário com sucesso.
+390000000
+sTaTiOn 152 00:05
+sTaTiOn 153 01:06
+sTaTiOn 154 02:07
+sTaTiOn 155 03:08
+390000002
+sTaTiOn 152 00:09
+sTaTiOn 155 03:12
+Horário inexistente.
+390000000
+sTaTiOn 152 00:05
+sTaTiOn 153 01:06
+sTaTiOn 154 02:07
+sTaTiOn 155 03:08
+390000002
+sTaTiOn 152 00:09
+sTaTiOn 155 03:12
+Remoção de horário com sucesso.
+390000012
+sTaTiOn 156 00:05
+sTaTiOn 155 01:06
+sTaTiOn 154 02:07
+sTaTiOn 153 03:08
+39000002
+sTaTiOn 156 00:09
+sTaTiOn 153 03:12
+sTaTiOn 152 04:13
+Horário inexistente.
+390000012
+sTaTiOn 156 00:05
+sTaTiOn 155 01:06
+sTaTiOn 154 02:07
+sTaTiOn 153 03:08
+39000002
+sTaTiOn 156 00:09
+sTaTiOn 153 03:12
+sTaTiOn 152 04:13
+Remoção de horário com sucesso.
+400000000
+sTaTiOn 156 00:05
+sTaTiOn 157 01:06
+sTaTiOn 158 02:07
+sTaTiOn 159 03:08
+400000002
+sTaTiOn 156 00:09
+sTaTiOn 159 03:12
+Horário inexistente.
+400000000
+sTaTiOn 156 00:05
+sTaTiOn 157 01:06
+sTaTiOn 158 02:07
+sTaTiOn 159 03:08
+400000002
+sTaTiOn 156 00:09
+sTaTiOn 159 03:12
+Remoção de horário com sucesso.
+400000012
+sTaTiOn 160 00:05
+sTaTiOn 159 01:06
+sTaTiOn 158 02:07
+sTaTiOn 157 03:08
+40000002
+sTaTiOn 160 00:09
+sTaTiOn 157 03:12
+sTaTiOn 156 04:13
+Horário inexistente.
+400000012
+sTaTiOn 160 00:05
+sTaTiOn 159 01:06
+sTaTiOn 158 02:07
+sTaTiOn 157 03:08
+40000002
+sTaTiOn 160 00:09
+sTaTiOn 157 03:12
+sTaTiOn 156 04:13
+Remoção de horário com sucesso.
+410000000
+sTaTiOn 160 00:05
+sTaTiOn 161 01:06
+sTaTiOn 162 02:07
+sTaTiOn 163 03:08
+410000002
+sTaTiOn 160 00:09
+sTaTiOn 163 03:12
+Horário inexistente.
+410000000
+sTaTiOn 160 00:05
+sTaTiOn 161 01:06
+sTaTiOn 162 02:07
+sTaTiOn 163 03:08
+410000002
+sTaTiOn 160 00:09
+sTaTiOn 163 03:12
+Remoção de horário com sucesso.
+410000012
+sTaTiOn 164 00:05
+sTaTiOn 163 01:06
+sTaTiOn 162 02:07
+sTaTiOn 161 03:08
+41000002
+sTaTiOn 164 00:09
+sTaTiOn 161 03:12
+sTaTiOn 160 04:13
+Horário inexistente.
+410000012
+sTaTiOn 164 00:05
+sTaTiOn 163 01:06
+sTaTiOn 162 02:07
+sTaTiOn 161 03:08
+41000002
+sTaTiOn 164 00:09
+sTaTiOn 161 03:12
+sTaTiOn 160 04:13
+Remoção de horário com sucesso.
+420000000
+sTaTiOn 164 00:05
+sTaTiOn 165 01:06
+sTaTiOn 166 02:07
+sTaTiOn 167 03:08
+420000002
+sTaTiOn 164 00:09
+sTaTiOn 167 03:12
+Horário inexistente.
+420000000
+sTaTiOn 164 00:05
+sTaTiOn 165 01:06
+sTaTiOn 166 02:07
+sTaTiOn 167 03:08
+420000002
+sTaTiOn 164 00:09
+sTaTiOn 167 03:12
+Remoção de horário com sucesso.
+420000012
+sTaTiOn 168 00:05
+sTaTiOn 167 01:06
+sTaTiOn 166 02:07
+sTaTiOn 165 03:08
+42000002
+sTaTiOn 168 00:09
+sTaTiOn 165 03:12
+sTaTiOn 164 04:13
+Horário inexistente.
+420000012
+sTaTiOn 168 00:05
+sTaTiOn 167 01:06
+sTaTiOn 166 02:07
+sTaTiOn 165 03:08
+42000002
+sTaTiOn 168 00:09
+sTaTiOn 165 03:12
+sTaTiOn 164 04:13
+Remoção de horário com sucesso.
+430000000
+sTaTiOn 168 00:05
+sTaTiOn 169 01:06
+sTaTiOn 170 02:07
+sTaTiOn 171 03:08
+430000002
+sTaTiOn 168 00:09
+sTaTiOn 171 03:12
+Horário inexistente.
+430000000
+sTaTiOn 168 00:05
+sTaTiOn 169 01:06
+sTaTiOn 170 02:07
+sTaTiOn 171 03:08
+430000002
+sTaTiOn 168 00:09
+sTaTiOn 171 03:12
+Remoção de horário com sucesso.
+430000012
+sTaTiOn 172 00:05
+sTaTiOn 171 01:06
+sTaTiOn 170 02:07
+sTaTiOn 169 03:08
+43000002
+sTaTiOn 172 00:09
+sTaTiOn 169 03:12
+sTaTiOn 168 04:13
+Horário inexistente.
+430000012
+sTaTiOn 172 00:05
+sTaTiOn 171 01:06
+sTaTiOn 170 02:07
+sTaTiOn 169 03:08
+43000002
+sTaTiOn 172 00:09
+sTaTiOn 169 03:12
+sTaTiOn 168 04:13
+Remoção de horário com sucesso.
+440000000
+sTaTiOn 172 00:05
+sTaTiOn 173 01:06
+sTaTiOn 174 02:07
+sTaTiOn 175 03:08
+440000002
+sTaTiOn 172 00:09
+sTaTiOn 175 03:12
+Horário inexistente.
+440000000
+sTaTiOn 172 00:05
+sTaTiOn 173 01:06
+sTaTiOn 174 02:07
+sTaTiOn 175 03:08
+440000002
+sTaTiOn 172 00:09
+sTaTiOn 175 03:12
+Remoção de horário com sucesso.
+440000012
+sTaTiOn 176 00:05
+sTaTiOn 175 01:06
+sTaTiOn 174 02:07
+sTaTiOn 173 03:08
+44000002
+sTaTiOn 176 00:09
+sTaTiOn 173 03:12
+sTaTiOn 172 04:13
+Horário inexistente.
+440000012
+sTaTiOn 176 00:05
+sTaTiOn 175 01:06
+sTaTiOn 174 02:07
+sTaTiOn 173 03:08
+44000002
+sTaTiOn 176 00:09
+sTaTiOn 173 03:12
+sTaTiOn 172 04:13
+Remoção de horário com sucesso.
+450000000
+sTaTiOn 176 00:05
+sTaTiOn 177 01:06
+sTaTiOn 178 02:07
+sTaTiOn 179 03:08
+450000002
+sTaTiOn 176 00:09
+sTaTiOn 179 03:12
+Horário inexistente.
+450000000
+sTaTiOn 176 00:05
+sTaTiOn 177 01:06
+sTaTiOn 178 02:07
+sTaTiOn 179 03:08
+450000002
+sTaTiOn 176 00:09
+sTaTiOn 179 03:12
+Remoção de horário com sucesso.
+450000012
+sTaTiOn 180 00:05
+sTaTiOn 179 01:06
+sTaTiOn 178 02:07
+sTaTiOn 177 03:08
+45000002
+sTaTiOn 180 00:09
+sTaTiOn 177 03:12
+sTaTiOn 176 04:13
+Horário inexistente.
+450000012
+sTaTiOn 180 00:05
+sTaTiOn 179 01:06
+sTaTiOn 178 02:07
+sTaTiOn 177 03:08
+45000002
+sTaTiOn 180 00:09
+sTaTiOn 177 03:12
+sTaTiOn 176 04:13
+Remoção de horário com sucesso.
+460000000
+sTaTiOn 180 00:05
+sTaTiOn 181 01:06
+sTaTiOn 182 02:07
+sTaTiOn 183 03:08
+460000002
+sTaTiOn 180 00:09
+sTaTiOn 183 03:12
+Horário inexistente.
+460000000
+sTaTiOn 180 00:05
+sTaTiOn 181 01:06
+sTaTiOn 182 02:07
+sTaTiOn 183 03:08
+460000002
+sTaTiOn 180 00:09
+sTaTiOn 183 03:12
+Remoção de horário com sucesso.
+460000012
+sTaTiOn 184 00:05
+sTaTiOn 183 01:06
+sTaTiOn 182 02:07
+sTaTiOn 181 03:08
+46000002
+sTaTiOn 184 00:09
+sTaTiOn 181 03:12
+sTaTiOn 180 04:13
+Horário inexistente.
+460000012
+sTaTiOn 184 00:05
+sTaTiOn 183 01:06
+sTaTiOn 182 02:07
+sTaTiOn 181 03:08
+46000002
+sTaTiOn 184 00:09
+sTaTiOn 181 03:12
+sTaTiOn 180 04:13
+Remoção de horário com sucesso.
+470000000
+sTaTiOn 184 00:05
+sTaTiOn 185 01:06
+sTaTiOn 186 02:07
+sTaTiOn 187 03:08
+470000002
+sTaTiOn 184 00:09
+sTaTiOn 187 03:12
+Horário inexistente.
+470000000
+sTaTiOn 184 00:05
+sTaTiOn 185 01:06
+sTaTiOn 186 02:07
+sTaTiOn 187 03:08
+470000002
+sTaTiOn 184 00:09
+sTaTiOn 187 03:12
+Remoção de horário com sucesso.
+470000012
+sTaTiOn 188 00:05
+sTaTiOn 187 01:06
+sTaTiOn 186 02:07
+sTaTiOn 185 03:08
+47000002
+sTaTiOn 188 00:09
+sTaTiOn 185 03:12
+sTaTiOn 184 04:13
+Horário inexistente.
+470000012
+sTaTiOn 188 00:05
+sTaTiOn 187 01:06
+sTaTiOn 186 02:07
+sTaTiOn 185 03:08
+47000002
+sTaTiOn 188 00:09
+sTaTiOn 185 03:12
+sTaTiOn 184 04:13
+Remoção de horário com sucesso.
+480000000
+sTaTiOn 188 00:05
+sTaTiOn 189 01:06
+sTaTiOn 190 02:07
+sTaTiOn 191 03:08
+480000002
+sTaTiOn 188 00:09
+sTaTiOn 191 03:12
+Horário inexistente.
+480000000
+sTaTiOn 188 00:05
+sTaTiOn 189 01:06
+sTaTiOn 190 02:07
+sTaTiOn 191 03:08
+480000002
+sTaTiOn 188 00:09
+sTaTiOn 191 03:12
+Remoção de horário com sucesso.
+480000012
+sTaTiOn 192 00:05
+sTaTiOn 191 01:06
+sTaTiOn 190 02:07
+sTaTiOn 189 03:08
+48000002
+sTaTiOn 192 00:09
+sTaTiOn 189 03:12
+sTaTiOn 188 04:13
+Horário inexistente.
+480000012
+sTaTiOn 192 00:05
+sTaTiOn 191 01:06
+sTaTiOn 190 02:07
+sTaTiOn 189 03:08
+48000002
+sTaTiOn 192 00:09
+sTaTiOn 189 03:12
+sTaTiOn 188 04:13
+Remoção de horário com sucesso.
+490000000
+sTaTiOn 192 00:05
+sTaTiOn 193 01:06
+sTaTiOn 194 02:07
+sTaTiOn 195 03:08
+490000002
+sTaTiOn 192 00:09
+sTaTiOn 195 03:12
+Horário inexistente.
+490000000
+sTaTiOn 192 00:05
+sTaTiOn 193 01:06
+sTaTiOn 194 02:07
+sTaTiOn 195 03:08
+490000002
+sTaTiOn 192 00:09
+sTaTiOn 195 03:12
+Remoção de horário com sucesso.
+490000012
+sTaTiOn 196 00:05
+sTaTiOn 195 01:06
+sTaTiOn 194 02:07
+sTaTiOn 193 03:08
+49000002
+sTaTiOn 196 00:09
+sTaTiOn 193 03:12
+sTaTiOn 192 04:13
+Horário inexistente.
+490000012
+sTaTiOn 196 00:05
+sTaTiOn 195 01:06
+sTaTiOn 194 02:07
+sTaTiOn 193 03:08
+49000002
+sTaTiOn 196 00:09
+sTaTiOn 193 03:12
+sTaTiOn 192 04:13
+Linha inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+116
+sTaTiOn 0 00:37
+sTaTiOn 1 01:38
+sTaTiOn 2 02:39
+sTaTiOn 3 03:40
+sTaTiOn 4 04:41
+117
+sTaTiOn 0 00:39
+sTaTiOn 1 01:40
+sTaTiOn 2 02:41
+sTaTiOn 3 03:42
+sTaTiOn 4 04:43
+118
+sTaTiOn 0 00:41
+sTaTiOn 1 01:42
+sTaTiOn 2 02:43
+sTaTiOn 3 03:44
+sTaTiOn 4 04:45
+119
+sTaTiOn 0 00:43
+sTaTiOn 1 01:44
+sTaTiOn 2 02:45
+sTaTiOn 3 03:46
+sTaTiOn 4 04:47
+120
+sTaTiOn 0 00:45
+sTaTiOn 1 01:46
+sTaTiOn 2 02:47
+sTaTiOn 3 03:48
+sTaTiOn 4 04:49
+11016
+sTaTiOn 4 00:37
+sTaTiOn 3 01:38
+sTaTiOn 2 02:39
+sTaTiOn 1 03:40
+sTaTiOn 0 04:41
+11017
+sTaTiOn 4 00:39
+sTaTiOn 3 01:40
+sTaTiOn 2 02:41
+sTaTiOn 1 03:42
+sTaTiOn 0 04:43
+11018
+sTaTiOn 4 00:41
+sTaTiOn 3 01:42
+sTaTiOn 2 02:43
+sTaTiOn 1 03:44
+sTaTiOn 0 04:45
+11019
+sTaTiOn 4 00:43
+sTaTiOn 3 01:44
+sTaTiOn 2 02:45
+sTaTiOn 1 03:46
+sTaTiOn 0 04:47
+11020
+sTaTiOn 4 00:45
+sTaTiOn 3 01:46
+sTaTiOn 2 02:47
+sTaTiOn 1 03:48
+sTaTiOn 0 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+216
+sTaTiOn 4 00:37
+sTaTiOn 5 01:38
+sTaTiOn 6 02:39
+sTaTiOn 7 03:40
+sTaTiOn 8 04:41
+217
+sTaTiOn 4 00:39
+sTaTiOn 5 01:40
+sTaTiOn 6 02:41
+sTaTiOn 7 03:42
+sTaTiOn 8 04:43
+218
+sTaTiOn 4 00:41
+sTaTiOn 5 01:42
+sTaTiOn 6 02:43
+sTaTiOn 7 03:44
+sTaTiOn 8 04:45
+219
+sTaTiOn 4 00:43
+sTaTiOn 5 01:44
+sTaTiOn 6 02:45
+sTaTiOn 7 03:46
+sTaTiOn 8 04:47
+220
+sTaTiOn 4 00:45
+sTaTiOn 5 01:46
+sTaTiOn 6 02:47
+sTaTiOn 7 03:48
+sTaTiOn 8 04:49
+21016
+sTaTiOn 8 00:37
+sTaTiOn 7 01:38
+sTaTiOn 6 02:39
+sTaTiOn 5 03:40
+sTaTiOn 4 04:41
+21017
+sTaTiOn 8 00:39
+sTaTiOn 7 01:40
+sTaTiOn 6 02:41
+sTaTiOn 5 03:42
+sTaTiOn 4 04:43
+21018
+sTaTiOn 8 00:41
+sTaTiOn 7 01:42
+sTaTiOn 6 02:43
+sTaTiOn 5 03:44
+sTaTiOn 4 04:45
+21019
+sTaTiOn 8 00:43
+sTaTiOn 7 01:44
+sTaTiOn 6 02:45
+sTaTiOn 5 03:46
+sTaTiOn 4 04:47
+21020
+sTaTiOn 8 00:45
+sTaTiOn 7 01:46
+sTaTiOn 6 02:47
+sTaTiOn 5 03:48
+sTaTiOn 4 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+316
+sTaTiOn 8 00:37
+sTaTiOn 9 01:38
+sTaTiOn 10 02:39
+sTaTiOn 11 03:40
+sTaTiOn 12 04:41
+317
+sTaTiOn 8 00:39
+sTaTiOn 9 01:40
+sTaTiOn 10 02:41
+sTaTiOn 11 03:42
+sTaTiOn 12 04:43
+318
+sTaTiOn 8 00:41
+sTaTiOn 9 01:42
+sTaTiOn 10 02:43
+sTaTiOn 11 03:44
+sTaTiOn 12 04:45
+319
+sTaTiOn 8 00:43
+sTaTiOn 9 01:44
+sTaTiOn 10 02:45
+sTaTiOn 11 03:46
+sTaTiOn 12 04:47
+320
+sTaTiOn 8 00:45
+sTaTiOn 9 01:46
+sTaTiOn 10 02:47
+sTaTiOn 11 03:48
+sTaTiOn 12 04:49
+31016
+sTaTiOn 12 00:37
+sTaTiOn 11 01:38
+sTaTiOn 10 02:39
+sTaTiOn 9 03:40
+sTaTiOn 8 04:41
+31017
+sTaTiOn 12 00:39
+sTaTiOn 11 01:40
+sTaTiOn 10 02:41
+sTaTiOn 9 03:42
+sTaTiOn 8 04:43
+31018
+sTaTiOn 12 00:41
+sTaTiOn 11 01:42
+sTaTiOn 10 02:43
+sTaTiOn 9 03:44
+sTaTiOn 8 04:45
+31019
+sTaTiOn 12 00:43
+sTaTiOn 11 01:44
+sTaTiOn 10 02:45
+sTaTiOn 9 03:46
+sTaTiOn 8 04:47
+31020
+sTaTiOn 12 00:45
+sTaTiOn 11 01:46
+sTaTiOn 10 02:47
+sTaTiOn 9 03:48
+sTaTiOn 8 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+416
+sTaTiOn 12 00:37
+sTaTiOn 13 01:38
+sTaTiOn 14 02:39
+sTaTiOn 15 03:40
+sTaTiOn 16 04:41
+417
+sTaTiOn 12 00:39
+sTaTiOn 13 01:40
+sTaTiOn 14 02:41
+sTaTiOn 15 03:42
+sTaTiOn 16 04:43
+418
+sTaTiOn 12 00:41
+sTaTiOn 13 01:42
+sTaTiOn 14 02:43
+sTaTiOn 15 03:44
+sTaTiOn 16 04:45
+419
+sTaTiOn 12 00:43
+sTaTiOn 13 01:44
+sTaTiOn 14 02:45
+sTaTiOn 15 03:46
+sTaTiOn 16 04:47
+420
+sTaTiOn 12 00:45
+sTaTiOn 13 01:46
+sTaTiOn 14 02:47
+sTaTiOn 15 03:48
+sTaTiOn 16 04:49
+41016
+sTaTiOn 16 00:37
+sTaTiOn 15 01:38
+sTaTiOn 14 02:39
+sTaTiOn 13 03:40
+sTaTiOn 12 04:41
+41017
+sTaTiOn 16 00:39
+sTaTiOn 15 01:40
+sTaTiOn 14 02:41
+sTaTiOn 13 03:42
+sTaTiOn 12 04:43
+41018
+sTaTiOn 16 00:41
+sTaTiOn 15 01:42
+sTaTiOn 14 02:43
+sTaTiOn 13 03:44
+sTaTiOn 12 04:45
+41019
+sTaTiOn 16 00:43
+sTaTiOn 15 01:44
+sTaTiOn 14 02:45
+sTaTiOn 13 03:46
+sTaTiOn 12 04:47
+41020
+sTaTiOn 16 00:45
+sTaTiOn 15 01:46
+sTaTiOn 14 02:47
+sTaTiOn 13 03:48
+sTaTiOn 12 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+516
+sTaTiOn 16 00:37
+sTaTiOn 17 01:38
+sTaTiOn 18 02:39
+sTaTiOn 19 03:40
+sTaTiOn 20 04:41
+517
+sTaTiOn 16 00:39
+sTaTiOn 17 01:40
+sTaTiOn 18 02:41
+sTaTiOn 19 03:42
+sTaTiOn 20 04:43
+518
+sTaTiOn 16 00:41
+sTaTiOn 17 01:42
+sTaTiOn 18 02:43
+sTaTiOn 19 03:44
+sTaTiOn 20 04:45
+519
+sTaTiOn 16 00:43
+sTaTiOn 17 01:44
+sTaTiOn 18 02:45
+sTaTiOn 19 03:46
+sTaTiOn 20 04:47
+520
+sTaTiOn 16 00:45
+sTaTiOn 17 01:46
+sTaTiOn 18 02:47
+sTaTiOn 19 03:48
+sTaTiOn 20 04:49
+51016
+sTaTiOn 20 00:37
+sTaTiOn 19 01:38
+sTaTiOn 18 02:39
+sTaTiOn 17 03:40
+sTaTiOn 16 04:41
+51017
+sTaTiOn 20 00:39
+sTaTiOn 19 01:40
+sTaTiOn 18 02:41
+sTaTiOn 17 03:42
+sTaTiOn 16 04:43
+51018
+sTaTiOn 20 00:41
+sTaTiOn 19 01:42
+sTaTiOn 18 02:43
+sTaTiOn 17 03:44
+sTaTiOn 16 04:45
+51019
+sTaTiOn 20 00:43
+sTaTiOn 19 01:44
+sTaTiOn 18 02:45
+sTaTiOn 17 03:46
+sTaTiOn 16 04:47
+51020
+sTaTiOn 20 00:45
+sTaTiOn 19 01:46
+sTaTiOn 18 02:47
+sTaTiOn 17 03:48
+sTaTiOn 16 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+616
+sTaTiOn 20 00:37
+sTaTiOn 21 01:38
+sTaTiOn 22 02:39
+sTaTiOn 23 03:40
+sTaTiOn 24 04:41
+617
+sTaTiOn 20 00:39
+sTaTiOn 21 01:40
+sTaTiOn 22 02:41
+sTaTiOn 23 03:42
+sTaTiOn 24 04:43
+618
+sTaTiOn 20 00:41
+sTaTiOn 21 01:42
+sTaTiOn 22 02:43
+sTaTiOn 23 03:44
+sTaTiOn 24 04:45
+619
+sTaTiOn 20 00:43
+sTaTiOn 21 01:44
+sTaTiOn 22 02:45
+sTaTiOn 23 03:46
+sTaTiOn 24 04:47
+620
+sTaTiOn 20 00:45
+sTaTiOn 21 01:46
+sTaTiOn 22 02:47
+sTaTiOn 23 03:48
+sTaTiOn 24 04:49
+61016
+sTaTiOn 24 00:37
+sTaTiOn 23 01:38
+sTaTiOn 22 02:39
+sTaTiOn 21 03:40
+sTaTiOn 20 04:41
+61017
+sTaTiOn 24 00:39
+sTaTiOn 23 01:40
+sTaTiOn 22 02:41
+sTaTiOn 21 03:42
+sTaTiOn 20 04:43
+61018
+sTaTiOn 24 00:41
+sTaTiOn 23 01:42
+sTaTiOn 22 02:43
+sTaTiOn 21 03:44
+sTaTiOn 20 04:45
+61019
+sTaTiOn 24 00:43
+sTaTiOn 23 01:44
+sTaTiOn 22 02:45
+sTaTiOn 21 03:46
+sTaTiOn 20 04:47
+61020
+sTaTiOn 24 00:45
+sTaTiOn 23 01:46
+sTaTiOn 22 02:47
+sTaTiOn 21 03:48
+sTaTiOn 20 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+716
+sTaTiOn 24 00:37
+sTaTiOn 25 01:38
+sTaTiOn 26 02:39
+sTaTiOn 27 03:40
+sTaTiOn 28 04:41
+717
+sTaTiOn 24 00:39
+sTaTiOn 25 01:40
+sTaTiOn 26 02:41
+sTaTiOn 27 03:42
+sTaTiOn 28 04:43
+718
+sTaTiOn 24 00:41
+sTaTiOn 25 01:42
+sTaTiOn 26 02:43
+sTaTiOn 27 03:44
+sTaTiOn 28 04:45
+719
+sTaTiOn 24 00:43
+sTaTiOn 25 01:44
+sTaTiOn 26 02:45
+sTaTiOn 27 03:46
+sTaTiOn 28 04:47
+720
+sTaTiOn 24 00:45
+sTaTiOn 25 01:46
+sTaTiOn 26 02:47
+sTaTiOn 27 03:48
+sTaTiOn 28 04:49
+71016
+sTaTiOn 28 00:37
+sTaTiOn 27 01:38
+sTaTiOn 26 02:39
+sTaTiOn 25 03:40
+sTaTiOn 24 04:41
+71017
+sTaTiOn 28 00:39
+sTaTiOn 27 01:40
+sTaTiOn 26 02:41
+sTaTiOn 25 03:42
+sTaTiOn 24 04:43
+71018
+sTaTiOn 28 00:41
+sTaTiOn 27 01:42
+sTaTiOn 26 02:43
+sTaTiOn 25 03:44
+sTaTiOn 24 04:45
+71019
+sTaTiOn 28 00:43
+sTaTiOn 27 01:44
+sTaTiOn 26 02:45
+sTaTiOn 25 03:46
+sTaTiOn 24 04:47
+71020
+sTaTiOn 28 00:45
+sTaTiOn 27 01:46
+sTaTiOn 26 02:47
+sTaTiOn 25 03:48
+sTaTiOn 24 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+816
+sTaTiOn 28 00:37
+sTaTiOn 29 01:38
+sTaTiOn 30 02:39
+sTaTiOn 31 03:40
+sTaTiOn 32 04:41
+817
+sTaTiOn 28 00:39
+sTaTiOn 29 01:40
+sTaTiOn 30 02:41
+sTaTiOn 31 03:42
+sTaTiOn 32 04:43
+818
+sTaTiOn 28 00:41
+sTaTiOn 29 01:42
+sTaTiOn 30 02:43
+sTaTiOn 31 03:44
+sTaTiOn 32 04:45
+819
+sTaTiOn 28 00:43
+sTaTiOn 29 01:44
+sTaTiOn 30 02:45
+sTaTiOn 31 03:46
+sTaTiOn 32 04:47
+820
+sTaTiOn 28 00:45
+sTaTiOn 29 01:46
+sTaTiOn 30 02:47
+sTaTiOn 31 03:48
+sTaTiOn 32 04:49
+81016
+sTaTiOn 32 00:37
+sTaTiOn 31 01:38
+sTaTiOn 30 02:39
+sTaTiOn 29 03:40
+sTaTiOn 28 04:41
+81017
+sTaTiOn 32 00:39
+sTaTiOn 31 01:40
+sTaTiOn 30 02:41
+sTaTiOn 29 03:42
+sTaTiOn 28 04:43
+81018
+sTaTiOn 32 00:41
+sTaTiOn 31 01:42
+sTaTiOn 30 02:43
+sTaTiOn 29 03:44
+sTaTiOn 28 04:45
+81019
+sTaTiOn 32 00:43
+sTaTiOn 31 01:44
+sTaTiOn 30 02:45
+sTaTiOn 29 03:46
+sTaTiOn 28 04:47
+81020
+sTaTiOn 32 00:45
+sTaTiOn 31 01:46
+sTaTiOn 30 02:47
+sTaTiOn 29 03:48
+sTaTiOn 28 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+916
+sTaTiOn 32 00:37
+sTaTiOn 33 01:38
+sTaTiOn 34 02:39
+sTaTiOn 35 03:40
+sTaTiOn 36 04:41
+917
+sTaTiOn 32 00:39
+sTaTiOn 33 01:40
+sTaTiOn 34 02:41
+sTaTiOn 35 03:42
+sTaTiOn 36 04:43
+918
+sTaTiOn 32 00:41
+sTaTiOn 33 01:42
+sTaTiOn 34 02:43
+sTaTiOn 35 03:44
+sTaTiOn 36 04:45
+919
+sTaTiOn 32 00:43
+sTaTiOn 33 01:44
+sTaTiOn 34 02:45
+sTaTiOn 35 03:46
+sTaTiOn 36 04:47
+920
+sTaTiOn 32 00:45
+sTaTiOn 33 01:46
+sTaTiOn 34 02:47
+sTaTiOn 35 03:48
+sTaTiOn 36 04:49
+91016
+sTaTiOn 36 00:37
+sTaTiOn 35 01:38
+sTaTiOn 34 02:39
+sTaTiOn 33 03:40
+sTaTiOn 32 04:41
+91017
+sTaTiOn 36 00:39
+sTaTiOn 35 01:40
+sTaTiOn 34 02:41
+sTaTiOn 33 03:42
+sTaTiOn 32 04:43
+91018
+sTaTiOn 36 00:41
+sTaTiOn 35 01:42
+sTaTiOn 34 02:43
+sTaTiOn 33 03:44
+sTaTiOn 32 04:45
+91019
+sTaTiOn 36 00:43
+sTaTiOn 35 01:44
+sTaTiOn 34 02:45
+sTaTiOn 33 03:46
+sTaTiOn 32 04:47
+91020
+sTaTiOn 36 00:45
+sTaTiOn 35 01:46
+sTaTiOn 34 02:47
+sTaTiOn 33 03:48
+sTaTiOn 32 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+1016
+sTaTiOn 36 00:37
+sTaTiOn 37 01:38
+sTaTiOn 38 02:39
+sTaTiOn 39 03:40
+sTaTiOn 40 04:41
+1017
+sTaTiOn 36 00:39
+sTaTiOn 37 01:40
+sTaTiOn 38 02:41
+sTaTiOn 39 03:42
+sTaTiOn 40 04:43
+1018
+sTaTiOn 36 00:41
+sTaTiOn 37 01:42
+sTaTiOn 38 02:43
+sTaTiOn 39 03:44
+sTaTiOn 40 04:45
+1019
+sTaTiOn 36 00:43
+sTaTiOn 37 01:44
+sTaTiOn 38 02:45
+sTaTiOn 39 03:46
+sTaTiOn 40 04:47
+1020
+sTaTiOn 36 00:45
+sTaTiOn 37 01:46
+sTaTiOn 38 02:47
+sTaTiOn 39 03:48
+sTaTiOn 40 04:49
+101016
+sTaTiOn 40 00:37
+sTaTiOn 39 01:38
+sTaTiOn 38 02:39
+sTaTiOn 37 03:40
+sTaTiOn 36 04:41
+101017
+sTaTiOn 40 00:39
+sTaTiOn 39 01:40
+sTaTiOn 38 02:41
+sTaTiOn 37 03:42
+sTaTiOn 36 04:43
+101018
+sTaTiOn 40 00:41
+sTaTiOn 39 01:42
+sTaTiOn 38 02:43
+sTaTiOn 37 03:44
+sTaTiOn 36 04:45
+101019
+sTaTiOn 40 00:43
+sTaTiOn 39 01:44
+sTaTiOn 38 02:45
+sTaTiOn 37 03:46
+sTaTiOn 36 04:47
+101020
+sTaTiOn 40 00:45
+sTaTiOn 39 01:46
+sTaTiOn 38 02:47
+sTaTiOn 37 03:48
+sTaTiOn 36 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+1116
+sTaTiOn 40 00:37
+sTaTiOn 41 01:38
+sTaTiOn 42 02:39
+sTaTiOn 43 03:40
+sTaTiOn 44 04:41
+1117
+sTaTiOn 40 00:39
+sTaTiOn 41 01:40
+sTaTiOn 42 02:41
+sTaTiOn 43 03:42
+sTaTiOn 44 04:43
+1118
+sTaTiOn 40 00:41
+sTaTiOn 41 01:42
+sTaTiOn 42 02:43
+sTaTiOn 43 03:44
+sTaTiOn 44 04:45
+1119
+sTaTiOn 40 00:43
+sTaTiOn 41 01:44
+sTaTiOn 42 02:45
+sTaTiOn 43 03:46
+sTaTiOn 44 04:47
+1120
+sTaTiOn 40 00:45
+sTaTiOn 41 01:46
+sTaTiOn 42 02:47
+sTaTiOn 43 03:48
+sTaTiOn 44 04:49
+111016
+sTaTiOn 44 00:37
+sTaTiOn 43 01:38
+sTaTiOn 42 02:39
+sTaTiOn 41 03:40
+sTaTiOn 40 04:41
+111017
+sTaTiOn 44 00:39
+sTaTiOn 43 01:40
+sTaTiOn 42 02:41
+sTaTiOn 41 03:42
+sTaTiOn 40 04:43
+111018
+sTaTiOn 44 00:41
+sTaTiOn 43 01:42
+sTaTiOn 42 02:43
+sTaTiOn 41 03:44
+sTaTiOn 40 04:45
+111019
+sTaTiOn 44 00:43
+sTaTiOn 43 01:44
+sTaTiOn 42 02:45
+sTaTiOn 41 03:46
+sTaTiOn 40 04:47
+111020
+sTaTiOn 44 00:45
+sTaTiOn 43 01:46
+sTaTiOn 42 02:47
+sTaTiOn 41 03:48
+sTaTiOn 40 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+1216
+sTaTiOn 44 00:37
+sTaTiOn 45 01:38
+sTaTiOn 46 02:39
+sTaTiOn 47 03:40
+sTaTiOn 48 04:41
+1217
+sTaTiOn 44 00:39
+sTaTiOn 45 01:40
+sTaTiOn 46 02:41
+sTaTiOn 47 03:42
+sTaTiOn 48 04:43
+1218
+sTaTiOn 44 00:41
+sTaTiOn 45 01:42
+sTaTiOn 46 02:43
+sTaTiOn 47 03:44
+sTaTiOn 48 04:45
+1219
+sTaTiOn 44 00:43
+sTaTiOn 45 01:44
+sTaTiOn 46 02:45
+sTaTiOn 47 03:46
+sTaTiOn 48 04:47
+1220
+sTaTiOn 44 00:45
+sTaTiOn 45 01:46
+sTaTiOn 46 02:47
+sTaTiOn 47 03:48
+sTaTiOn 48 04:49
+121016
+sTaTiOn 48 00:37
+sTaTiOn 47 01:38
+sTaTiOn 46 02:39
+sTaTiOn 45 03:40
+sTaTiOn 44 04:41
+121017
+sTaTiOn 48 00:39
+sTaTiOn 47 01:40
+sTaTiOn 46 02:41
+sTaTiOn 45 03:42
+sTaTiOn 44 04:43
+121018
+sTaTiOn 48 00:41
+sTaTiOn 47 01:42
+sTaTiOn 46 02:43
+sTaTiOn 45 03:44
+sTaTiOn 44 04:45
+121019
+sTaTiOn 48 00:43
+sTaTiOn 47 01:44
+sTaTiOn 46 02:45
+sTaTiOn 45 03:46
+sTaTiOn 44 04:47
+121020
+sTaTiOn 48 00:45
+sTaTiOn 47 01:46
+sTaTiOn 46 02:47
+sTaTiOn 45 03:48
+sTaTiOn 44 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+1316
+sTaTiOn 48 00:37
+sTaTiOn 49 01:38
+sTaTiOn 50 02:39
+sTaTiOn 51 03:40
+sTaTiOn 52 04:41
+1317
+sTaTiOn 48 00:39
+sTaTiOn 49 01:40
+sTaTiOn 50 02:41
+sTaTiOn 51 03:42
+sTaTiOn 52 04:43
+1318
+sTaTiOn 48 00:41
+sTaTiOn 49 01:42
+sTaTiOn 50 02:43
+sTaTiOn 51 03:44
+sTaTiOn 52 04:45
+1319
+sTaTiOn 48 00:43
+sTaTiOn 49 01:44
+sTaTiOn 50 02:45
+sTaTiOn 51 03:46
+sTaTiOn 52 04:47
+1320
+sTaTiOn 48 00:45
+sTaTiOn 49 01:46
+sTaTiOn 50 02:47
+sTaTiOn 51 03:48
+sTaTiOn 52 04:49
+131016
+sTaTiOn 52 00:37
+sTaTiOn 51 01:38
+sTaTiOn 50 02:39
+sTaTiOn 49 03:40
+sTaTiOn 48 04:41
+131017
+sTaTiOn 52 00:39
+sTaTiOn 51 01:40
+sTaTiOn 50 02:41
+sTaTiOn 49 03:42
+sTaTiOn 48 04:43
+131018
+sTaTiOn 52 00:41
+sTaTiOn 51 01:42
+sTaTiOn 50 02:43
+sTaTiOn 49 03:44
+sTaTiOn 48 04:45
+131019
+sTaTiOn 52 00:43
+sTaTiOn 51 01:44
+sTaTiOn 50 02:45
+sTaTiOn 49 03:46
+sTaTiOn 48 04:47
+131020
+sTaTiOn 52 00:45
+sTaTiOn 51 01:46
+sTaTiOn 50 02:47
+sTaTiOn 49 03:48
+sTaTiOn 48 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+1416
+sTaTiOn 52 00:37
+sTaTiOn 53 01:38
+sTaTiOn 54 02:39
+sTaTiOn 55 03:40
+sTaTiOn 56 04:41
+1417
+sTaTiOn 52 00:39
+sTaTiOn 53 01:40
+sTaTiOn 54 02:41
+sTaTiOn 55 03:42
+sTaTiOn 56 04:43
+1418
+sTaTiOn 52 00:41
+sTaTiOn 53 01:42
+sTaTiOn 54 02:43
+sTaTiOn 55 03:44
+sTaTiOn 56 04:45
+1419
+sTaTiOn 52 00:43
+sTaTiOn 53 01:44
+sTaTiOn 54 02:45
+sTaTiOn 55 03:46
+sTaTiOn 56 04:47
+1420
+sTaTiOn 52 00:45
+sTaTiOn 53 01:46
+sTaTiOn 54 02:47
+sTaTiOn 55 03:48
+sTaTiOn 56 04:49
+141016
+sTaTiOn 56 00:37
+sTaTiOn 55 01:38
+sTaTiOn 54 02:39
+sTaTiOn 53 03:40
+sTaTiOn 52 04:41
+141017
+sTaTiOn 56 00:39
+sTaTiOn 55 01:40
+sTaTiOn 54 02:41
+sTaTiOn 53 03:42
+sTaTiOn 52 04:43
+141018
+sTaTiOn 56 00:41
+sTaTiOn 55 01:42
+sTaTiOn 54 02:43
+sTaTiOn 53 03:44
+sTaTiOn 52 04:45
+141019
+sTaTiOn 56 00:43
+sTaTiOn 55 01:44
+sTaTiOn 54 02:45
+sTaTiOn 53 03:46
+sTaTiOn 52 04:47
+141020
+sTaTiOn 56 00:45
+sTaTiOn 55 01:46
+sTaTiOn 54 02:47
+sTaTiOn 53 03:48
+sTaTiOn 52 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+1516
+sTaTiOn 56 00:37
+sTaTiOn 57 01:38
+sTaTiOn 58 02:39
+sTaTiOn 59 03:40
+sTaTiOn 60 04:41
+1517
+sTaTiOn 56 00:39
+sTaTiOn 57 01:40
+sTaTiOn 58 02:41
+sTaTiOn 59 03:42
+sTaTiOn 60 04:43
+1518
+sTaTiOn 56 00:41
+sTaTiOn 57 01:42
+sTaTiOn 58 02:43
+sTaTiOn 59 03:44
+sTaTiOn 60 04:45
+1519
+sTaTiOn 56 00:43
+sTaTiOn 57 01:44
+sTaTiOn 58 02:45
+sTaTiOn 59 03:46
+sTaTiOn 60 04:47
+1520
+sTaTiOn 56 00:45
+sTaTiOn 57 01:46
+sTaTiOn 58 02:47
+sTaTiOn 59 03:48
+sTaTiOn 60 04:49
+151016
+sTaTiOn 60 00:37
+sTaTiOn 59 01:38
+sTaTiOn 58 02:39
+sTaTiOn 57 03:40
+sTaTiOn 56 04:41
+151017
+sTaTiOn 60 00:39
+sTaTiOn 59 01:40
+sTaTiOn 58 02:41
+sTaTiOn 57 03:42
+sTaTiOn 56 04:43
+151018
+sTaTiOn 60 00:41
+sTaTiOn 59 01:42
+sTaTiOn 58 02:43
+sTaTiOn 57 03:44
+sTaTiOn 56 04:45
+151019
+sTaTiOn 60 00:43
+sTaTiOn 59 01:44
+sTaTiOn 58 02:45
+sTaTiOn 57 03:46
+sTaTiOn 56 04:47
+151020
+sTaTiOn 60 00:45
+sTaTiOn 59 01:46
+sTaTiOn 58 02:47
+sTaTiOn 57 03:48
+sTaTiOn 56 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+1616
+sTaTiOn 60 00:37
+sTaTiOn 61 01:38
+sTaTiOn 62 02:39
+sTaTiOn 63 03:40
+sTaTiOn 64 04:41
+1617
+sTaTiOn 60 00:39
+sTaTiOn 61 01:40
+sTaTiOn 62 02:41
+sTaTiOn 63 03:42
+sTaTiOn 64 04:43
+1618
+sTaTiOn 60 00:41
+sTaTiOn 61 01:42
+sTaTiOn 62 02:43
+sTaTiOn 63 03:44
+sTaTiOn 64 04:45
+1619
+sTaTiOn 60 00:43
+sTaTiOn 61 01:44
+sTaTiOn 62 02:45
+sTaTiOn 63 03:46
+sTaTiOn 64 04:47
+1620
+sTaTiOn 60 00:45
+sTaTiOn 61 01:46
+sTaTiOn 62 02:47
+sTaTiOn 63 03:48
+sTaTiOn 64 04:49
+161016
+sTaTiOn 64 00:37
+sTaTiOn 63 01:38
+sTaTiOn 62 02:39
+sTaTiOn 61 03:40
+sTaTiOn 60 04:41
+161017
+sTaTiOn 64 00:39
+sTaTiOn 63 01:40
+sTaTiOn 62 02:41
+sTaTiOn 61 03:42
+sTaTiOn 60 04:43
+161018
+sTaTiOn 64 00:41
+sTaTiOn 63 01:42
+sTaTiOn 62 02:43
+sTaTiOn 61 03:44
+sTaTiOn 60 04:45
+161019
+sTaTiOn 64 00:43
+sTaTiOn 63 01:44
+sTaTiOn 62 02:45
+sTaTiOn 61 03:46
+sTaTiOn 60 04:47
+161020
+sTaTiOn 64 00:45
+sTaTiOn 63 01:46
+sTaTiOn 62 02:47
+sTaTiOn 61 03:48
+sTaTiOn 60 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+1716
+sTaTiOn 64 00:37
+sTaTiOn 65 01:38
+sTaTiOn 66 02:39
+sTaTiOn 67 03:40
+sTaTiOn 68 04:41
+1717
+sTaTiOn 64 00:39
+sTaTiOn 65 01:40
+sTaTiOn 66 02:41
+sTaTiOn 67 03:42
+sTaTiOn 68 04:43
+1718
+sTaTiOn 64 00:41
+sTaTiOn 65 01:42
+sTaTiOn 66 02:43
+sTaTiOn 67 03:44
+sTaTiOn 68 04:45
+1719
+sTaTiOn 64 00:43
+sTaTiOn 65 01:44
+sTaTiOn 66 02:45
+sTaTiOn 67 03:46
+sTaTiOn 68 04:47
+1720
+sTaTiOn 64 00:45
+sTaTiOn 65 01:46
+sTaTiOn 66 02:47
+sTaTiOn 67 03:48
+sTaTiOn 68 04:49
+171016
+sTaTiOn 68 00:37
+sTaTiOn 67 01:38
+sTaTiOn 66 02:39
+sTaTiOn 65 03:40
+sTaTiOn 64 04:41
+171017
+sTaTiOn 68 00:39
+sTaTiOn 67 01:40
+sTaTiOn 66 02:41
+sTaTiOn 65 03:42
+sTaTiOn 64 04:43
+171018
+sTaTiOn 68 00:41
+sTaTiOn 67 01:42
+sTaTiOn 66 02:43
+sTaTiOn 65 03:44
+sTaTiOn 64 04:45
+171019
+sTaTiOn 68 00:43
+sTaTiOn 67 01:44
+sTaTiOn 66 02:45
+sTaTiOn 65 03:46
+sTaTiOn 64 04:47
+171020
+sTaTiOn 68 00:45
+sTaTiOn 67 01:46
+sTaTiOn 66 02:47
+sTaTiOn 65 03:48
+sTaTiOn 64 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+1816
+sTaTiOn 68 00:37
+sTaTiOn 69 01:38
+sTaTiOn 70 02:39
+sTaTiOn 71 03:40
+sTaTiOn 72 04:41
+1817
+sTaTiOn 68 00:39
+sTaTiOn 69 01:40
+sTaTiOn 70 02:41
+sTaTiOn 71 03:42
+sTaTiOn 72 04:43
+1818
+sTaTiOn 68 00:41
+sTaTiOn 69 01:42
+sTaTiOn 70 02:43
+sTaTiOn 71 03:44
+sTaTiOn 72 04:45
+1819
+sTaTiOn 68 00:43
+sTaTiOn 69 01:44
+sTaTiOn 70 02:45
+sTaTiOn 71 03:46
+sTaTiOn 72 04:47
+1820
+sTaTiOn 68 00:45
+sTaTiOn 69 01:46
+sTaTiOn 70 02:47
+sTaTiOn 71 03:48
+sTaTiOn 72 04:49
+181016
+sTaTiOn 72 00:37
+sTaTiOn 71 01:38
+sTaTiOn 70 02:39
+sTaTiOn 69 03:40
+sTaTiOn 68 04:41
+181017
+sTaTiOn 72 00:39
+sTaTiOn 71 01:40
+sTaTiOn 70 02:41
+sTaTiOn 69 03:42
+sTaTiOn 68 04:43
+181018
+sTaTiOn 72 00:41
+sTaTiOn 71 01:42
+sTaTiOn 70 02:43
+sTaTiOn 69 03:44
+sTaTiOn 68 04:45
+181019
+sTaTiOn 72 00:43
+sTaTiOn 71 01:44
+sTaTiOn 70 02:45
+sTaTiOn 69 03:46
+sTaTiOn 68 04:47
+181020
+sTaTiOn 72 00:45
+sTaTiOn 71 01:46
+sTaTiOn 70 02:47
+sTaTiOn 69 03:48
+sTaTiOn 68 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+1916
+sTaTiOn 72 00:37
+sTaTiOn 73 01:38
+sTaTiOn 74 02:39
+sTaTiOn 75 03:40
+sTaTiOn 76 04:41
+1917
+sTaTiOn 72 00:39
+sTaTiOn 73 01:40
+sTaTiOn 74 02:41
+sTaTiOn 75 03:42
+sTaTiOn 76 04:43
+1918
+sTaTiOn 72 00:41
+sTaTiOn 73 01:42
+sTaTiOn 74 02:43
+sTaTiOn 75 03:44
+sTaTiOn 76 04:45
+1919
+sTaTiOn 72 00:43
+sTaTiOn 73 01:44
+sTaTiOn 74 02:45
+sTaTiOn 75 03:46
+sTaTiOn 76 04:47
+1920
+sTaTiOn 72 00:45
+sTaTiOn 73 01:46
+sTaTiOn 74 02:47
+sTaTiOn 75 03:48
+sTaTiOn 76 04:49
+191016
+sTaTiOn 76 00:37
+sTaTiOn 75 01:38
+sTaTiOn 74 02:39
+sTaTiOn 73 03:40
+sTaTiOn 72 04:41
+191017
+sTaTiOn 76 00:39
+sTaTiOn 75 01:40
+sTaTiOn 74 02:41
+sTaTiOn 73 03:42
+sTaTiOn 72 04:43
+191018
+sTaTiOn 76 00:41
+sTaTiOn 75 01:42
+sTaTiOn 74 02:43
+sTaTiOn 73 03:44
+sTaTiOn 72 04:45
+191019
+sTaTiOn 76 00:43
+sTaTiOn 75 01:44
+sTaTiOn 74 02:45
+sTaTiOn 73 03:46
+sTaTiOn 72 04:47
+191020
+sTaTiOn 76 00:45
+sTaTiOn 75 01:46
+sTaTiOn 74 02:47
+sTaTiOn 73 03:48
+sTaTiOn 72 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+2016
+sTaTiOn 76 00:37
+sTaTiOn 77 01:38
+sTaTiOn 78 02:39
+sTaTiOn 79 03:40
+sTaTiOn 80 04:41
+2017
+sTaTiOn 76 00:39
+sTaTiOn 77 01:40
+sTaTiOn 78 02:41
+sTaTiOn 79 03:42
+sTaTiOn 80 04:43
+2018
+sTaTiOn 76 00:41
+sTaTiOn 77 01:42
+sTaTiOn 78 02:43
+sTaTiOn 79 03:44
+sTaTiOn 80 04:45
+2019
+sTaTiOn 76 00:43
+sTaTiOn 77 01:44
+sTaTiOn 78 02:45
+sTaTiOn 79 03:46
+sTaTiOn 80 04:47
+2020
+sTaTiOn 76 00:45
+sTaTiOn 77 01:46
+sTaTiOn 78 02:47
+sTaTiOn 79 03:48
+sTaTiOn 80 04:49
+201016
+sTaTiOn 80 00:37
+sTaTiOn 79 01:38
+sTaTiOn 78 02:39
+sTaTiOn 77 03:40
+sTaTiOn 76 04:41
+201017
+sTaTiOn 80 00:39
+sTaTiOn 79 01:40
+sTaTiOn 78 02:41
+sTaTiOn 77 03:42
+sTaTiOn 76 04:43
+201018
+sTaTiOn 80 00:41
+sTaTiOn 79 01:42
+sTaTiOn 78 02:43
+sTaTiOn 77 03:44
+sTaTiOn 76 04:45
+201019
+sTaTiOn 80 00:43
+sTaTiOn 79 01:44
+sTaTiOn 78 02:45
+sTaTiOn 77 03:46
+sTaTiOn 76 04:47
+201020
+sTaTiOn 80 00:45
+sTaTiOn 79 01:46
+sTaTiOn 78 02:47
+sTaTiOn 77 03:48
+sTaTiOn 76 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+2116
+sTaTiOn 80 00:37
+sTaTiOn 81 01:38
+sTaTiOn 82 02:39
+sTaTiOn 83 03:40
+sTaTiOn 84 04:41
+2117
+sTaTiOn 80 00:39
+sTaTiOn 81 01:40
+sTaTiOn 82 02:41
+sTaTiOn 83 03:42
+sTaTiOn 84 04:43
+2118
+sTaTiOn 80 00:41
+sTaTiOn 81 01:42
+sTaTiOn 82 02:43
+sTaTiOn 83 03:44
+sTaTiOn 84 04:45
+2119
+sTaTiOn 80 00:43
+sTaTiOn 81 01:44
+sTaTiOn 82 02:45
+sTaTiOn 83 03:46
+sTaTiOn 84 04:47
+2120
+sTaTiOn 80 00:45
+sTaTiOn 81 01:46
+sTaTiOn 82 02:47
+sTaTiOn 83 03:48
+sTaTiOn 84 04:49
+211016
+sTaTiOn 84 00:37
+sTaTiOn 83 01:38
+sTaTiOn 82 02:39
+sTaTiOn 81 03:40
+sTaTiOn 80 04:41
+211017
+sTaTiOn 84 00:39
+sTaTiOn 83 01:40
+sTaTiOn 82 02:41
+sTaTiOn 81 03:42
+sTaTiOn 80 04:43
+211018
+sTaTiOn 84 00:41
+sTaTiOn 83 01:42
+sTaTiOn 82 02:43
+sTaTiOn 81 03:44
+sTaTiOn 80 04:45
+211019
+sTaTiOn 84 00:43
+sTaTiOn 83 01:44
+sTaTiOn 82 02:45
+sTaTiOn 81 03:46
+sTaTiOn 80 04:47
+211020
+sTaTiOn 84 00:45
+sTaTiOn 83 01:46
+sTaTiOn 82 02:47
+sTaTiOn 81 03:48
+sTaTiOn 80 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+2216
+sTaTiOn 84 00:37
+sTaTiOn 85 01:38
+sTaTiOn 86 02:39
+sTaTiOn 87 03:40
+sTaTiOn 88 04:41
+2217
+sTaTiOn 84 00:39
+sTaTiOn 85 01:40
+sTaTiOn 86 02:41
+sTaTiOn 87 03:42
+sTaTiOn 88 04:43
+2218
+sTaTiOn 84 00:41
+sTaTiOn 85 01:42
+sTaTiOn 86 02:43
+sTaTiOn 87 03:44
+sTaTiOn 88 04:45
+2219
+sTaTiOn 84 00:43
+sTaTiOn 85 01:44
+sTaTiOn 86 02:45
+sTaTiOn 87 03:46
+sTaTiOn 88 04:47
+2220
+sTaTiOn 84 00:45
+sTaTiOn 85 01:46
+sTaTiOn 86 02:47
+sTaTiOn 87 03:48
+sTaTiOn 88 04:49
+221016
+sTaTiOn 88 00:37
+sTaTiOn 87 01:38
+sTaTiOn 86 02:39
+sTaTiOn 85 03:40
+sTaTiOn 84 04:41
+221017
+sTaTiOn 88 00:39
+sTaTiOn 87 01:40
+sTaTiOn 86 02:41
+sTaTiOn 85 03:42
+sTaTiOn 84 04:43
+221018
+sTaTiOn 88 00:41
+sTaTiOn 87 01:42
+sTaTiOn 86 02:43
+sTaTiOn 85 03:44
+sTaTiOn 84 04:45
+221019
+sTaTiOn 88 00:43
+sTaTiOn 87 01:44
+sTaTiOn 86 02:45
+sTaTiOn 85 03:46
+sTaTiOn 84 04:47
+221020
+sTaTiOn 88 00:45
+sTaTiOn 87 01:46
+sTaTiOn 86 02:47
+sTaTiOn 85 03:48
+sTaTiOn 84 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+2316
+sTaTiOn 88 00:37
+sTaTiOn 89 01:38
+sTaTiOn 90 02:39
+sTaTiOn 91 03:40
+sTaTiOn 92 04:41
+2317
+sTaTiOn 88 00:39
+sTaTiOn 89 01:40
+sTaTiOn 90 02:41
+sTaTiOn 91 03:42
+sTaTiOn 92 04:43
+2318
+sTaTiOn 88 00:41
+sTaTiOn 89 01:42
+sTaTiOn 90 02:43
+sTaTiOn 91 03:44
+sTaTiOn 92 04:45
+2319
+sTaTiOn 88 00:43
+sTaTiOn 89 01:44
+sTaTiOn 90 02:45
+sTaTiOn 91 03:46
+sTaTiOn 92 04:47
+2320
+sTaTiOn 88 00:45
+sTaTiOn 89 01:46
+sTaTiOn 90 02:47
+sTaTiOn 91 03:48
+sTaTiOn 92 04:49
+231016
+sTaTiOn 92 00:37
+sTaTiOn 91 01:38
+sTaTiOn 90 02:39
+sTaTiOn 89 03:40
+sTaTiOn 88 04:41
+231017
+sTaTiOn 92 00:39
+sTaTiOn 91 01:40
+sTaTiOn 90 02:41
+sTaTiOn 89 03:42
+sTaTiOn 88 04:43
+231018
+sTaTiOn 92 00:41
+sTaTiOn 91 01:42
+sTaTiOn 90 02:43
+sTaTiOn 89 03:44
+sTaTiOn 88 04:45
+231019
+sTaTiOn 92 00:43
+sTaTiOn 91 01:44
+sTaTiOn 90 02:45
+sTaTiOn 89 03:46
+sTaTiOn 88 04:47
+231020
+sTaTiOn 92 00:45
+sTaTiOn 91 01:46
+sTaTiOn 90 02:47
+sTaTiOn 89 03:48
+sTaTiOn 88 04:49
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+Horário inexistente.
+Remoção de horário com sucesso.
+Remoção de horário com sucesso.
+Horário inexistente.
+2416
+sTaTiOn 92 00:37
+sTaTiOn 93 01:38
+sTaTiOn 94 02:39
+sTaTiOn 95 03:40
+sTaTiOn 96 04:41
+2417
+sTaTiOn 92 00:39
+sTaTiOn 93 01:40
+sTaTiOn 94 02:41
+sTaTiOn 95 03:42
+sTaTiOn 96 04:43
+2418
+sTaTiOn 92 00:41
+sTaTiOn 93 01:42
+sTaTiOn 94 02:43
+sTaTiOn 95 03:44
+sTaTiOn 96 04:45
+2419
+sTaTiOn 92 00:43
+sTaTiOn 93 01:44
+sTaTiOn 94 02:45
+sTaTiOn 95 03:46
+sTaTiOn 96 04:47
+2420
+sTaTiOn 92 00:45
+sTaTiOn 93 01:46
+sTaTiOn 94 02:47
+sTaTiOn 95 03:48
+sTaTiOn 96 04:49
+241016
+sTaTiOn 96 00:37
+sTaTiOn 95 01:38
+sTaTiOn 94 02:39
+sTaTiOn 93 03:40
+sTaTiOn 92 04:41
+241017
+sTaTiOn 96 00:39
+sTaTiOn 95 01:40
+sTaTiOn 94 02:41
+sTaTiOn 93 03:42
+sTaTiOn 92 04:43
+241018
+sTaTiOn 96 00:41
+sTaTiOn 95 01:42
+sTaTiOn 94 02:43
+sTaTiOn 93 03:44
+sTaTiOn 92 04:45
+241019
+sTaTiOn 96 00:43
+sTaTiOn 95 01:44
+sTaTiOn 94 02:45
+sTaTiOn 93 03:46
+sTaTiOn 92 04:47
+241020
+sTaTiOn 96 00:45
+sTaTiOn 95 01:46
+sTaTiOn 94 02:47
+sTaTiOn 93 03:48
+sTaTiOn 92 04:49
+Aplicação terminada.

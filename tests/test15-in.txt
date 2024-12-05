@@ -1,0 +1,126 @@
+iL test schedline
+dummy sched1
+dummy sched2
+dummy sched3
+dummy sched4
+
+iH test schedline
+99999995
+dummy sched1 00:15
+dummy sched2 01:16
+dummy sched3 02:17
+dummy sched4 03:18
+
+iH test schedline
+99999994
+dummy sched1 00:20
+dummy sched2 01:21
+dummy sched3 02:22
+dummy sched4 03:23
+
+iH test schedline
+99999993
+dummy sched1 00:14
+dummy sched2 01:15
+dummy sched3 02:16
+dummy sched4 03:17
+
+iH test schedline
+99999999
+dummy sched1 00:05
+dummy sched2 01:06
+dummy sched3 02:07
+dummy sched4 03:08
+
+iH test schedline
+99999998
+dummy sched1 00:05
+dummy sched2 01:06
+dummy sched3 02:07
+dummy sched4 03:08
+
+iH test schedline
+99999998
+dummy sched1 00:06
+dummy sched2 01:06
+dummy sched3 02:08
+dummy sched4 03:09
+
+iH test schedline
+99999998
+dummy sched1 00:07
+dummy sched2 01:08
+dummy sched3 02:07
+dummy sched4 03:10
+
+iH test schedline
+99999998
+dummy sched1 00:08
+dummy sched2 01:09
+dummy sched3 02:10
+dummy sched4 03:08
+
+iH test schedline
+99999992
+dummy sched1 00:06
+dummy sched2 01:07
+dummy sched3 02:08
+dummy sched4 03:09
+
+iH test schedline
+99999991
+dummy sched1 00:08
+dummy sched2 01:09
+dummy sched3 02:10
+dummy sched4 03:11
+
+iH test schedline
+99999990
+dummy sched1 00:07
+dummy sched2 01:08
+dummy sched3 02:09
+dummy sched4 03:10
+
+iH test schedline
+99999998
+dummy sched1 00:09
+dummy sched2 01:07
+dummy sched3 02:11
+dummy sched4 03:12
+
+iH test schedline
+99999998
+dummy sched1 00:04
+dummy sched2 01:05
+dummy sched3 02:08
+dummy sched4 03:09
+
+iH test schedline
+99999998
+dummy sched1 00:03
+dummy sched2 01:07
+dummy sched3 02:06
+dummy sched4 03:09
+
+iH test schedline
+99999998
+dummy sched1 00:00
+dummy sched2 01:05
+dummy sched3 02:06
+dummy sched4 03:09
+
+iH test schedline
+99999998
+dummy sched1 00:00
+dummy sched2 01:05
+dummy sched3 02:10
+dummy sched4 03:09
+
+iH test schedline
+99999998
+dummy sched1 00:00
+dummy sched2 01:08
+dummy sched3 02:10
+dummy sched4 03:09
+
+tA

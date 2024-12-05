@@ -1,0 +1,118 @@
+iL test line 666
+test station 1
+test station 2
+test station 3
+test station 4
+
+iH test line 666
+666666
+test station 1 00:05
+test station 2 01:06
+test station 3 02:07
+test station 4 03:08
+
+iH test line 666
+666664
+test station 1 00:05
+test station 2 01:06
+test station 3 02:07
+test station 4 03:08
+
+iH test line 666
+666665
+test station 1 00:05
+test station 2 01:06
+test station 3 02:07
+test station 4 03:08
+
+iH test line 666
+666663
+test station 1 00:05
+test station 2 01:06
+test station 3 02:07
+test station 4 03:08
+
+lC TEST STATION 1
+lC TEST STATION 2
+lC TEST STATION 3
+lC TEST STATION 4
+iL test line 667
+test station 1
+test station 2
+test station 3
+test station 4
+
+iH test line 667
+666667
+test station 1 00:06
+test station 2 01:07
+test station 3 02:08
+test station 4 03:09
+
+iH test line 667
+666669
+test station 1 00:08
+test station 2 01:09
+test station 3 02:10
+test station 4 03:11
+
+iH test line 667
+666668
+test station 1 00:07
+test station 2 01:08
+test station 3 02:09
+test station 4 03:10
+
+iL test line 668
+test station 1
+test station 2
+test station 3
+test station 4
+
+lC TEST STATION 1
+lC TEST STATION 2
+lC TEST STATION 3
+lC TEST STATION 4
+iL test line 669
+test station 1
+test station 2
+test station 3
+test station 4
+
+iH test line 668
+666662
+test station 1 00:09
+test station 2 01:10
+test station 3 02:11
+test station 4 03:12
+
+iH test line 668
+666661
+test station 1 00:10
+test station 2 01:11
+test station 3 02:12
+test station 4 03:13
+
+lC TEST STATION 1
+lC TEST STATION 2
+lC TEST STATION 3
+lC TEST STATION 4
+iH test line 669
+666670
+test station 1 00:05
+test station 2 01:06
+test station 3 02:07
+test station 4 03:08
+
+iH test line 669
+666671
+test station 1 00:05
+test station 2 01:06
+test station 3 02:07
+test station 4 03:08
+
+lC TEST STATION 1
+lC TEST STATION 2
+lC TEST STATION 3
+lC TEST STATION 4
+tA

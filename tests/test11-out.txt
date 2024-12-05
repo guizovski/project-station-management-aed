@@ -1,0 +1,336 @@
+Linha existente.
+sTaTiOn 0
+sTaTiOn 1
+sTaTiOn 2
+sTaTiOn 3
+sTaTiOn 4
+Remoção de linha com sucesso.
+Linha inexistente.
+Inserção de linha com sucesso.
+sTaTiOn 0
+sTaTiOn 1
+sTaTiOn 2
+sTaTiOn 3
+sTaTiOn 4
+Horário inexistente.
+Horário inválido.
+Criação de horário com sucesso.
+Remoção de horário com sucesso.
+Criação de horário com sucesso.
+Horário inválido.
+Criação de horário com sucesso.
+Horário inválido.
+Horário inválido.
+1
+sTaTiOn 0 00:07
+sTaTiOn 1 01:08
+sTaTiOn 2 02:09
+sTaTiOn 3 03:10
+sTaTiOn 4 04:11
+101
+sTaTiOn 0 00:11
+sTaTiOn 1 01:12
+sTaTiOn 2 02:13
+sTaTiOn 3 03:14
+Estação de partida inexistente.
+101
+sTaTiOn 0 00:11
+sTaTiOn 1 01:12
+sTaTiOn 2 02:13
+sTaTiOn 3 03:14
+101
+sTaTiOn 0 00:11
+sTaTiOn 1 01:12
+sTaTiOn 2 02:13
+sTaTiOn 3 03:14
+1
+sTaTiOn 0 00:07
+sTaTiOn 1 01:08
+sTaTiOn 2 02:09
+sTaTiOn 3 03:10
+sTaTiOn 4 04:11
+1
+sTaTiOn 0 00:07
+sTaTiOn 1 01:08
+sTaTiOn 2 02:09
+sTaTiOn 3 03:10
+sTaTiOn 4 04:11
+Criação de horário com sucesso.
+Horário inválido.
+Criação de horário com sucesso.
+301
+sTaTiOn 4 00:07
+sTaTiOn 1 01:08
+sTaTiOn 0 04:11
+501
+sTaTiOn 4 00:12
+sTaTiOn 1 01:13
+Inserção de linha com sucesso.
+sTaTiOn 4
+sTaTiOn 5
+sTaTiOn 6
+sTaTiOn 7
+sTaTiOn 8
+Remoção de linha com sucesso.
+Linha inexistente.
+Inserção de linha com sucesso.
+sTaTiOn 4
+sTaTiOn 5
+sTaTiOn 6
+sTaTiOn 7
+sTaTiOn 8
+Horário inexistente.
+Horário inválido.
+Criação de horário com sucesso.
+Remoção de horário com sucesso.
+Criação de horário com sucesso.
+Horário inválido.
+Criação de horário com sucesso.
+Horário inválido.
+Horário inválido.
+2
+sTaTiOn 4 00:07
+sTaTiOn 5 01:08
+sTaTiOn 6 02:09
+sTaTiOn 7 03:10
+sTaTiOn 8 04:11
+102
+sTaTiOn 4 00:11
+sTaTiOn 5 01:12
+sTaTiOn 6 02:13
+sTaTiOn 7 03:14
+Estação de partida inexistente.
+102
+sTaTiOn 4 00:11
+sTaTiOn 5 01:12
+sTaTiOn 6 02:13
+sTaTiOn 7 03:14
+102
+sTaTiOn 4 00:11
+sTaTiOn 5 01:12
+sTaTiOn 6 02:13
+sTaTiOn 7 03:14
+2
+sTaTiOn 4 00:07
+sTaTiOn 5 01:08
+sTaTiOn 6 02:09
+sTaTiOn 7 03:10
+sTaTiOn 8 04:11
+2
+sTaTiOn 4 00:07
+sTaTiOn 5 01:08
+sTaTiOn 6 02:09
+sTaTiOn 7 03:10
+sTaTiOn 8 04:11
+Criação de horário com sucesso.
+Horário inválido.
+Criação de horário com sucesso.
+302
+sTaTiOn 8 00:07
+sTaTiOn 5 01:08
+sTaTiOn 4 04:11
+502
+sTaTiOn 8 00:12
+sTaTiOn 5 01:13
+Inserção de linha com sucesso.
+sTaTiOn 8
+sTaTiOn 9
+sTaTiOn 10
+sTaTiOn 11
+sTaTiOn 12
+Remoção de linha com sucesso.
+Linha inexistente.
+Inserção de linha com sucesso.
+sTaTiOn 8
+sTaTiOn 9
+sTaTiOn 10
+sTaTiOn 11
+sTaTiOn 12
+Horário inexistente.
+Horário inválido.
+Criação de horário com sucesso.
+Remoção de horário com sucesso.
+Criação de horário com sucesso.
+Horário inválido.
+Criação de horário com sucesso.
+Horário inválido.
+Horário inválido.
+3
+sTaTiOn 8 00:07
+sTaTiOn 9 01:08
+sTaTiOn 10 02:09
+sTaTiOn 11 03:10
+sTaTiOn 12 04:11
+103
+sTaTiOn 8 00:11
+sTaTiOn 9 01:12
+sTaTiOn 10 02:13
+sTaTiOn 11 03:14
+Estação de partida inexistente.
+103
+sTaTiOn 8 00:11
+sTaTiOn 9 01:12
+sTaTiOn 10 02:13
+sTaTiOn 11 03:14
+103
+sTaTiOn 8 00:11
+sTaTiOn 9 01:12
+sTaTiOn 10 02:13
+sTaTiOn 11 03:14
+3
+sTaTiOn 8 00:07
+sTaTiOn 9 01:08
+sTaTiOn 10 02:09
+sTaTiOn 11 03:10
+sTaTiOn 12 04:11
+3
+sTaTiOn 8 00:07
+sTaTiOn 9 01:08
+sTaTiOn 10 02:09
+sTaTiOn 11 03:10
+sTaTiOn 12 04:11
+Criação de horário com sucesso.
+Horário inválido.
+Criação de horário com sucesso.
+303
+sTaTiOn 12 00:07
+sTaTiOn 9 01:08
+sTaTiOn 8 04:11
+503
+sTaTiOn 12 00:12
+sTaTiOn 9 01:13
+Inserção de linha com sucesso.
+sTaTiOn 12
+sTaTiOn 13
+sTaTiOn 14
+sTaTiOn 15
+sTaTiOn 16
+Remoção de linha com sucesso.
+Linha inexistente.
+Inserção de linha com sucesso.
+sTaTiOn 12
+sTaTiOn 13
+sTaTiOn 14
+sTaTiOn 15
+sTaTiOn 16
+Horário inexistente.
+Horário inválido.
+Criação de horário com sucesso.
+Remoção de horário com sucesso.
+Criação de horário com sucesso.
+Horário inválido.
+Criação de horário com sucesso.
+Horário inválido.
+Horário inválido.
+4
+sTaTiOn 12 00:07
+sTaTiOn 13 01:08
+sTaTiOn 14 02:09
+sTaTiOn 15 03:10
+sTaTiOn 16 04:11
+104
+sTaTiOn 12 00:11
+sTaTiOn 13 01:12
+sTaTiOn 14 02:13
+sTaTiOn 15 03:14
+Estação de partida inexistente.
+104
+sTaTiOn 12 00:11
+sTaTiOn 13 01:12
+sTaTiOn 14 02:13
+sTaTiOn 15 03:14
+104
+sTaTiOn 12 00:11
+sTaTiOn 13 01:12
+sTaTiOn 14 02:13
+sTaTiOn 15 03:14
+4
+sTaTiOn 12 00:07
+sTaTiOn 13 01:08
+sTaTiOn 14 02:09
+sTaTiOn 15 03:10
+sTaTiOn 16 04:11
+4
+sTaTiOn 12 00:07
+sTaTiOn 13 01:08
+sTaTiOn 14 02:09
+sTaTiOn 15 03:10
+sTaTiOn 16 04:11
+Criação de horário com sucesso.
+Horário inválido.
+Criação de horário com sucesso.
+304
+sTaTiOn 16 00:07
+sTaTiOn 13 01:08
+sTaTiOn 12 04:11
+504
+sTaTiOn 16 00:12
+sTaTiOn 13 01:13
+Inserção de linha com sucesso.
+sTaTiOn 16
+sTaTiOn 17
+sTaTiOn 18
+sTaTiOn 19
+sTaTiOn 20
+Remoção de linha com sucesso.
+Linha inexistente.
+Inserção de linha com sucesso.
+sTaTiOn 16
+sTaTiOn 17
+sTaTiOn 18
+sTaTiOn 19
+sTaTiOn 20
+Horário inexistente.
+Horário inválido.
+Criação de horário com sucesso.
+Remoção de horário com sucesso.
+Criação de horário com sucesso.
+Horário inválido.
+Criação de horário com sucesso.
+Horário inválido.
+Horário inválido.
+5
+sTaTiOn 16 00:07
+sTaTiOn 17 01:08
+sTaTiOn 18 02:09
+sTaTiOn 19 03:10
+sTaTiOn 20 04:11
+105
+sTaTiOn 16 00:11
+sTaTiOn 17 01:12
+sTaTiOn 18 02:13
+sTaTiOn 19 03:14
+Estação de partida inexistente.
+105
+sTaTiOn 16 00:11
+sTaTiOn 17 01:12
+sTaTiOn 18 02:13
+sTaTiOn 19 03:14
+105
+sTaTiOn 16 00:11
+sTaTiOn 17 01:12
+sTaTiOn 18 02:13
+sTaTiOn 19 03:14
+5
+sTaTiOn 16 00:07
+sTaTiOn 17 01:08
+sTaTiOn 18 02:09
+sTaTiOn 19 03:10
+sTaTiOn 20 04:11
+5
+sTaTiOn 16 00:07
+sTaTiOn 17 01:08
+sTaTiOn 18 02:09
+sTaTiOn 19 03:10
+sTaTiOn 20 04:11
+Criação de horário com sucesso.
+Horário inválido.
+Criação de horário com sucesso.
+305
+sTaTiOn 20 00:07
+sTaTiOn 17 01:08
+sTaTiOn 16 04:11
+505
+sTaTiOn 20 00:12
+sTaTiOn 17 01:13
+Aplicação terminada.

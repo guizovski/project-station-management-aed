@@ -1,0 +1,1681 @@
+Rh line name 5
+sTaTiOn 16 00:05
+iH line name 5
+50000
+sTaTiOn 16 00:05
+sTaTiOn 17 01:06
+sTaTiOn 18 02:07
+sTaTiOn 19 03:08
+sTaTiOn 20 04:09
+
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:06
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:07
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:05
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:02
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:10
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:07
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:08
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:06
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:03
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:11
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:08
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:09
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:07
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:04
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:12
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:09
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:10
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:08
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:05
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:13
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:07
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:08
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:06
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:03
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:11
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:08
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:09
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:07
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:04
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:12
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:09
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:10
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:08
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:05
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:13
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:08
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:09
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:07
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:04
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:12
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:09
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:10
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:08
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:05
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:13
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:09
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:10
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:08
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:05
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:13
+Rh line name 5
+sTaTiOn 20 00:05
+iH line name 5
+123456
+sTaTiOn 20 00:05
+sTaTiOn 19 01:06
+sTaTiOn 18 02:07
+sTaTiOn 17 03:08
+sTaTiOn 16 04:09
+
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:05
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:06
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:04
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:01
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:09
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:05
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:06
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:04
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:01
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:09
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:06
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:07
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:05
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:02
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:10
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:05
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:06
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:04
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:01
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:09
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:06
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:07
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:05
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:02
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:10
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:07
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:08
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:06
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:03
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:11
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:05
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:06
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:04
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:01
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:09
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:06
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:07
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:05
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:02
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:10
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:07
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:08
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:06
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:03
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:11
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:08
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:09
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:07
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:04
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:12
+Rh line name 5
+sTaTiOn 16 00:10
+iH line name 5
+50005
+sTaTiOn 16 00:10
+sTaTiOn 17 01:11
+sTaTiOn 18 02:12
+sTaTiOn 19 03:13
+sTaTiOn 20 04:14
+
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:11
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:12
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:10
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:07
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:15
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:12
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:13
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:11
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:08
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:16
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:13
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:14
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:12
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:09
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:17
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:14
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:15
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:13
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:10
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:18
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:12
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:13
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:11
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:08
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:16
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:13
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:14
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:12
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:09
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:17
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:14
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:15
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:13
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:10
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:18
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:13
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:14
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:12
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:09
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:17
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:14
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:15
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:13
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:10
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:18
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:14
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:15
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:13
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:10
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:18
+Rh line name 5
+sTaTiOn 20 00:10
+iH line name 5
+123461
+sTaTiOn 20 00:10
+sTaTiOn 19 01:11
+sTaTiOn 18 02:12
+sTaTiOn 17 03:13
+sTaTiOn 16 04:14
+
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:10
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:11
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:09
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:06
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:14
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:10
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:11
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:09
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:06
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:14
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:11
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:12
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:10
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:07
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:15
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:10
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:11
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:09
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:06
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:14
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:11
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:12
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:10
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:07
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:15
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:12
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:13
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:11
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:08
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:16
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:10
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:11
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:09
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:06
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:14
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:11
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:12
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:10
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:07
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:15
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:12
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:13
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:11
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:08
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:16
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:13
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:14
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:12
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:09
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:17
+Rh line name 5
+sTaTiOn 16 00:15
+iH line name 5
+50010
+sTaTiOn 16 00:15
+sTaTiOn 17 01:16
+sTaTiOn 18 02:17
+sTaTiOn 19 03:18
+sTaTiOn 20 04:19
+
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:16
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:17
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:15
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:12
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:20
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:17
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:18
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:16
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:13
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:21
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:18
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:19
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:17
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:14
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:22
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:19
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:20
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:18
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:15
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:23
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:17
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:18
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:16
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:13
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:21
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:18
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:19
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:17
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:14
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:22
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:19
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:20
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:18
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:15
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:23
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:18
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:19
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:17
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:14
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:22
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:19
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:20
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:18
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:15
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:23
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:19
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:20
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:18
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:15
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:23
+Rh line name 5
+sTaTiOn 20 00:15
+iH line name 5
+123466
+sTaTiOn 20 00:15
+sTaTiOn 19 01:16
+sTaTiOn 18 02:17
+sTaTiOn 17 03:18
+sTaTiOn 16 04:19
+
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:15
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:16
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:14
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:11
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:19
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:15
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:16
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:14
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:11
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:19
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:16
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:17
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:15
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:12
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:20
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:15
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:16
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:14
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:11
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:19
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:16
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:17
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:15
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:12
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:20
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:17
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:18
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:16
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:13
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:21
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:15
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:16
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:14
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:11
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:19
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:16
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:17
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:15
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:12
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:20
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:17
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:18
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:16
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:13
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:21
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:18
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:19
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:17
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:14
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:22
+Rh line name 5
+sTaTiOn 16 00:20
+iH line name 5
+50015
+sTaTiOn 16 00:20
+sTaTiOn 17 01:21
+sTaTiOn 18 02:22
+sTaTiOn 19 03:23
+sTaTiOn 20 04:24
+
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:21
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:22
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:20
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:17
+mh line name 5
+sTaTiOn 16
+sTaTiOn 17
+01:25
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:22
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:23
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:21
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:18
+mh line name 5
+sTaTiOn 16
+sTaTiOn 18
+02:26
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:23
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:24
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:22
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:19
+mh line name 5
+sTaTiOn 16
+sTaTiOn 19
+03:27
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:24
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:25
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:23
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:20
+mh line name 5
+sTaTiOn 16
+sTaTiOn 20
+04:28
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:22
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:23
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:21
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:18
+mh line name 5
+sTaTiOn 17
+sTaTiOn 18
+02:26
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:23
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:24
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:22
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:19
+mh line name 5
+sTaTiOn 17
+sTaTiOn 19
+03:27
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:24
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:25
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:23
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:20
+mh line name 5
+sTaTiOn 17
+sTaTiOn 20
+04:28
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:23
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:24
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:22
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:19
+mh line name 5
+sTaTiOn 18
+sTaTiOn 19
+03:27
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:24
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:25
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:23
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:20
+mh line name 5
+sTaTiOn 18
+sTaTiOn 20
+04:28
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:24
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:25
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:23
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:20
+mh line name 5
+sTaTiOn 19
+sTaTiOn 20
+04:28
+Rh line name 5
+sTaTiOn 20 00:20
+iH line name 5
+123471
+sTaTiOn 20 00:20
+sTaTiOn 19 01:21
+sTaTiOn 18 02:22
+sTaTiOn 17 03:23
+sTaTiOn 16 04:24
+
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:20
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:21
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:19
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:16
+mh line name 5
+sTaTiOn 17
+sTaTiOn 16
+00:24
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:20
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:21
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:19
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:16
+mh line name 5
+sTaTiOn 18
+sTaTiOn 16
+00:24
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:21
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:22
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:20
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:17
+mh line name 5
+sTaTiOn 18
+sTaTiOn 17
+01:25
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:20
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:21
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:19
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:16
+mh line name 5
+sTaTiOn 19
+sTaTiOn 16
+00:24
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:21
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:22
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:20
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:17
+mh line name 5
+sTaTiOn 19
+sTaTiOn 17
+01:25
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:22
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:23
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:21
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:18
+mh line name 5
+sTaTiOn 19
+sTaTiOn 18
+02:26
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:20
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:21
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:19
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:16
+mh line name 5
+sTaTiOn 20
+sTaTiOn 16
+00:24
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:21
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:22
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:20
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:17
+mh line name 5
+sTaTiOn 20
+sTaTiOn 17
+01:25
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:22
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:23
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:21
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:18
+mh line name 5
+sTaTiOn 20
+sTaTiOn 18
+02:26
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:23
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:24
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:22
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:19
+mh line name 5
+sTaTiOn 20
+sTaTiOn 19
+03:27
+tA

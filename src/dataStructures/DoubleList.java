@@ -1,5 +1,9 @@
 package dataStructures;
 
+import java.io.IOException;
+import java.io.ObjectOutputStream;
+import java.io.Serial;
+
 /**
  * Doubly linked list Implementation 
  * @author AED  Team
@@ -360,6 +364,19 @@ public class DoubleList<E> implements List<E>
         }
     }
 
+    @Serial
+    private void writeObject(ObjectOutputStream out) throws IOException {
+
+        out.defaultWriteObject();
+
+        DoubleListNode<E> current = head;
+        while (current != null) {
+            out.writeObject(current.getElement());
+            current = current.getNext();
+        }
+
+        out.writeObject(null);
+    }
 
 }   
 

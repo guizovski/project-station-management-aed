@@ -1,21 +1,27 @@
 package System;
 
 import dataStructures.*;
-
 import java.io.Serial;
 
-public class StationClass implements Station {
+public class StationClass implements Station, SafeStation {
 
     @Serial
-    private static final long serialVersionUID = 0L;
+    static final long serialVersionUID = 0L;
 
-    protected OrderedDoubleList<String, Line> lines;
-    protected OrderedDoubleList<TimeTrainPair, Time> trains;
+    /** Collection of lines passing through this station, indexed by line name */
+    protected OrderedDictionary<String, Line> lines;
+    /** Collection of trains passing through this station, ordered by time */
+    protected OrderedDictionary<TimeTrainPairClass, Line> trains;
+    /** The station's unique name */
     protected String name;
 
+    /**
+     * Creates a new station with given name
+     * @param name unique name for the station
+     */
     public StationClass(String name) {
-        this.lines = new OrderedDoubleList<String, Line>();
-        this.trains = new OrderedDoubleList<TimeTrainPair, Time>();
+        this.lines = new AVLTree<String, Line>();
+        this.trains = new BinarySearchTree<TimeTrainPairClass, Line>();
         this.name = name;
     }
 
@@ -32,19 +38,24 @@ public class StationClass implements Station {
     @Override
     public void removeLine(Line line) {
         lines.remove(line.getName());
+        Iterator<Entry<TimeTrainPairClass, Line>> it = trains.iterator();
+        while(it.hasNext()) {
+            Entry<TimeTrainPairClass, Line> entry = it.next();
+            if(entry.getValue().equals(line)) trains.remove(entry.getKey());
+        }
     }
 
     @Override
-    public void addTrain(String train, Time time) {
-        TimeTrainPair key = new TimeTrainPair(time, train);
-        trains.insert(key, time);
+    public void addTrain(String train, Time time, Line line) {
+        TimeTrainPairClass key = new TimeTrainPairClass(time, train);
+        trains.insert(key, line);
     }
 
     @Override
     public void removeTrain(int train) {
-        Iterator<Entry<TimeTrainPair, Time>> it = trains.iterator();
+        Iterator<Entry<TimeTrainPairClass, Line>> it = trains.iterator();
         while(it.hasNext()) {
-            Entry<TimeTrainPair, Time> entry = it.next();
+            Entry<TimeTrainPairClass, Line> entry = it.next();
             if(entry.getKey().getTrain() == train) {
                 trains.remove(entry.getKey());
                 break;
@@ -58,7 +69,7 @@ public class StationClass implements Station {
     }
 
     @Override
-    public Iterator<Entry<TimeTrainPair, Time>> consultTrains() {
+    public Iterator<Entry<TimeTrainPairClass, Line>> consultTrains() {
         return trains.iterator();
     }
 

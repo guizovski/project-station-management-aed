@@ -79,7 +79,9 @@ public class SepChainHashTable<K extends Comparable<K>, V>
         maxSize = maxSize * 2;
         int arraySize = HashTable.nextPrime((int) (1.1 * maxSize));
         // Compiler gives a warning.
-        table = (Dictionary<K, V>[]) new Dictionary[arraySize];
+        @SuppressWarnings("unchecked")
+        Dictionary<K, V>[] newTable = (Dictionary<K, V>[]) new Dictionary[arraySize];
+        table = newTable;
 
         for (int i = 0; i < maxSize; i++)
             table[i] = new OrderedDoubleList<K,V>();
