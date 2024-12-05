@@ -84,7 +84,7 @@ public interface RailwaySystem extends Serializable {
     SafeLineIterator<TimeTrainPairClass> stationTrains(String name) throws NonexistentStationException;
 
     /**
-     * Finds best schedule between stations before given time
+     * Finds best schedule between stations closest to given time
      * @param lineName line name
      * @param departure departure station name
      * @param destination destination station name

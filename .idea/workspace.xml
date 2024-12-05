@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ecaacae-0ea5-437a-ab9e-56d65d7b6375" name="Changes" comment="Start of implementation for Safe Interfaces for Main usage">
-      <change afterPath="$PROJECT_DIR$/src/System/TimeTrainPair.java" afterDir="false" />
+    <list default="true" id="2ecaacae-0ea5-437a-ab9e-56d65d7b6375" name="Changes" comment="Fully working version of ProjectAEDFase2 (deleted storedsystem.dat for clean download)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/System/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/Line.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/System/LineClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/LineClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/System/RailwaySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/RailwaySystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/System/RailwaySystemClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/RailwaySystemClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/SafeLine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/Schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/Schedule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/ScheduleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/ScheduleClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/Station.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/Station.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/StationClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System/StationClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic test phase1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enunciadoPT.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +58,16 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.Tests.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/rochag/Desktop/NOVA/2ano/AED/ProjectAEDFase2/src/dataStructures&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rochag/Desktop/NOVA/2ano/AED/ProjectAEDFase2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -139,6 +135,9 @@
       <workItem from="1732803917042" duration="4577000" />
       <workItem from="1732808516249" duration="101000" />
       <workItem from="1732808622784" duration="859000" />
+      <workItem from="1733363867026" duration="385000" />
+      <workItem from="1733364314395" duration="618000" />
+      <workItem from="1733417001792" duration="3729000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -164,7 +163,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732202562277</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fully working version of ProjectAEDFase2">
+      <option name="closed" value="true" />
+      <created>1733364188137</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733364188137</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fully working version of ProjectAEDFase2 (deleted storedsystem.dat for clean download)">
+      <option name="closed" value="true" />
+      <created>1733364231933</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733364231933</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +199,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
     <MESSAGE value="Start of implementation for Safe Interfaces for Main usage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start of implementation for Safe Interfaces for Main usage" />
+    <MESSAGE value="Fully working version of ProjectAEDFase2" />
+    <MESSAGE value="Fully working version of ProjectAEDFase2 (deleted storedsystem.dat for clean download)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fully working version of ProjectAEDFase2 (deleted storedsystem.dat for clean download)" />
   </component>
 </project>

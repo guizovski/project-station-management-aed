@@ -128,11 +128,6 @@ public class LineClass implements Line, SafeLine {
     }
 
     @Override
-    public List<Station> getStations() {
-        return this.stations;
-    }
-
-    @Override
     public Iterator<Station> getStationsIt() {
         return stations.iterator();
     }
@@ -153,7 +148,7 @@ public class LineClass implements Line, SafeLine {
     }
 
     /**
-     * Validates a schedule by checking station order and timing
+     * Validates a schedule by checking station order, timing and overtake
      * @param scheduleStations list of stations in the schedule
      * @param scheduleTimes list of times corresponding to each station
      * @return number of validated stations

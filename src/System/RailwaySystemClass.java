@@ -46,8 +46,7 @@ public class RailwaySystemClass implements RailwaySystem {
             throw new NonexistentLineException();
 
         Line line = lines.remove(name.toUpperCase());
-        List<Station> lineStations = line.getStations();
-        Iterator<Station> it = lineStations.iterator();
+        Iterator<Station> it = line.getStationsIt();
 
         while(it.hasNext()) {
             Station station = it.next();
@@ -67,7 +66,7 @@ public class RailwaySystemClass implements RailwaySystem {
 
     @Override
     public SafeLineIterator<String> consultStation(String name) throws NonexistentStationException {
-        if(!existsStation(name))
+        if(isNonexistentStation(name))
             throw new NonexistentStationException();
 
         Station station = stations.find(name.toUpperCase());
@@ -99,7 +98,7 @@ public class RailwaySystemClass implements RailwaySystem {
 
         Line line = lines.find(lineName.toUpperCase());
 
-        if(!existsStation(stationName))
+        if(isNonexistentStation(stationName))
             throw new NonexistentScheduleException();
 
         Station station = stations.find(stationName.toUpperCase());
@@ -114,7 +113,7 @@ public class RailwaySystemClass implements RailwaySystem {
 
         if(!existsLine(lineName))
             throw new NonexistentLineException();
-        if(!existsStation(stationName))
+        if(isNonexistentStation(stationName))
             throw new NonexistentStationException();
 
         Line line = lines.find(lineName.toUpperCase());
@@ -125,7 +124,7 @@ public class RailwaySystemClass implements RailwaySystem {
 
     @Override
     public SafeLineIterator<TimeTrainPairClass> stationTrains(String name) throws NonexistentStationException {
-        if(!existsStation(name))
+        if(isNonexistentStation(name))
             throw new NonexistentStationException();
         Station station = stations.find(name.toUpperCase());
         Iterator<Entry<TimeTrainPairClass, Line>> originalIterator = station.consultTrains();
@@ -162,7 +161,7 @@ public class RailwaySystemClass implements RailwaySystem {
 
         while(it.hasNext()) {
             String name = it.next();
-            if(!existsStation(name))
+            if(isNonexistentStation(name))
                 throw new InvalidScheduleException();
             Station station = this.stations.find(name.toUpperCase());
             stationsList.addLast(station);
@@ -197,12 +196,12 @@ public class RailwaySystemClass implements RailwaySystem {
     }
 
     /**
-     * Checks if a station with the given name exists
+     * Checks if a station with the given name does not exist
      * @param stationName name of the station to check
-     * @return true if station exists, false otherwise
+     * @return true if station does not exist, false otherwise
      */
-    private boolean existsStation(String stationName) {
-        return this.stations.find(stationName.toUpperCase()) != null;
+    private boolean isNonexistentStation(String stationName) {
+        return this.stations.find(stationName.toUpperCase()) == null;
     }
 
     /**

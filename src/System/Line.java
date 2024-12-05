@@ -21,12 +21,6 @@ public interface Line extends Comparable<Line>, Serializable {
     String getName();
 
     /**
-     * Gets list of all stations in the line
-     * @return List of stations
-     */
-    List<Station> getStations();
-
-    /**
      * Gets iterator over all stations in the line
      * @return Iterator of stations
      */
@@ -39,9 +33,9 @@ public interface Line extends Comparable<Line>, Serializable {
     Iterator<Entry<String, Schedule>> getScheduleIt();
 
     /**
-     * Checks if a station is a terminal station (first or last)
+     * Checks if a station is not a terminal station (first or last)
      * @param station station to check
-     * @return true if station is terminal, false otherwise
+     * @return true if station is not terminal, false otherwise
      */
     boolean isNotDepartingStation(Station station);
 
@@ -72,7 +66,7 @@ public interface Line extends Comparable<Line>, Serializable {
     Iterator<Entry<Time, Schedule>> consultSchedules(Station station) throws NonexistentStationException;
 
     /**
-     * Finds best schedule between two stations before given time
+     * Finds best schedule between two stations closest to given time
      * @param departure departure station
      * @param destination destination station
      * @param time arrival time limit
@@ -84,9 +78,9 @@ public interface Line extends Comparable<Line>, Serializable {
             throws NonexistentStationException, ImpossibleRouteException;
 
     /**
-     * Checks if a station exists in this line
+     * Checks if a station does not exist in this line
      * @param station station to check
-     * @return true if station exists in line, false otherwise
+     * @return true if station does not exist in line, false otherwise
      */
     boolean isNonexistentStation(Station station);
 }
