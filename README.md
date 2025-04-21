@@ -22,7 +22,12 @@ cd project-station-management-aed
 ```
 Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
 
-Build and run the project.
+Or just build and run the project.
+
+```bash
+javac main.java
+java main
+```
 
 Execute the unit tests to verify the functionality:
 
