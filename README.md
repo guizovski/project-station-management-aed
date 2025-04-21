@@ -39,6 +39,7 @@ Example for Maven
 mvn test
 ```
 
+
 📚 My Role
 As a Computer Engineering student at NOVA FCT, I contributed to this project by:
 
@@ -47,6 +48,7 @@ Designing and implementing various data structures and algorithms to manage stat
 Writing comprehensive unit tests to validate the functionality and performance of the system.
 
 Documenting the codebase to ensure clarity and maintainability.
+
 
 📈 Connect with Me
 GitHub: @guizovski
