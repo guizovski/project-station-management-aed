@@ -13,28 +13,24 @@ JUnit: Utilised for unit testing to ensure the reliability and correctness of th
 To set up and run the project locally:
 
 Clone the repository:
-
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/guizovski/project-station-management-aed.git
+```
 Navigate to the project directory:
-
-bash
-Copy
-Edit
+```bash
 cd project-station-management-aed
+```
 Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
 
 Build and run the project.
 
 Execute the unit tests to verify the functionality:
 
-bash
-Copy
-Edit
-# Example for Maven
+Example for Maven
+```bash
 mvn test
+```
+
 📚 My Role
 As a Computer Engineering student at NOVA FCT, I contributed to this project by:
 
