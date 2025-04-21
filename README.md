@@ -9,7 +9,7 @@ Java: The primary programming language used for implementing the system.
 
 JUnit: Utilised for unit testing to ensure the reliability and correctness of the codebase.
 
-# 🚀 Getting Started
+### 🚀 Getting Started
 To set up and run the project locally:
 
 Clone the repository:
@@ -39,8 +39,7 @@ Example for Maven
 mvn test
 ```
 
-
-# 📚 My Role
+### 📚 My Role
 As a Computer Engineering student at NOVA FCT, I contributed to this project by:
 
 Designing and implementing various data structures and algorithms to manage station operations.
@@ -49,8 +48,7 @@ Writing comprehensive unit tests to validate the functionality and performance o
 
 Documenting the codebase to ensure clarity and maintainability.
 
-
-# 📈 Connect with Me
+### 📈 Connect with Me
 GitHub: @guizovski
 
 LinkedIn: [Coming soon]
