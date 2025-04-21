@@ -22,10 +22,13 @@ cd project-station-management-aed
 ```
 Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
 
-Or just build and run the project.
+Or just build and run the project (you have to be in /src).
 
 ```bash
-javac src/Main.java
+javac Main.java
+```
+
+```bash
 java Main
 ```
 
