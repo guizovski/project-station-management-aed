@@ -1,4 +1,4 @@
-### Project Station Management AED
+## Project Station Management AED
 This project was developed as part of the Algorithms and Data Structures (AED) course at NOVA FCT, where I am pursuing my Computer Engineering degree. The project focuses on implementing efficient data structures and algorithms to manage and optimise station operations.
 
 ### 🧠 Project Overview
