@@ -25,8 +25,8 @@ Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
 Or just build and run the project.
 
 ```bash
-javac main.java
-java main
+javac src/Main.java
+java Main
 ```
 
 Execute the unit tests to verify the functionality:
